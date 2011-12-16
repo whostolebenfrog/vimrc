@@ -1,1 +1,15 @@
 Vim configuration project. Holds vim plugins and configuration.
+
+More docs at:
+http://www.allenwei.cn/tips-using-git-submodule-keep-your-plugin-up-to-date/
+
+Add a submodule from git:
+git submodule add git://github.com/tpope/vim-fugitive.git .vim/bundle/fugitive
+
+then:
+
+git submodule init
+
+updates with:
+
+git submodule update
