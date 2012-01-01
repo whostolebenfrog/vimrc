@@ -11,3 +11,7 @@ source $VIMRUNTIME/mswin.vim
 
 " Colour scheme
 :colorscheme ansi_blows
+
+" Tab settings
+:set tabstop=3
+" :set expandtab  " spaces rather than tabs
