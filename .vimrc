@@ -14,4 +14,5 @@ source $VIMRUNTIME/mswin.vim
 
 " Tab settings
 :set tabstop=3
+:set shiftwidth=3
 " :set expandtab  " spaces rather than tabs
