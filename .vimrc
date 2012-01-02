@@ -20,3 +20,10 @@ source $VIMRUNTIME/mswin.vim
 " Don't display menus
 :set guioptions-=m "remove menu bar
 :set guioptions-=T "remove toolbar
+
+" Nerdtree
+let NERDTreeIgnore = ['\.pyc$', '\~$', '\.rbc$']
+noremap <Leader>n :NERDTreeToggle<CR>
+noremap <Leader>D :NERDTreeFind<cr>
+let NERDTreeMinimalUI=1
+let NERDTreeDirArrows=1
