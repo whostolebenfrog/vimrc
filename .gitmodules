@@ -1,8 +1,8 @@
 [submodule "/home/ben/.vim/bundle/surround"]
-	path = /home/ben/.vim/bundle/surround
+	path = bundle/surround
 	url = https://github.com/tpope/vim-surround.git
 [submodule "/home/ben/.vim/bundle/zencoding"]
-	path = /home/ben/.vim/bundle/zencoding
+	path =bundle/zencoding
 	url = http://github.com/mattn/zencoding-vim
 [submodule "bundle/delmitmate"]
 	path = bundle/delmitmate
