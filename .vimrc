@@ -5,6 +5,9 @@ call pathogen#infect()
 syntax on
 filetype plugin indent on
 
+" Line numbers
+set nu
+
 " Play like it's not 1970
 :behave mswin
 source $VIMRUNTIME/mswin.vim
@@ -13,9 +16,9 @@ source $VIMRUNTIME/mswin.vim
 :colorscheme ansi_blows
 
 " Tab settings
-:set tabstop=3
-:set shiftwidth=3
-" :set expandtab  " spaces rather than tabs
+:set tabstop=4
+:set shiftwidth=4
+:set expandtab  " spaces rather than tabs
 
 " Don't display menus
 :set guioptions-=m "remove menu bar
