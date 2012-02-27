@@ -1,0 +1,4 @@
+imap <C-r><C-r> <ESC>$a;
+nmap <C-r><C-r> <ESC>$a;<ESC>
+nmap <C-r><C-i> 0f*2why$/@return<ENTER>$p
+imap <C-r><C-i> <ESC>0f*2why$/@return<ENTER>$p
