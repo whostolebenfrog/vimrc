@@ -13,9 +13,9 @@ source $VIMRUNTIME/mswin.vim
 :colorscheme ansi_blows
 
 " Tab settings
-:set tabstop=3
-:set shiftwidth=3
-" :set expandtab  " spaces rather than tabs
+:set tabstop=4
+:set shiftwidth=4
+:set expandtab  " spaces rather than tabs
 
 " Don't display menus
 :set guioptions-=m "remove menu bar
@@ -27,3 +27,6 @@ noremap <Leader>n :NERDTreeToggle<CR>
 noremap <Leader>D :NERDTreeFind<cr>
 let NERDTreeMinimalUI=1
 let NERDTreeDirArrows=1
+
+" PrettyXml
+source ~/.vim/prettyxml
