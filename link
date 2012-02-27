@@ -1,0 +1,5 @@
+#!/bin/bash
+./gitalias
+ln -s .vimrc ../.vimrc
+ln -s autokey.json ../.config/autokey/autokey.json
+ln -s .viablerc ../.viablerc
