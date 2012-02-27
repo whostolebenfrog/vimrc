@@ -5,6 +5,9 @@ call pathogen#infect()
 syntax on
 filetype plugin indent on
 
+" Line numbers
+set nu
+
 " Play like it's not 1970
 :behave mswin
 source $VIMRUNTIME/mswin.vim
