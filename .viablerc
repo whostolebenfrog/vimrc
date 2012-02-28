@@ -1,6 +1,11 @@
 imap <C-r><C-r> <ESC>$a;
 nmap <C-r><C-r> <ESC>$a;<ESC>
-nmap <C-r><C-i> 0f*2why$/@return<ENTER>$p
+
 imap <C-r><C-i> <ESC>0f*2why$/@return<ENTER>$p
-imap <C-R><C-p> <ESC>0f<LT>yf<GT>f(P
-nmap <C-R><C-p> <ESC>0f<LT>yf<GT>f(P
+nmap <C-r><C-i> 0f*2why$/@return<ENTER>$p
+
+imap <C-r><C-p> <ESC>0f<LT>yf<GT>f(P
+nmap <C-r><C-p> <ESC>0f<LT>yf<GT>f(P
+
+imap <C-r><C-u> <ESC>A<SPACE>{<RETURN>
+nmap <C-r><C-u> <ESC>A<SPACE>{<RETURN><ESC>
