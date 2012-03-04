@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="DimensionService">
+    <location key="replaceTextDialog.0.0.1366.768" x="469" y="160" />
+    <location key="VCS.ChangeListViewerDialog.0.0.1366.768" x="466" y="100" />
+    <location key="FileChooserDialogImpl.0.0.1366.768" x="458" y="123" />
+    <location key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor.0.0.1366.768" x="262" y="41" />
+    <location key="#Browse_Repositories.0.0.1366.768" x="196" y="40" />
+    <location key="com.intellij.ide.passwordSafe.impl.providers.masterKey.ResetPasswordDialog.0.0.1366.768" x="499" y="299" />
+    <location key="FileChooserDialogImpl" x="377" y="113" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1366.768" x="491" y="92" />
+    <location key="OptionsEditor.0.0.1366.768" x="0" y="0" />
+    <location key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog.0.0.1366.768" x="496" y="272" />
+    <size key="replaceTextDialog.0.0.1366.768" width="419" height="450" />
+    <size key="VCS.ChangeListViewerDialog.0.0.1366.768" width="426" height="571" />
+    <size key="FileChooserDialogImpl.0.0.1366.768" width="426" height="525" />
+    <size key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor.0.0.1366.768" width="826" height="688" />
+    <size key="#Browse_Repositories.0.0.1366.768" width="826" height="688" />
+    <size key="com.intellij.ide.passwordSafe.impl.providers.masterKey.ResetPasswordDialog.0.0.1366.768" width="359" height="173" />
+    <size key="FileChooserDialogImpl" width="604" height="545" />
+    <size key="#com.intellij.ide.util.MemberChooser.0.0.1366.768" width="376" height="587" />
+    <size key="OptionsEditor.0.0.1366.768" width="1226" height="768" />
+    <size key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog.0.0.1366.768" width="366" height="226" />
+  </component>
+  <component name="LafManager">
+    <laf class-name="com.sun.java.swing.plaf.nimbus.NimbusLookAndFeel" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Non-Project Files" value="Yellow" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="installation.uid" value="21a2305d-0358-4c53-bcf8-2bd3e27f9ccb" />
+    <property name="FileTemplates.CurrentTab" value="Java EE" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="file.colors.enable.tests" value="Green" />
+    <property name="file.colors.enable.non.project" value="Yellow" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="project.jdk.splitter" value="0.2" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="Tests" value="Green" />
+    <property name="default.storage.format" value=".idea (directory based)" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="Maven Profiles" />
+  </component>
+</application>
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="PluginManagerConfigurable" proportions="0.5" version="1">
+    <option name="AVAILABLE_SORT_MODE" value="0" />
+    <option name="AVAILABLE_SORT_BY_STATUS" value="false" />
+    <option name="myOutdatedPlugins">
+      <value>
+        <list size="0" />
+      </value>
+    </option>
+    <option name="myInstalledPlugins">
+      <value>
+        <list size="3">
+          <item index="0" class="java.lang.String" itemvalue="GenerateToString" />
+          <item index="1" class="java.lang.String" itemvalue="XSLT-Debugger" />
+          <item index="2" class="java.lang.String" itemvalue="IdeaVIM" />
+        </list>
+      </value>
+    </option>
+    <available-proportions proportions="0.5" version="1" />
+  </component>
+</application>
+

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="VimSettings">
+    <state enabled="true" keymap="$default" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/workspace/http-status-codes/src/main/java/com/floatbackwards/statuscodes/service/HttpStatusCodesServiceResource.java" timestamp="1330880599054">
+        <mark key="]" line="24" column="0" />
+        <mark key="[" line="24" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1330879167370">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/http-status-codes/src/main/java/com/floatbackwards/statuscodes/HttpStatus.java" timestamp="1330881863102">
+        <mark key="'" line="40" column="4" />
+        <mark key="]" line="58" column="107" />
+        <mark key="^" line="58" column="107" />
+        <mark key="[" line="58" column="100" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1330879015455">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1330879317375">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="58" column="4" filename="$USER_HOME$/workspace/http-status-codes/src/main/java/com/floatbackwards/statuscodes/HttpStatus.java" />
+      <jump line="53" column="4" filename="$USER_HOME$/workspace/http-status-codes/src/main/java/com/floatbackwards/statuscodes/HttpStatus.java" />
+      <jump line="127" column="21" filename="$USER_HOME$/workspace/http-status-codes/src/main/java/com/floatbackwards/statuscodes/HttpStatus.java" />
+      <jump line="8" column="0" filename="$USER_HOME$/workspace/http-status-codes/src/main/java/com/floatbackwards/statuscodes/HttpStatus.java" />
+      <jump line="22" column="4" filename="$USER_HOME$/workspace/http-status-codes/src/main/java/com/floatbackwards/statuscodes/HttpStatus.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/http-status-codes/src/main/java/com/floatbackwards/statuscodes/HttpStatus.java" />
+      <jump line="40" column="4" filename="$USER_HOME$/workspace/http-status-codes/src/main/java/com/floatbackwards/statuscodes/HttpStatus.java" />
+    </jumps>
+    <registers>
+      <register name="3" type="2">
+        <text><![CDATA[&#9;/**&#10;&#9;&#32;*&#32;Returns&#32;a&#32;{@link&#32;Response}&#32;object&#32;with&#32;the&#32;supplied&#32;HTTP&#32;status&#32;code&#32;and&#10;&#9;&#32;*&#32;json&#32;body&#32;detailing&#32;the&#32;request&#32;information&#10;&#9;&#32;*&#32;&#10;&#9;&#32;*&#32;@param&#32;statusCode&#10;&#9;&#32;*&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;the&#32;status&#32;code&#32;we&#32;will&#32;return&#10;]]></text>
+      </register>
+      <register name="&quot;" type="16">
+        <text><![CDATA[reponse]]></text>
+      </register>
+      <register name="2" type="16">
+        <text><![CDATA[Requeste]]></text>
+      </register>
+      <register name="1" type="16">
+        <text><![CDATA[reponse]]></text>
+      </register>
+      <register name="6" type="2">
+        <text><![CDATA[&#32;&#32;&#32;&#32;hello&#10;]]></text>
+      </register>
+      <register name="5" type="2">
+        <text><![CDATA[&#32;&#32;&#32;&#32;&#10;]]></text>
+      </register>
+      <register name="4" type="2">
+        <text><![CDATA[&#10;]]></text>
+      </register>
+      <register name=":" type="4">
+        <text><![CDATA[wq]]></text>
+      </register>
+      <register name="/" type="4">
+        <text><![CDATA[HttpV]]></text>
+      </register>
+    </registers>
+    <search>
+      <last-search><![CDATA[HttpV]]></last-search>
+      <last-offset />
+      <last-pattern><![CDATA[HttpV]]></last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry><![CDATA[\<HttpVersionNotSupported\>]]></entry>
+        <entry><![CDATA[HttpVersionN]]></entry>
+        <entry><![CDATA[HttpV]]></entry>
+      </history-search>
+      <history-cmd>
+        <entry><![CDATA[set&#32;nu]]></entry>
+        <entry><![CDATA[vs]]></entry>
+        <entry><![CDATA[w]]></entry>
+        <entry><![CDATA[wq]]></entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+</application>
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="language-level">
+      <project id="http-status-codes" values="6.0 - @Override in interfaces, etc.,5.0 - 'enum' keyword, autoboxing" />
+    </group>
+    <group name="vcs">
+      <project id="http-status-codes" values="Git" />
+    </group>
+    <group name="module type">
+      <project id="http-status-codes" values="JAVA_MODULE" />
+    </group>
+    <group name="file-type">
+      <project id="http-status-codes" values="JAVA,UNKNOWN,Eclipse,IDEA_MODULE,XML,PLAIN_TEXT" />
+    </group>
+  </component>
+</application>
+
