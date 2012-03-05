@@ -11,6 +11,7 @@
     <location key="#com.intellij.ide.util.MemberChooser.0.0.1366.768" x="491" y="92" />
     <location key="OptionsEditor.0.0.1366.768" x="0" y="0" />
     <location key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog.0.0.1366.768" x="496" y="272" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1366.768" x="266" y="38" />
     <size key="replaceTextDialog.0.0.1366.768" width="419" height="450" />
     <size key="VCS.ChangeListViewerDialog.0.0.1366.768" width="426" height="571" />
     <size key="FileChooserDialogImpl.0.0.1366.768" width="426" height="525" />
@@ -21,6 +22,7 @@
     <size key="#com.intellij.ide.util.MemberChooser.0.0.1366.768" width="376" height="587" />
     <size key="OptionsEditor.0.0.1366.768" width="1226" height="768" />
     <size key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog.0.0.1366.768" width="366" height="226" />
+    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1366.768" width="826" height="695" />
   </component>
   <component name="LafManager">
     <laf class-name="com.sun.java.swing.plaf.nimbus.NimbusLookAndFeel" />
@@ -35,6 +37,7 @@
     <property name="file.colors.enable.non.project" value="Yellow" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="project.jdk.splitter" value="0.2" />
+    <property name="RunConfigurable.dividerProportion" value="0.3" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="Tests" value="Green" />
     <property name="default.storage.format" value=".idea (directory based)" />

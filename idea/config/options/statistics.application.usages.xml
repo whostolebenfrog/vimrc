@@ -2,7 +2,7 @@
 <application>
   <component name="StatisticsApplicationUsages">
     <group name="language-level">
-      <project id="http-status-codes" values="6.0 - @Override in interfaces, etc.,5.0 - 'enum' keyword, autoboxing" />
+      <project id="http-status-codes" values="6.0 - @Override in interfaces,5.0 - 'enum' keyword, autoboxing, etc." />
     </group>
     <group name="vcs">
       <project id="http-status-codes" values="Git" />
@@ -11,7 +11,7 @@
       <project id="http-status-codes" values="JAVA_MODULE" />
     </group>
     <group name="file-type">
-      <project id="http-status-codes" values="JAVA,UNKNOWN,Eclipse,IDEA_MODULE,XML,PLAIN_TEXT" />
+      <project id="http-status-codes" values="PLAIN_TEXT,IDEA_MODULE,UNKNOWN,Eclipse,JAVA,XML" />
     </group>
   </component>
 </application>

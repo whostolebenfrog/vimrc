@@ -12,6 +12,9 @@ set nu
 :behave mswin
 source $VIMRUNTIME/mswin.vim
 
+" Remove select all from mswin in favour of increment
+nunmap <C-A>
+
 " Colour scheme
 :colorscheme ansi_blows
 
@@ -33,3 +36,4 @@ let NERDTreeDirArrows=1
 
 " PrettyXml
 source ~/.vim/prettyxml
+

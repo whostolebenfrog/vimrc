@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <versions>
-  <component name="AntConfiguration" version="1330881148612" />
+  <component name="AntConfiguration" version="1330900491095" />
   <component name="ChangeListManager" version="1330883310514" />
   <component name="ChangesViewManager" version="1330883310515" />
   <component name="CompilerConfiguration" version="1330883310517" />
@@ -10,7 +10,7 @@
   <component name="Encoding" version="1330883310520" />
   <component name="EntryPointsManager" version="1330883310520" />
   <component name="FavoritesManager" version="1330883310520" />
-  <component name="FileEditorManager" version="1330883702971" />
+  <component name="FileEditorManager" version="1330900550972" />
   <component name="FindManager" version="1330883310522" />
   <component name="Git.Settings" version="1330883310523" />
   <component name="IdeDocumentHistory" version="1330883310524" />
@@ -26,18 +26,18 @@
   <component name="ProjectResources" version="1330883310582" />
   <component name="ProjectRootManager" version="1330883310582" />
   <component name="ProjectView" version="1330883310583" />
-  <component name="PropertiesComponent" version="1330883310583" />
-  <component name="RunManager" version="1330883310588" />
+  <component name="PropertiesComponent" version="1330900491113" />
+  <component name="RunManager" version="1330900491116" />
   <component name="ShelveChangesManager" version="1330883310588" />
-  <component name="SvnConfiguration" version="1330881812346" />
+  <component name="SvnConfiguration" version="1330900491117" />
   <component name="TaskManager" version="1330883310593" />
-  <component name="ToolWindowManager" version="1330883702979" />
+  <component name="ToolWindowManager" version="1330900491121" />
   <component name="VcsContentAnnotationSettings" version="1330883310594" />
   <component name="VcsDirectoryMappings" version="1330883310594" />
   <component name="VcsManagerConfiguration" version="1330883310594" />
   <component name="XDebuggerManager" version="1330883310595" />
-  <component name="antWorkspaceConfiguration" version="1330881148624" />
-  <component name="editorHistoryManager" version="1330883702981" />
+  <component name="antWorkspaceConfiguration" version="1330900491126" />
+  <component name="editorHistoryManager" version="1330900550980" />
   <component name="masterDetails" version="1330881527659" />
 </versions>
 
