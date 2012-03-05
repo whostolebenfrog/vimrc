@@ -196,7 +196,7 @@
                     "showInTrayMenu": false
                 }
             ], 
-            "usageCount": 1868, 
+            "usageCount": 2317, 
             "modes": [
                 3
             ], 
@@ -217,7 +217,7 @@
             }, 
             "items": [
                 {
-                    "usageCount": 1621, 
+                    "usageCount": 2070, 
                     "omitTrigger": false, 
                     "prompt": false, 
                     "description": "Viable escape", 
@@ -233,7 +233,7 @@
                         "hotKey": "<escape>", 
                         "modifiers": []
                     }, 
-                    "phrase": "<escape><escape><escape><escape><escape>", 
+                    "phrase": "<escape><escape><escape><escape><escape><escape>", 
                     "modes": [
                         3
                     ], 
@@ -277,7 +277,7 @@
         "isFirstRun": false, 
         "sortByUsageCount": true, 
         "notificationIcon": "/usr/share/pixmaps/akicon.png", 
-        "hPanePosition": 411, 
+        "hPanePosition": 409, 
         "menuTakesFocus": false
     }, 
     "userCodeDir": null, 

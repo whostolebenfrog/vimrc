@@ -2,32 +2,31 @@
 <application>
   <component name="ProjectJdkTable">
     <jdk version="2">
-      <name value="1.7" />
+      <name value="Oracle 1.6" />
       <type value="JavaSDK" />
-      <version value="java version &quot;1.7.0_03&quot;" />
-      <homePath value="/usr/lib/jvm/jdk1.7.0_03" />
+      <version value="java version &quot;1.6.0_30&quot;" />
+      <homePath value="/usr/lib/jvm/java-6-oracle/jdk1.6.0_30" />
       <roots>
         <annotationsPath>
           <root type="composite" />
         </annotationsPath>
         <classPath>
           <root type="composite">
-            <root type="simple" url="jar:///usr/lib/jvm/jdk1.7.0_03/jre/lib/charsets.jar!/" />
-            <root type="simple" url="jar:///usr/lib/jvm/jdk1.7.0_03/jre/lib/alt-rt.jar!/" />
-            <root type="simple" url="jar:///usr/lib/jvm/jdk1.7.0_03/jre/lib/plugin.jar!/" />
-            <root type="simple" url="jar:///usr/lib/jvm/jdk1.7.0_03/jre/lib/rt.jar!/" />
-            <root type="simple" url="jar:///usr/lib/jvm/jdk1.7.0_03/jre/lib/management-agent.jar!/" />
-            <root type="simple" url="jar:///usr/lib/jvm/jdk1.7.0_03/jre/lib/jsse.jar!/" />
-            <root type="simple" url="jar:///usr/lib/jvm/jdk1.7.0_03/jre/lib/jce.jar!/" />
-            <root type="simple" url="jar:///usr/lib/jvm/jdk1.7.0_03/jre/lib/deploy.jar!/" />
-            <root type="simple" url="jar:///usr/lib/jvm/jdk1.7.0_03/jre/lib/resources.jar!/" />
-            <root type="simple" url="jar:///usr/lib/jvm/jdk1.7.0_03/jre/lib/javaws.jar!/" />
-            <root type="simple" url="jar:///usr/lib/jvm/jdk1.7.0_03/jre/lib/ext/dnsns.jar!/" />
-            <root type="simple" url="jar:///usr/lib/jvm/jdk1.7.0_03/jre/lib/ext/sunjce_provider.jar!/" />
-            <root type="simple" url="jar:///usr/lib/jvm/jdk1.7.0_03/jre/lib/ext/localedata.jar!/" />
-            <root type="simple" url="jar:///usr/lib/jvm/jdk1.7.0_03/jre/lib/ext/sunpkcs11.jar!/" />
-            <root type="simple" url="jar:///usr/lib/jvm/jdk1.7.0_03/jre/lib/ext/zipfs.jar!/" />
-            <root type="simple" url="jar:///usr/lib/jvm/jdk1.7.0_03/jre/lib/ext/sunec.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-6-oracle/jdk1.6.0_30/jre/lib/charsets.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-6-oracle/jdk1.6.0_30/jre/lib/resources.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-6-oracle/jdk1.6.0_30/jre/lib/alt-rt.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-6-oracle/jdk1.6.0_30/jre/lib/jsse.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-6-oracle/jdk1.6.0_30/jre/lib/alt-string.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-6-oracle/jdk1.6.0_30/jre/lib/jce.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-6-oracle/jdk1.6.0_30/jre/lib/rt.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-6-oracle/jdk1.6.0_30/jre/lib/deploy.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-6-oracle/jdk1.6.0_30/jre/lib/management-agent.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-6-oracle/jdk1.6.0_30/jre/lib/plugin.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-6-oracle/jdk1.6.0_30/jre/lib/javaws.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-6-oracle/jdk1.6.0_30/jre/lib/ext/sunpkcs11.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-6-oracle/jdk1.6.0_30/jre/lib/ext/localedata.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-6-oracle/jdk1.6.0_30/jre/lib/ext/sunjce_provider.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-6-oracle/jdk1.6.0_30/jre/lib/ext/dnsns.jar!/" />
           </root>
         </classPath>
         <javadocPath>
@@ -35,7 +34,47 @@
         </javadocPath>
         <sourcePath>
           <root type="composite">
-            <root type="simple" url="jar:///usr/lib/jvm/jdk1.7.0_03/src.zip!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-6-oracle/jdk1.6.0_30/src.zip!/" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Oracle 1.7" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.7.0&quot;" />
+      <homePath value="/usr/lib/jvm/java-7-oracle" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar:///usr/lib/jvm/java-7-oracle/jre/lib/charsets.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-7-oracle/jre/lib/resources.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-7-oracle/jre/lib/alt-rt.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-7-oracle/jre/lib/jsse.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-7-oracle/jre/lib/jce.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-7-oracle/jre/lib/rt.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-7-oracle/jre/lib/deploy.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-7-oracle/jre/lib/management-agent.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-7-oracle/jre/lib/plugin.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-7-oracle/jre/lib/javaws.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-7-oracle/jre/lib/ext/sunpkcs11.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-7-oracle/jre/lib/ext/localedata.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-7-oracle/jre/lib/ext/sunec.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-7-oracle/jre/lib/ext/sunjce_provider.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-7-oracle/jre/lib/ext/zipfs.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-7-oracle/jre/lib/ext/dnsns.jar!/" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="jar:///usr/lib/jvm/java-7-oracle/src.zip!/" />
           </root>
         </sourcePath>
       </roots>

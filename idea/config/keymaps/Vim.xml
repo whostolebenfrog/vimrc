@@ -36,6 +36,10 @@
   <action id="EditorDeleteLine" />
   <action id="EditorDeleteToWordEnd" />
   <action id="EditorDeleteToWordStart" />
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="DOWN" />
+    <keyboard-shortcut first-keystroke="control J" />
+  </action>
   <action id="EditorDownWithSelection" />
   <action id="EditorDuplicate" />
   <action id="EditorIndentSelection" />
@@ -73,6 +77,10 @@
   <action id="EditorUnSelectWord" />
   <action id="EditorUndo" />
   <action id="EditorUnindentSelection" />
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="UP" />
+    <keyboard-shortcut first-keystroke="control K" />
+  </action>
   <action id="EditorUpWithSelection" />
   <action id="Find" />
   <action id="FindNext">
@@ -153,8 +161,6 @@
     <keyboard-shortcut first-keystroke="control H" />
     <keyboard-shortcut first-keystroke="control HOME" />
     <keyboard-shortcut first-keystroke="control I" />
-    <keyboard-shortcut first-keystroke="control J" />
-    <keyboard-shortcut first-keystroke="control K" />
     <keyboard-shortcut first-keystroke="control L" />
     <keyboard-shortcut first-keystroke="control LEFT" />
     <keyboard-shortcut first-keystroke="control M" />
