@@ -96,7 +96,7 @@
   <action id="ImplementMethods">
     <keyboard-shortcut first-keystroke="shift control I" />
   </action>
-  <action id="InsertLiveTemplate" />
+  <action id="InsertLiveTemplate" first-keystroke="control ]" />
   <action id="MethodHierarchy.ImplementMethodAction" />
   <action id="MethodHierarchy.OverrideMethodAction" />
   <action id="OverrideMethods">

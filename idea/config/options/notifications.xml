@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <application>
   <component name="NotificationConfiguration">
-    <notification groupId="IDE Usage Statistics" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="Test Runner" displayType="NONE" />
+    <notification groupId="Compiler" displayType="NONE" />
     <notification groupId="Maven Import" displayType="STICKY_BALLOON" />
     <notification groupId="External Executable Critical Failures" displayType="TOOL_WINDOW" />
     <notification groupId="Git Important Errors" displayType="STICKY_BALLOON" />
     <notification groupId="Git Messages" displayType="TOOL_WINDOW" />
+    <notification groupId="IDE Usage Statistics" displayType="STICKY_BALLOON" shouldLog="false" />
     <notification groupId="Framework Detection" />
     <notification groupId="IDE Fatal Errors" displayType="NONE" />
     <notification groupId="Groovy DSL errors" />
     <notification groupId="ideavim" />
-    <notification groupId="Compiler" displayType="NONE" />
-    <notification groupId="Test Runner" displayType="NONE" />
     <toolWindow group="Git Messages" />
     <toolWindow group="External Executable Critical Failures" />
   </component>

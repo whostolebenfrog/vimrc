@@ -3,7 +3,7 @@
   <component name="StatisticsApplicationUsages">
     <group name="language-level">
       <project id="ddex-interpreter-parent" values="6.0 - @Override in interfaces" />
-      <project id="http-status-codes" values=" autoboxing,5.0 - 'enum' keyword,6.0 - @Override in interfaces, etc." />
+      <project id="http-status-codes" values="6.0 - @Override in interfaces, etc.,5.0 - 'enum' keyword, autoboxing" />
     </group>
     <group name="vcs">
       <project id="ddex-interpreter-parent" values="Git" />
@@ -14,8 +14,8 @@
       <project id="http-status-codes" values="JAVA_MODULE" />
     </group>
     <group name="file-type">
-      <project id="ddex-interpreter-parent" values="Properties,IDEA_MODULE,JAVA,UNKNOWN,ARCHIVE,XML,PLAIN_TEXT,Eclipse" />
-      <project id="http-status-codes" values="IDEA_MODULE,UNKNOWN,PLAIN_TEXT,Eclipse,XML,JAVA" />
+      <project id="ddex-interpreter-parent" values="IDEA_MODULE,Eclipse,PLAIN_TEXT,UNKNOWN,XML,Properties,ARCHIVE,JAVA" />
+      <project id="http-status-codes" values="UNKNOWN,Eclipse,IDEA_MODULE,JAVA,XML,PLAIN_TEXT" />
     </group>
     <group name="run-configuration-type-temp">
       <project id="ddex-interpreter-parent" values="JUnit" />
@@ -23,7 +23,8 @@
   </component>
   <component name="UsageTrigger">
     <counts>
-      <entry feature="execute.JUnit.Run" count="7" />
+      <entry feature="execute.JUnit.Debug" count="12" />
+      <entry feature="execute.JUnit.Run" count="45" />
     </counts>
   </component>
 </application>

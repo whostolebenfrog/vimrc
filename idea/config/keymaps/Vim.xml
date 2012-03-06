@@ -21,7 +21,11 @@
   <action id="ClearCase.CheckInProject" />
   <action id="CodeCompletion" />
   <action id="CommanderSwapPanels" />
+  <action id="Console.TableResult.Reload" />
   <action id="ContextHelp" />
+  <action id="DebugClass">
+    <keyboard-shortcut first-keystroke="control R" second-keystroke="control D" />
+  </action>
   <action id="EditorBackSpace">
     <keyboard-shortcut first-keystroke="BACK_SPACE" />
   </action>
@@ -105,6 +109,12 @@
     <keyboard-shortcut first-keystroke="shift control I" />
   </action>
   <action id="InsertLiveTemplate" />
+  <action id="Macro.complete braces">
+    <keyboard-shortcut first-keystroke="control R" second-keystroke="control P" />
+  </action>
+  <action id="Macro.complete java statement">
+    <keyboard-shortcut first-keystroke="control R" second-keystroke="control O" />
+  </action>
   <action id="MethodHierarchy.ImplementMethodAction">
     <keyboard-shortcut first-keystroke="shift control I" />
   </action>
@@ -122,6 +132,10 @@
   </action>
   <action id="RecentFiles" />
   <action id="Replace" />
+  <action id="RunClass">
+    <keyboard-shortcut first-keystroke="shift control F10" />
+    <keyboard-shortcut first-keystroke="control R" second-keystroke="control R" />
+  </action>
   <action id="SaveAll" />
   <action id="SmartTypeCompletion" />
   <action id="Starteam.CheckinProject" />
@@ -171,7 +185,6 @@
     <keyboard-shortcut first-keystroke="control PAGE_DOWN" />
     <keyboard-shortcut first-keystroke="control PAGE_UP" />
     <keyboard-shortcut first-keystroke="control Q" />
-    <keyboard-shortcut first-keystroke="control R" />
     <keyboard-shortcut first-keystroke="control RIGHT" />
     <keyboard-shortcut first-keystroke="control S" />
     <keyboard-shortcut first-keystroke="control SPACE" />

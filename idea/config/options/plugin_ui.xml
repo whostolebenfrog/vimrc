@@ -10,10 +10,11 @@
     </option>
     <option name="myInstalledPlugins">
       <value>
-        <list size="3">
+        <list size="4">
           <item index="0" class="java.lang.String" itemvalue="GenerateToString" />
           <item index="1" class="java.lang.String" itemvalue="XSLT-Debugger" />
           <item index="2" class="java.lang.String" itemvalue="IdeaVIM" />
+          <item index="3" class="java.lang.String" itemvalue="Key promoter" />
         </list>
       </value>
     </option>

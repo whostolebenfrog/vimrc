@@ -8,9 +8,13 @@
     <location key="#Browse_Repositories.1920.0.1920.1080" x="2378" y="209" />
     <location key="FileChooserDialogImpl" x="2373" y="323" />
     <location key="FileChooserDialogImpl.1920.0.1920.1080" x="2803" y="321" />
+    <location key="extract.method.dialog.1920.0.1920.1080" x="2614" y="358" />
     <location key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog.0.0.1366.768" x="496" y="272" />
+    <location key="#com.intellij.debugger.ui.EvaluationDialog2.1920.0.1920.1080" x="2468" y="320" />
+    <location key="#com.intellij.ide.actionMacro.EditMacrosDialog.1920.0.1920.1080" x="2706" y="351" />
     <location key="ProcessPopupWindow" x="3357" y="951" />
     <location key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor.0.0.1366.768" x="262" y="41" />
+    <location key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog.1920.0.1920.1080" x="2632" y="270" />
     <location key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog.1920.0.1920.1080" x="2808" y="469" />
     <location key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor.1920.0.1920.1080" x="2607" y="243" />
     <location key="com.intellij.ide.passwordSafe.impl.providers.masterKey.ResetPasswordDialog.0.0.1366.768" x="499" y="299" />
@@ -25,9 +29,13 @@
     <size key="#Browse_Repositories.1920.0.1920.1080" width="826" height="687" />
     <size key="FileChooserDialogImpl" width="770" height="660" />
     <size key="FileChooserDialogImpl.1920.0.1920.1080" width="426" height="524" />
+    <size key="extract.method.dialog.1920.0.1920.1080" width="526" height="387" />
     <size key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog.0.0.1366.768" width="366" height="226" />
+    <size key="#com.intellij.debugger.ui.EvaluationDialog2.1920.0.1920.1080" width="817" height="462" />
+    <size key="#com.intellij.ide.actionMacro.EditMacrosDialog.1920.0.1920.1080" width="622" height="400" />
     <size key="ProcessPopupWindow" width="480" height="108" />
     <size key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor.0.0.1366.768" width="826" height="688" />
+    <size key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog.1920.0.1920.1080" width="489" height="563" />
     <size key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog.1920.0.1920.1080" width="432" height="241" />
     <size key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor.1920.0.1920.1080" width="826" height="687" />
     <size key="com.intellij.ide.passwordSafe.impl.providers.masterKey.ResetPasswordDialog.0.0.1366.768" width="359" height="173" />

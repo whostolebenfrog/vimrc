@@ -4,11 +4,14 @@
     <state enabled="true" keymap="$default" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/io/XmlTestDataProvider.java" timestamp="1331047533713">
+        <mark key="'" line="40" column="25" />
+      </file>
       <file name="$USER_HOME$/workspace/http-status-codes/src/main/java/com/floatbackwards/statuscodes/service/HttpStatusCodesServiceResource.java" timestamp="1330880599054">
         <mark key="]" line="24" column="0" />
         <mark key="[" line="24" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1330879167370">
+      <file name="/fragment.java" timestamp="1331047609615">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/http-status-codes/src/main/java/com/floatbackwards/statuscodes/HttpStatus.java" timestamp="1330881863102">
@@ -16,11 +19,6 @@
         <mark key="]" line="58" column="107" />
         <mark key="^" line="58" column="107" />
         <mark key="[" line="58" column="100" />
-      </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/control/PollingDdexProcessorTest.java" timestamp="1330966980522">
-        <mark key="'" line="0" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="[" line="60" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1330964455073">
         <mark key="[" line="0" column="0" />
@@ -30,11 +28,19 @@
         <mark key="]" line="46" column="0" />
         <mark key="[" line="46" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1330966181111">
+      <file name="/a.dummy" timestamp="1331047107514">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/remote/SqlServerArchiveService.java" timestamp="1330968923187">
+      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/resources/sql/environmentsetup.sql" timestamp="1331050670390">
+        <mark key="'" line="0" column="0" />
+        <mark key="]" line="1" column="9" />
+        <mark key="^" line="1" column="9" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/remote/SqlServerArchiveService.java" timestamp="1331028185033">
         <mark key="'" line="39" column="31" />
+        <mark key="]" line="40" column="0" />
+        <mark key="[" line="40" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/io/FileSystemDdexFileStoreTest.java" timestamp="1330968409611">
         <mark key="]" line="29" column="44" />
@@ -57,7 +63,6 @@
       <jump line="136" column="11" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/control/PollingDdexProcessorTest.java" />
       <jump line="151" column="11" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/control/PollingDdexProcessorTest.java" />
       <jump line="71" column="37" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/control/PollingDdexProcessorTest.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/control/PollingDdexProcessorTest.java" />
       <jump line="30" column="31" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/remote/SqlServerArchiveService.java" />
       <jump line="24" column="34" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/remote/SqlServerArchiveService.java" />
       <jump line="35" column="36" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/remote/SqlServerArchiveService.java" />
@@ -70,67 +75,146 @@
       <jump line="34" column="14" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/remote/SqlServerArchiveService.java" />
       <jump line="37" column="74" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/remote/SqlServerArchiveService.java" />
       <jump line="39" column="31" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/remote/SqlServerArchiveService.java" />
+      <jump line="84" column="21" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/control/PollingDdexProcessor.java" />
+      <jump line="163" column="43" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/control/PollingDdexProcessor.java" />
+      <jump line="174" column="18" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/control/PollingDdexProcessor.java" />
+      <jump line="101" column="16" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/control/PollingDdexProcessor.java" />
+      <jump line="120" column="17" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/control/PollingDdexProcessor.java" />
+      <jump line="133" column="0" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/control/PollingDdexProcessor.java" />
+      <jump line="35" column="33" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/control/PollingDdexProcessor.java" />
+      <jump line="105" column="42" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/control/PollingDdexProcessor.java" />
+      <jump line="104" column="19" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/control/PollingDdexProcessor.java" />
+      <jump line="177" column="11" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/control/PollingDdexProcessor.java" />
+      <jump line="106" column="30" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/control/PollingDdexProcessor.java" />
+      <jump line="96" column="30" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/control/PollingDdexProcessor.java" />
+      <jump line="307" column="25" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/control/PollingDdexProcessorTest.java" />
+      <jump line="273" column="4" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/control/PollingDdexProcessorTest.java" />
+      <jump line="277" column="8" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/control/PollingDdexProcessorTest.java" />
+      <jump line="72" column="0" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/control/PollingDdexProcessorTest.java" />
+      <jump line="287" column="8" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/control/PollingDdexProcessorTest.java" />
+      <jump line="360" column="63" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/control/PollingDdexProcessorTest.java" />
+      <jump line="280" column="8" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/control/PollingDdexProcessorTest.java" />
+      <jump line="281" column="30" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/control/PollingDdexProcessorTest.java" />
+      <jump line="362" column="0" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/control/PollingDdexProcessorTest.java" />
+      <jump line="371" column="36" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/control/PollingDdexProcessorTest.java" />
+      <jump line="144" column="35" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/control/PollingDdexProcessorTest.java" />
+      <jump line="416" column="34" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/control/PollingDdexProcessorTest.java" />
+      <jump line="299" column="4" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/control/PollingDdexProcessorTest.java" />
+      <jump line="255" column="8" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/control/PollingDdexProcessorTest.java" />
+      <jump line="289" column="7" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/control/PollingDdexProcessorTest.java" />
+      <jump line="313" column="33" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/control/PollingDdexProcessorTest.java" />
+      <jump line="290" column="8" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/control/PollingDdexProcessorTest.java" />
+      <jump line="422" column="17" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/control/PollingDdexProcessorTest.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/control/PollingDdexProcessorTest.java" />
+      <jump line="312" column="12" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/control/PollingDdexProcessorTest.java" />
+      <jump line="404" column="107" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/control/PollingDdexProcessorTest.java" />
+      <jump line="40" column="25" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/io/XmlTestDataProvider.java" />
+      <jump line="402" column="0" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/control/PollingDdexProcessorTest.java" />
+      <jump line="295" column="0" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/control/PollingDdexProcessorTest.java" />
+      <jump line="308" column="38" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/control/PollingDdexProcessorTest.java" />
+      <jump line="300" column="42" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/control/PollingDdexProcessorTest.java" />
+      <jump line="296" column="0" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/control/PollingDdexProcessorTest.java" />
+      <jump line="354" column="25" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/control/PollingDdexProcessorTest.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/control/PollingDdexProcessorTest.java" />
+      <jump line="479" column="0" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/control/PollingDdexProcessorTest.java" />
+      <jump line="375" column="7" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/control/PollingDdexProcessorTest.java" />
+      <jump line="373" column="0" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/control/PollingDdexProcessorTest.java" />
+      <jump line="378" column="8" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/control/PollingDdexProcessorTest.java" />
+      <jump line="376" column="15" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/control/PollingDdexProcessorTest.java" />
+      <jump line="288" column="8" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/control/PollingDdexProcessorTest.java" />
+      <jump line="335" column="26" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/control/PollingDdexProcessorTest.java" />
+      <jump line="413" column="26" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/control/PollingDdexProcessorTest.java" />
+      <jump line="340" column="25" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/control/PollingDdexProcessorTest.java" />
+      <jump line="407" column="0" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/control/PollingDdexProcessorTest.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/resources/sql/environmentsetup.sql" />
     </jumps>
     <registers>
-      <register name="3" type="16">
-        <text><![CDATA[writeSuccessfulFile()&#32;=&#32;=&#32;]]></text>
-      </register>
       <register name="&quot;" type="2">
-        <text><![CDATA[&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#10;]]></text>
+        <text><![CDATA[--&#32;Sony&#10;DECLARE&#32;@intHostTypeID&#32;&#32;&#32;&#32;&#32;&#32;INT&#10;SELECT&#32;@intHostTypeID&#32;=&#32;intHostTypeID&#32;FROM&#32;hostType&#32;WHERE&#32;strHostTypeName&#32;=&#32;'Nokia_Multimedia_Content_Interpreter_SonyDdexXml'&#10;IF&#32;@intHostTypeID&#32;IS&#32;NULL&#10;BEGIN&#10;&#32;&#32;&#32;&#32;INSERT&#32;INTO&#32;hostType&#32;(strHostTypeName)&#32;&#10;&#32;&#32;&#32;&#32;VALUES&#32;('Nokia_Multimedia_Content_Interpreter_SonyDdexXml')&#10;&#32;&#32;&#32;&#32;SELECT&#32;@intHostTypeID&#32;=&#32;SCOPE_IDENTITY()&#10;&#32;&#32;&#32;&#32;PRINT&#32;'Row&#32;Created&#32;in&#32;HostType'&#10;END&#32;&#10;ELSE&#10;BEGIN&#10;&#32;&#32;&#32;&#32;PRINT&#32;'Row&#32;Already&#32;Exists&#32;in&#32;hostType'&#10;END&#10;DECLARE&#32;@intWorkerProcessTypeId&#32;&#32;&#32;&#32;&#32;INT&#10;SELECT&#32;@intWorkerProcessTypeId&#32;=&#32;&#32;intWorkerProcessTypeId&#32;FROM&#32;workerProcessType&#32;WHERE&#32;strWorkerProcessTypeName&#32;=&#32;'InterpreterSonyMusic.Ddex.Service'&#10;IF&#32;@intWorkerProcessTypeId&#32;IS&#32;NULL&#10;BEGIN&#10;&#32;&#32;&#32;&#32;INSERT&#32;INTO&#32;workerProcessType&#32;(intHostTypeID,strWorkerProcessTypeName,blnIsEnabled,intMaxConcurrent,blnMaxConcurrLocked)&#32;&#10;&#32;&#32;&#32;&#32;VALUES&#32;(@intHostTypeID,'InterpreterSonyMusic.Ddex.Service',1,1,1)&#10;&#32;&#32;&#32;&#32;SELECT&#32;@intWorkerProcessTypeId&#32;=&#32;SCOPE_IDENTITY()&#10;&#32;&#32;&#32;&#32;PRINT&#32;'Row&#32;Created&#32;in&#32;workerProcessType'&#10;END&#10;ELSE&#10;BEGIN&#10;&#32;&#32;&#32;&#32;PRINT&#32;'Row&#32;Already&#32;Exists&#32;in&#32;workerProcessType'&#10;END&#10;DECLARE&#32;@intServerId&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;INT&#10;SELECT&#32;@intServerId&#32;=&#32;intServerId&#32;FROM&#32;Server&#32;WHERE&#32;strServerName&#32;=&#32;'NMSBEDVT05101'&#10;IF&#32;@intServerId&#32;IS&#32;NULL&#10;BEGIN&#10;&#32;&#32;&#32;&#32;INSERT&#32;INTO&#32;Server&#32;(strServerName)&#32;&#10;&#32;&#32;&#32;&#32;VALUES&#32;('NMSBEDVT05101')&#10;&#32;&#32;&#32;&#32;SELECT&#32;@intServerId&#32;=&#32;SCOPE_IDENTITY()&#10;&#32;&#32;&#32;&#32;PRINT&#32;'Row&#32;Created&#32;in&#32;Server'&#10;END&#32;&#10;ELSE&#10;BEGIN&#10;&#32;&#32;&#32;&#32;PRINT&#32;'Row&#32;Already&#32;Exists&#32;Server'&#10;END&#10;DECLARE&#32;@inthostInstanceId&#32;&#32;&#32;&#32;&#32;&#32;INT&#10;SELECT&#32;@inthostInstanceId&#32;=&#32;inthostInstanceId&#32;FROM&#32;HostInstance&#32;WHERE&#32;intHostTypeId&#32;=&#32;@intHostTypeId&#32;AND&#32;intServerId&#32;=&#32;@intServerId&#10;IF&#32;@inthostInstanceId&#32;IS&#32;NULL&#10;BEGIN&#10;&#32;&#32;&#32;&#32;INSERT&#32;INTO&#32;HostInstance&#32;(intHostTypeId,intServerId,datLastPulseTime)&#32;&#10;&#32;&#32;&#32;&#32;VALUES&#32;(@intHostTypeId,@intServerId,'')&#10;&#32;&#32;&#32;&#32;SELECT&#32;@inthostInstanceId&#32;=&#32;SCOPE_IDENTITY()&#10;&#32;&#32;&#32;&#32;PRINT&#32;'Row&#32;Created&#32;in&#32;HostType'&#10;END&#10;ELSE&#10;BEGIN&#10;&#32;&#32;&#32;&#32;PRINT&#32;'Row&#32;Already&#32;Exists&#32;in&#32;HostType'&#10;END&#10;IF&#32;NOT&#32;EXISTS(&#32;SELECT&#32;1&#32;FROM&#32;workerProcessInstance&#32;WHERE&#32;intWorkerProcessTypeId&#32;=&#32;@intWorkerProcessTypeId&#32;and&#32;intHostInstanceId&#32;=&#32;@inthostInstanceId&#32;)&#10;BEGIN&#10;&#32;&#32;&#32;&#32;INSERT&#32;INTO&#32;workerProcessInstance&#32;(intWorkerProcessTypeId,intHostInstanceId,blnIsEnabled,blnIsActive,blnisRequestedActive,datLastUpdated)&#32;&#10;&#32;&#32;&#32;&#32;VALUES&#32;(@intWorkerProcessTypeId,&#32;@inthostInstanceId,&#32;0,&#32;0,&#32;0,&#32;null)&#10;&#32;&#32;&#32;&#32;PRINT&#32;'Row&#32;Created&#32;in&#32;workerProcessInstance'&#10;END&#10;ELSE&#10;BEGIN&#10;&#32;&#32;&#32;&#32;PRINT&#32;'Row&#32;Already&#32;Exists&#32;in&#32;workerProcessInstance'&#10;END&#10;GO&#10;--&#32;EMI&#10;DECLARE&#32;@intHostTypeID&#32;&#32;&#32;&#32;&#32;&#32;INT&#10;SELECT&#32;@intHostTypeID&#32;=&#32;intHostTypeID&#32;FROM&#32;hostType&#32;WHERE&#32;strHostTypeName&#32;=&#32;'Nokia_Multimedia_Content_Interpreter_EmiDdexXml'&#10;IF&#32;@intHostTypeID&#32;IS&#32;NULL&#10;BEGIN&#10;&#32;&#32;&#32;&#32;INSERT&#32;INTO&#32;hostType&#32;(strHostTypeName)&#32;&#10;&#32;&#32;&#32;&#32;VALUES&#32;('Nokia_Multimedia_Content_Interpreter_EmiDdexXml')&#10;&#32;&#32;&#32;&#32;SELECT&#32;@intHostTypeID&#32;=&#32;SCOPE_IDENTITY()&#10;&#32;&#32;&#32;&#32;PRINT&#32;'Row&#32;Created&#32;in&#32;HostType'&#10;END&#32;&#10;ELSE&#10;BEGIN&#10;&#32;&#32;&#32;&#32;PRINT&#32;'Row&#32;Already&#32;Exists&#32;in&#32;hostType'&#10;END&#10;DECLARE&#32;@intWorkerProcessTypeId&#32;&#32;&#32;&#32;&#32;INT&#10;SELECT&#32;@intWorkerProcessTypeId&#32;=&#32;&#32;intWorkerProcessTypeId&#32;FROM&#32;workerProcessType&#32;WHERE&#32;strWorkerProcessTypeName&#32;=&#32;'InterpreterEmi.Ddex.Service'&#10;IF&#32;@intWorkerProcessTypeId&#32;IS&#32;NULL&#10;BEGIN&#10;&#32;&#32;&#32;&#32;INSERT&#32;INTO&#32;workerProcessType&#32;(intHostTypeID,strWorkerProcessTypeName,blnIsEnabled,intMaxConcurrent,blnMaxConcurrLocked)&#32;&#10;&#32;&#32;&#32;&#32;VALUES&#32;(@intHostTypeID,'InterpreterEmi.Ddex.Service',1,1,1)&#10;&#32;&#32;&#32;&#32;SELECT&#32;@intWorkerProcessTypeId&#32;=&#32;SCOPE_IDENTITY()&#10;&#32;&#32;&#32;&#32;PRINT&#32;'Row&#32;Created&#32;in&#32;workerProcessType'&#10;END&#10;ELSE&#10;BEGIN&#10;&#32;&#32;&#32;&#32;PRINT&#32;'Row&#32;Already&#32;Exists&#32;in&#32;workerProcessType'&#10;END&#10;DECLARE&#32;@intServerId&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;INT&#10;SELECT&#32;@intServerId&#32;=&#32;intServerId&#32;FROM&#32;Server&#32;WHERE&#32;strServerName&#32;=&#32;'NMSBEDVT05101'&#10;IF&#32;@intServerId&#32;IS&#32;NULL&#10;BEGIN&#10;&#32;&#32;&#32;&#32;INSERT&#32;INTO&#32;Server&#32;(strServerName)&#32;&#10;&#32;&#32;&#32;&#32;VALUES&#32;('NMSBEDVT05101')&#10;&#32;&#32;&#32;&#32;SELECT&#32;@intServerId&#32;=&#32;SCOPE_IDENTITY()&#10;&#32;&#32;&#32;&#32;PRINT&#32;'Row&#32;Created&#32;in&#32;Server'&#10;END&#32;&#10;ELSE&#10;BEGIN&#10;&#32;&#32;&#32;&#32;PRINT&#32;'Row&#32;Already&#32;Exists&#32;Server'&#10;END&#10;DECLARE&#32;@inthostInstanceId&#32;&#32;&#32;&#32;&#32;&#32;INT&#10;SELECT&#32;@inthostInstanceId&#32;=&#32;inthostInstanceId&#32;FROM&#32;HostInstance&#32;WHERE&#32;intHostTypeId&#32;=&#32;@intHostTypeId&#32;AND&#32;intServerId&#32;=&#32;@intServerId&#10;IF&#32;@inthostInstanceId&#32;IS&#32;NULL&#10;BEGIN&#10;&#32;&#32;&#32;&#32;INSERT&#32;INTO&#32;HostInstance&#32;(intHostTypeId,intServerId,datLastPulseTime)&#32;&#10;&#32;&#32;&#32;&#32;VALUES&#32;(@intHostTypeId,@intServerId,'')&#10;&#32;&#32;&#32;&#32;SELECT&#32;@inthostInstanceId&#32;=&#32;SCOPE_IDENTITY()&#10;&#32;&#32;&#32;&#32;PRINT&#32;'Row&#32;Created&#32;in&#32;HostType'&#10;END&#10;ELSE&#10;BEGIN&#10;&#32;&#32;&#32;&#32;PRINT&#32;'Row&#32;Already&#32;Exists&#32;in&#32;HostType'&#10;END&#10;IF&#32;NOT&#32;EXISTS(&#32;SELECT&#32;1&#32;FROM&#32;workerProcessInstance&#32;WHERE&#32;intWorkerProcessTypeId&#32;=&#32;@intWorkerProcessTypeId&#32;and&#32;intHostInstanceId&#32;=&#32;@inthostInstanceId&#32;)&#10;BEGIN&#10;&#32;&#32;&#32;&#32;INSERT&#32;INTO&#32;workerProcessInstance&#32;(intWorkerProcessTypeId,intHostInstanceId,blnIsEnabled,blnIsActive,blnisRequestedActive,datLastUpdated)&#32;&#10;&#32;&#32;&#32;&#32;VALUES&#32;(@intWorkerProcessTypeId,&#32;@inthostInstanceId,&#32;0,&#32;0,&#32;0,&#32;null)&#10;&#32;&#32;&#32;&#32;PRINT&#32;'Row&#32;Created&#32;in&#32;workerProcessInstance'&#10;END&#10;ELSE&#10;BEGIN&#10;&#32;&#32;&#32;&#32;PRINT&#32;'Row&#32;Already&#32;Exists&#32;in&#32;workerProcessInstance'&#10;END&#10;GO&#10;]]></text>
+      </register>
+      <register name="a" type="4">
+        <keys>
+          <key char="121" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="65535" code="65" mods="130" />
+        </keys>
+      </register>
+      <register name="/" type="4">
+        <text><![CDATA[class]]></text>
+      </register>
+      <register name="3" type="2">
+        <text><![CDATA[&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;ddexFileWillBeSuccessfullyConverted(3,&#32;emi);&#10;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;ddexFileWillBeSuccessfullyConverted(4,&#32;emi);&#10;]]></text>
       </register>
       <register name="2" type="2">
-        <text><![CDATA[&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;List<String>&#32;strings&#32;=&#32;new&#32;ArrayList<String>(10);&#10;]]></text>
+        <text><![CDATA[&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;Provider&#32;sony&#32;=&#32;Provider.SONY;&#10;]]></text>
       </register>
-      <register name="1" type="2">
-        <text><![CDATA[&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#10;]]></text>
+      <register name="1" type="16">
+        <text><![CDATA[workToDo]]></text>
       </register>
-      <register name="7" type="16">
-        <text><![CDATA[f]]></text>
+      <register name="0" type="2">
+        <text><![CDATA[--&#32;Sony&#10;DECLARE&#32;@intHostTypeID&#32;&#32;&#32;&#32;&#32;&#32;INT&#10;SELECT&#32;@intHostTypeID&#32;=&#32;intHostTypeID&#32;FROM&#32;hostType&#32;WHERE&#32;strHostTypeName&#32;=&#32;'Nokia_Multimedia_Content_Interpreter_SonyDdexXml'&#10;IF&#32;@intHostTypeID&#32;IS&#32;NULL&#10;BEGIN&#10;&#32;&#32;&#32;&#32;INSERT&#32;INTO&#32;hostType&#32;(strHostTypeName)&#32;&#10;&#32;&#32;&#32;&#32;VALUES&#32;('Nokia_Multimedia_Content_Interpreter_SonyDdexXml')&#10;&#32;&#32;&#32;&#32;SELECT&#32;@intHostTypeID&#32;=&#32;SCOPE_IDENTITY()&#10;&#32;&#32;&#32;&#32;PRINT&#32;'Row&#32;Created&#32;in&#32;HostType'&#10;END&#32;&#10;ELSE&#10;BEGIN&#10;&#32;&#32;&#32;&#32;PRINT&#32;'Row&#32;Already&#32;Exists&#32;in&#32;hostType'&#10;END&#10;DECLARE&#32;@intWorkerProcessTypeId&#32;&#32;&#32;&#32;&#32;INT&#10;SELECT&#32;@intWorkerProcessTypeId&#32;=&#32;&#32;intWorkerProcessTypeId&#32;FROM&#32;workerProcessType&#32;WHERE&#32;strWorkerProcessTypeName&#32;=&#32;'InterpreterSonyMusic.Ddex.Service'&#10;IF&#32;@intWorkerProcessTypeId&#32;IS&#32;NULL&#10;BEGIN&#10;&#32;&#32;&#32;&#32;INSERT&#32;INTO&#32;workerProcessType&#32;(intHostTypeID,strWorkerProcessTypeName,blnIsEnabled,intMaxConcurrent,blnMaxConcurrLocked)&#32;&#10;&#32;&#32;&#32;&#32;VALUES&#32;(@intHostTypeID,'InterpreterSonyMusic.Ddex.Service',1,1,1)&#10;&#32;&#32;&#32;&#32;SELECT&#32;@intWorkerProcessTypeId&#32;=&#32;SCOPE_IDENTITY()&#10;&#32;&#32;&#32;&#32;PRINT&#32;'Row&#32;Created&#32;in&#32;workerProcessType'&#10;END&#10;ELSE&#10;BEGIN&#10;&#32;&#32;&#32;&#32;PRINT&#32;'Row&#32;Already&#32;Exists&#32;in&#32;workerProcessType'&#10;END&#10;DECLARE&#32;@intServerId&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;INT&#10;SELECT&#32;@intServerId&#32;=&#32;intServerId&#32;FROM&#32;Server&#32;WHERE&#32;strServerName&#32;=&#32;'NMSBEDVT05101'&#10;IF&#32;@intServerId&#32;IS&#32;NULL&#10;BEGIN&#10;&#32;&#32;&#32;&#32;INSERT&#32;INTO&#32;Server&#32;(strServerName)&#32;&#10;&#32;&#32;&#32;&#32;VALUES&#32;('NMSBEDVT05101')&#10;&#32;&#32;&#32;&#32;SELECT&#32;@intServerId&#32;=&#32;SCOPE_IDENTITY()&#10;&#32;&#32;&#32;&#32;PRINT&#32;'Row&#32;Created&#32;in&#32;Server'&#10;END&#32;&#10;ELSE&#10;BEGIN&#10;&#32;&#32;&#32;&#32;PRINT&#32;'Row&#32;Already&#32;Exists&#32;Server'&#10;END&#10;DECLARE&#32;@inthostInstanceId&#32;&#32;&#32;&#32;&#32;&#32;INT&#10;SELECT&#32;@inthostInstanceId&#32;=&#32;inthostInstanceId&#32;FROM&#32;HostInstance&#32;WHERE&#32;intHostTypeId&#32;=&#32;@intHostTypeId&#32;AND&#32;intServerId&#32;=&#32;@intServerId&#10;IF&#32;@inthostInstanceId&#32;IS&#32;NULL&#10;BEGIN&#10;&#32;&#32;&#32;&#32;INSERT&#32;INTO&#32;HostInstance&#32;(intHostTypeId,intServerId,datLastPulseTime)&#32;&#10;&#32;&#32;&#32;&#32;VALUES&#32;(@intHostTypeId,@intServerId,'')&#10;&#32;&#32;&#32;&#32;SELECT&#32;@inthostInstanceId&#32;=&#32;SCOPE_IDENTITY()&#10;&#32;&#32;&#32;&#32;PRINT&#32;'Row&#32;Created&#32;in&#32;HostType'&#10;END&#10;ELSE&#10;BEGIN&#10;&#32;&#32;&#32;&#32;PRINT&#32;'Row&#32;Already&#32;Exists&#32;in&#32;HostType'&#10;END&#10;IF&#32;NOT&#32;EXISTS(&#32;SELECT&#32;1&#32;FROM&#32;workerProcessInstance&#32;WHERE&#32;intWorkerProcessTypeId&#32;=&#32;@intWorkerProcessTypeId&#32;and&#32;intHostInstanceId&#32;=&#32;@inthostInstanceId&#32;)&#10;BEGIN&#10;&#32;&#32;&#32;&#32;INSERT&#32;INTO&#32;workerProcessInstance&#32;(intWorkerProcessTypeId,intHostInstanceId,blnIsEnabled,blnIsActive,blnisRequestedActive,datLastUpdated)&#32;&#10;&#32;&#32;&#32;&#32;VALUES&#32;(@intWorkerProcessTypeId,&#32;@inthostInstanceId,&#32;0,&#32;0,&#32;0,&#32;null)&#10;&#32;&#32;&#32;&#32;PRINT&#32;'Row&#32;Created&#32;in&#32;workerProcessInstance'&#10;END&#10;ELSE&#10;BEGIN&#10;&#32;&#32;&#32;&#32;PRINT&#32;'Row&#32;Already&#32;Exists&#32;in&#32;workerProcessInstance'&#10;END&#10;GO&#10;--&#32;EMI&#10;DECLARE&#32;@intHostTypeID&#32;&#32;&#32;&#32;&#32;&#32;INT&#10;SELECT&#32;@intHostTypeID&#32;=&#32;intHostTypeID&#32;FROM&#32;hostType&#32;WHERE&#32;strHostTypeName&#32;=&#32;'Nokia_Multimedia_Content_Interpreter_EmiDdexXml'&#10;IF&#32;@intHostTypeID&#32;IS&#32;NULL&#10;BEGIN&#10;&#32;&#32;&#32;&#32;INSERT&#32;INTO&#32;hostType&#32;(strHostTypeName)&#32;&#10;&#32;&#32;&#32;&#32;VALUES&#32;('Nokia_Multimedia_Content_Interpreter_EmiDdexXml')&#10;&#32;&#32;&#32;&#32;SELECT&#32;@intHostTypeID&#32;=&#32;SCOPE_IDENTITY()&#10;&#32;&#32;&#32;&#32;PRINT&#32;'Row&#32;Created&#32;in&#32;HostType'&#10;END&#32;&#10;ELSE&#10;BEGIN&#10;&#32;&#32;&#32;&#32;PRINT&#32;'Row&#32;Already&#32;Exists&#32;in&#32;hostType'&#10;END&#10;DECLARE&#32;@intWorkerProcessTypeId&#32;&#32;&#32;&#32;&#32;INT&#10;SELECT&#32;@intWorkerProcessTypeId&#32;=&#32;&#32;intWorkerProcessTypeId&#32;FROM&#32;workerProcessType&#32;WHERE&#32;strWorkerProcessTypeName&#32;=&#32;'InterpreterEmi.Ddex.Service'&#10;IF&#32;@intWorkerProcessTypeId&#32;IS&#32;NULL&#10;BEGIN&#10;&#32;&#32;&#32;&#32;INSERT&#32;INTO&#32;workerProcessType&#32;(intHostTypeID,strWorkerProcessTypeName,blnIsEnabled,intMaxConcurrent,blnMaxConcurrLocked)&#32;&#10;&#32;&#32;&#32;&#32;VALUES&#32;(@intHostTypeID,'InterpreterEmi.Ddex.Service',1,1,1)&#10;&#32;&#32;&#32;&#32;SELECT&#32;@intWorkerProcessTypeId&#32;=&#32;SCOPE_IDENTITY()&#10;&#32;&#32;&#32;&#32;PRINT&#32;'Row&#32;Created&#32;in&#32;workerProcessType'&#10;END&#10;ELSE&#10;BEGIN&#10;&#32;&#32;&#32;&#32;PRINT&#32;'Row&#32;Already&#32;Exists&#32;in&#32;workerProcessType'&#10;END&#10;DECLARE&#32;@intServerId&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;INT&#10;SELECT&#32;@intServerId&#32;=&#32;intServerId&#32;FROM&#32;Server&#32;WHERE&#32;strServerName&#32;=&#32;'NMSBEDVT05101'&#10;IF&#32;@intServerId&#32;IS&#32;NULL&#10;BEGIN&#10;&#32;&#32;&#32;&#32;INSERT&#32;INTO&#32;Server&#32;(strServerName)&#32;&#10;&#32;&#32;&#32;&#32;VALUES&#32;('NMSBEDVT05101')&#10;&#32;&#32;&#32;&#32;SELECT&#32;@intServerId&#32;=&#32;SCOPE_IDENTITY()&#10;&#32;&#32;&#32;&#32;PRINT&#32;'Row&#32;Created&#32;in&#32;Server'&#10;END&#32;&#10;ELSE&#10;BEGIN&#10;&#32;&#32;&#32;&#32;PRINT&#32;'Row&#32;Already&#32;Exists&#32;Server'&#10;END&#10;DECLARE&#32;@inthostInstanceId&#32;&#32;&#32;&#32;&#32;&#32;INT&#10;SELECT&#32;@inthostInstanceId&#32;=&#32;inthostInstanceId&#32;FROM&#32;HostInstance&#32;WHERE&#32;intHostTypeId&#32;=&#32;@intHostTypeId&#32;AND&#32;intServerId&#32;=&#32;@intServerId&#10;IF&#32;@inthostInstanceId&#32;IS&#32;NULL&#10;BEGIN&#10;&#32;&#32;&#32;&#32;INSERT&#32;INTO&#32;HostInstance&#32;(intHostTypeId,intServerId,datLastPulseTime)&#32;&#10;&#32;&#32;&#32;&#32;VALUES&#32;(@intHostTypeId,@intServerId,'')&#10;&#32;&#32;&#32;&#32;SELECT&#32;@inthostInstanceId&#32;=&#32;SCOPE_IDENTITY()&#10;&#32;&#32;&#32;&#32;PRINT&#32;'Row&#32;Created&#32;in&#32;HostType'&#10;END&#10;ELSE&#10;BEGIN&#10;&#32;&#32;&#32;&#32;PRINT&#32;'Row&#32;Already&#32;Exists&#32;in&#32;HostType'&#10;END&#10;IF&#32;NOT&#32;EXISTS(&#32;SELECT&#32;1&#32;FROM&#32;workerProcessInstance&#32;WHERE&#32;intWorkerProcessTypeId&#32;=&#32;@intWorkerProcessTypeId&#32;and&#32;intHostInstanceId&#32;=&#32;@inthostInstanceId&#32;)&#10;BEGIN&#10;&#32;&#32;&#32;&#32;INSERT&#32;INTO&#32;workerProcessInstance&#32;(intWorkerProcessTypeId,intHostInstanceId,blnIsEnabled,blnIsActive,blnisRequestedActive,datLastUpdated)&#32;&#10;&#32;&#32;&#32;&#32;VALUES&#32;(@intWorkerProcessTypeId,&#32;@inthostInstanceId,&#32;0,&#32;0,&#32;0,&#32;null)&#10;&#32;&#32;&#32;&#32;PRINT&#32;'Row&#32;Created&#32;in&#32;workerProcessInstance'&#10;END&#10;ELSE&#10;BEGIN&#10;&#32;&#32;&#32;&#32;PRINT&#32;'Row&#32;Already&#32;Exists&#32;in&#32;workerProcessInstance'&#10;END&#10;GO&#10;]]></text>
       </register>
-      <register name="6" type="16">
-        <text><![CDATA[wileSystemStorage]]></text>
+      <register name="7" type="2">
+        <text><![CDATA[&#10;]]></text>
       </register>
-      <register name="5" type="268435472">
-        <text><![CDATA[String&#32;content&#32;=]]></text>
+      <register name="6" type="2">
+        <text><![CDATA[&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;pendingDdexFileExists(1,&#32;emi);&#10;]]></text>
       </register>
-      <register name="4" type="16">
-        <text><![CDATA[s]]></text>
+      <register name="5" type="2">
+        <text><![CDATA[&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;pendingDdexFileExists(5,&#32;emi);&#10;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;pendingDdexFileExists(6,&#32;emi);&#10;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;pendingDdexFileExists(7,&#32;emi);&#10;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;pendingDdexFileExists(8,&#32;emi);&#10;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;pendingDdexFileExists(9,&#32;emi);&#10;]]></text>
+      </register>
+      <register name="4" type="268435472">
+        <text><![CDATA[times(2)]]></text>
       </register>
       <register name=":" type="4">
         <text><![CDATA[w]]></text>
       </register>
-      <register name="9" type="32">
-        <text><![CDATA[.]]></text>
+      <register name="9" type="2">
+        <text><![CDATA[&#32;&#32;&#32;&#32;//&#32;doesn't&#32;pause&#32;if&#32;more&#32;files&#32;are&#32;available&#10;]]></text>
       </register>
       <register name="8" type="2">
-        <text><![CDATA[&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;this.failedFileStore;&#10;]]></text>
-      </register>
-      <register name="/" type="4">
-        <text><![CDATA[\<failedFileStore\>]]></text>
+        <text><![CDATA[&#10;]]></text>
       </register>
     </registers>
     <search>
-      <last-search><![CDATA[\<failedFileStore\>]]></last-search>
+      <last-search><![CDATA[class]]></last-search>
       <last-offset />
-      <last-pattern><![CDATA[\<failedFileStore\>]]></last-pattern>
+      <last-pattern><![CDATA[class]]></last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry><![CDATA[\<HttpVersionNotSupported\>]]></entry>
-        <entry><![CDATA[HttpVersionN]]></entry>
-        <entry><![CDATA[HttpV]]></entry>
         <entry><![CDATA[\<testProcessSingleFile\>]]></entry>
         <entry><![CDATA[\<void\>]]></entry>
         <entry><![CDATA[test]]></entry>
         <entry><![CDATA[writeS]]></entry>
         <entry><![CDATA[\<failedFileStore\>]]></entry>
+        <entry><![CDATA[\<getMoreFilesIfEmpty\>]]></entry>
+        <entry><![CDATA[\<processNextFile\>]]></entry>
+        <entry><![CDATA[Sony]]></entry>
+        <entry><![CDATA[Emi]]></entry>
+        <entry><![CDATA[Pro]]></entry>
+        <entry><![CDATA[sony]]></entry>
+        <entry><![CDATA[emi]]></entry>
+        <entry><![CDATA[SON]]></entry>
+        <entry><![CDATA[SONY]]></entry>
+        <entry><![CDATA[EMI]]></entry>
+        <entry><![CDATA[\<setActive\>]]></entry>
+        <entry><![CDATA[1]]></entry>
+        <entry><![CDATA[TODO]]></entry>
+        <entry><![CDATA[\<provider\>]]></entry>
+        <entry><![CDATA[class]]></entry>
       </history-search>
       <history-cmd>
         <entry><![CDATA[set&#32;nu]]></entry>
         <entry><![CDATA[vs]]></entry>
         <entry><![CDATA[wq]]></entry>
+        <entry><![CDATA[q]]></entry>
         <entry><![CDATA[w]]></entry>
       </history-cmd>
       <history-expr />

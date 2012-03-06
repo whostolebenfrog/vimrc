@@ -196,7 +196,7 @@
                     "showInTrayMenu": false
                 }
             ], 
-            "usageCount": 2317, 
+            "usageCount": 2666, 
             "modes": [
                 3
             ], 
@@ -217,7 +217,7 @@
             }, 
             "items": [
                 {
-                    "usageCount": 2070, 
+                    "usageCount": 2414, 
                     "omitTrigger": false, 
                     "prompt": false, 
                     "description": "Viable escape", 
@@ -242,6 +242,34 @@
                     "filter": null, 
                     "type": "phrase", 
                     "sendMode": "kb"
+                }, 
+                {
+                    "usageCount": 5, 
+                    "omitTrigger": false, 
+                    "code": "<escape>A;<escape>", 
+                    "prompt": false, 
+                    "description": "Complete statement", 
+                    "abbreviation": {
+                        "ignoreCase": false, 
+                        "wordChars": "[\\w]", 
+                        "immediate": false, 
+                        "abbreviation": null, 
+                        "backspace": true, 
+                        "triggerInside": false
+                    }, 
+                    "hotkey": {
+                        "hotKey": "p", 
+                        "modifiers": [
+                            "<alt>", 
+                            "<ctrl>", 
+                            "<shift>"
+                        ]
+                    }, 
+                    "modes": [], 
+                    "showInTrayMenu": false, 
+                    "filter": null, 
+                    "type": "script", 
+                    "store": {}
                 }
             ], 
             "filter": null, 
@@ -270,14 +298,14 @@
         "showToolbar": true, 
         "serviceRunning": true, 
         "columnWidths": [
-            162, 
+            148, 
             56, 
-            192
+            195
         ], 
         "isFirstRun": false, 
         "sortByUsageCount": true, 
         "notificationIcon": "/usr/share/pixmaps/akicon.png", 
-        "hPanePosition": 409, 
+        "hPanePosition": 405, 
         "menuTakesFocus": false
     }, 
     "userCodeDir": null, 
