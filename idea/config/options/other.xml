@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>toString() issues</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
   <component name="CodeStyleSchemes">
-    <option name="CURRENT_SCHEME_NAME" value="Default" />
+    <option name="CURRENT_SCHEME_NAME" value="Default (1)" />
   </component>
   <component name="DebuggerSettings">
     <option name="TRACING_FILTERS_ENABLED" value="true" />
@@ -77,12 +93,16 @@
     <option name="FILE_MASK" />
     <option name="RECENT_FIND_STRINGS">
       <value>
-        <list size="0" />
+        <list size="1">
+          <item index="0" class="java.lang.String" itemvalue="IMRC" />
+        </list>
       </value>
     </option>
     <option name="RECENT_REPLACE_STRINGS">
       <value>
-        <list size="0" />
+        <list size="1">
+          <item index="0" class="java.lang.String" itemvalue="" />
+        </list>
       </value>
     </option>
     <option name="RECENT_DIR_STRINGS">
@@ -127,6 +147,7 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="$USER_HOME$/workspace/local/effective-java" />
         <option value="$USER_HOME$/workspace/ddex-interpreter" />
         <option value="$USER_HOME$/workspace/http-status-codes" />
       </list>
@@ -136,9 +157,16 @@
         <option value="$USER_HOME$/workspace/ddex-interpreter" />
       </list>
     </option>
-    <option name="lastPath" value="$USER_HOME$/workspace/ddex-interpreter" />
+    <option name="names">
+      <map>
+        <entry key="$USER_HOME$/workspace/ddex-interpreter" value="" />
+      </map>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/workspace/local/effective-java" />
   </component>
   <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="INTRODUCE_FIELD_VISIBILITY" value="private" />
     <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
   </component>
   <component name="Registry">
@@ -181,7 +209,7 @@
       </value>
     </option>
     <option name="CHECK_NEEDED" value="true" />
-    <option name="LAST_TIME_CHECKED" value="1330968951103" />
+    <option name="LAST_TIME_CHECKED" value="1331115027077" />
     <option name="UPDATE_CHANNEL_TYPE" value="release" />
   </component>
   <component name="XDebuggerSettings">

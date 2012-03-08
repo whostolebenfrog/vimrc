@@ -26,13 +26,13 @@
     <option name="AUTOINSERT_PAIR_QUOTE" value="true" />
     <option name="REFORMAT_ON_PASTE" value="3" />
     <option name="INDENT_TO_CARET_ON_PASTE" value="false" />
-    <option name="ADD_IMPORTS_ON_PASTE" value="3" />
+    <option name="ADD_IMPORTS_ON_PASTE" value="1" />
     <option name="HIGHLIGHT_BRACES" value="true" />
     <option name="HIGHLIGHT_SCOPE" value="false" />
     <option name="USE_INSTANCEOF_ON_EQUALS_PARAMETER" value="false" />
     <option name="HIGHLIGHT_IDENTIFIER_UNDER_CARET" value="true" />
-    <option name="OPTIMIZE_IMPORTS_ON_THE_FLY" value="false" />
-    <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="false" />
+    <option name="OPTIMIZE_IMPORTS_ON_THE_FLY" value="true" />
+    <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
     <option name="JSP_ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="false" />
   </component>
   <component name="DaemonCodeAnalyzerSettings" profile="Default">

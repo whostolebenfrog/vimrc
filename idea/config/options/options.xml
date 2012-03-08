@@ -1,48 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <application>
   <component name="DimensionService">
+    <location key="com.intellij.ide.passwordSafe.impl.providers.masterKey.MasterPasswordDialog.1920.0.1920.1080" x="2512" y="484" />
+    <location key="#Browse_Repositories.0.0.1366.768" x="196" y="40" />
+    <location key="#com.intellij.ide.util.MemberChooser.1920.0.1920.1080" x="2688" y="266" />
+    <location key="#Browse_Repositories.1920.0.1920.1080" x="2378" y="209" />
+    <location key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog.1920.0.1920.1080" x="2388" y="477" />
+    <location key="#com.intellij.openapi.editor.actions.MultiplePasteAction.Chooser.1920.0.1920.1080" x="2713" y="174" />
+    <location key="Maven.ArtifactSearchDialog.1920.0.1920.1080" x="2414" y="208" />
+    <location key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor.0.0.1366.768" x="262" y="41" />
+    <location key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor.1920.0.1920.1080" x="2607" y="243" />
+    <location key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog.1920.0.1920.1080" x="2808" y="469" />
+    <location key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog.1920.0.1920.1080" x="2632" y="270" />
+    <location key="com.intellij.testIntegration.createTest.CreateTestDialog.1920.0.1920.1080" x="2622" y="328" />
+    <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes.1920.0.1920.1080" x="2630" y="407" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1366.768" x="491" y="92" />
+    <location key="OptionsEditor.0.0.1366.768" x="0" y="0" />
+    <location key="#Code_Folding.1920.0.1920.1080" x="2652" y="342" />
     <location key="replaceTextDialog.0.0.1366.768" x="469" y="160" />
     <location key="VCS.ChangeListViewerDialog.0.0.1366.768" x="466" y="100" />
     <location key="FileChooserDialogImpl.0.0.1366.768" x="458" y="123" />
-    <location key="#Browse_Repositories.0.0.1366.768" x="196" y="40" />
-    <location key="#Browse_Repositories.1920.0.1920.1080" x="2378" y="209" />
-    <location key="FileChooserDialogImpl" x="2373" y="323" />
+    <location key="#com.intellij.codeInsight.template.impl.EditVariableDialog.1920.0.1920.1080" x="2807" y="446" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.1920.0.1920.1080" x="2623" y="455" />
     <location key="FileChooserDialogImpl.1920.0.1920.1080" x="2803" y="321" />
-    <location key="extract.method.dialog.1920.0.1920.1080" x="2614" y="358" />
+    <location key="FileChooserDialogImpl" x="2373" y="323" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.1920.0.1920.1080" x="2709" y="293" />
     <location key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog.0.0.1366.768" x="496" y="272" />
-    <location key="#com.intellij.debugger.ui.EvaluationDialog2.1920.0.1920.1080" x="2468" y="320" />
+    <location key="extract.method.dialog.1920.0.1920.1080" x="2614" y="358" />
     <location key="#com.intellij.ide.actionMacro.EditMacrosDialog.1920.0.1920.1080" x="2706" y="351" />
-    <location key="ProcessPopupWindow" x="3357" y="951" />
-    <location key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor.0.0.1366.768" x="262" y="41" />
-    <location key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog.1920.0.1920.1080" x="2632" y="270" />
-    <location key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog.1920.0.1920.1080" x="2808" y="469" />
-    <location key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor.1920.0.1920.1080" x="2607" y="243" />
+    <location key="#com.intellij.debugger.ui.EvaluationDialog2.1920.0.1920.1080" x="2468" y="320" />
+    <location key="ProcessPopupWindow" x="3358" y="740" />
+    <location key="findTextDialog.1920.0.1920.1080" x="2786" y="645" />
     <location key="com.intellij.ide.passwordSafe.impl.providers.masterKey.ResetPasswordDialog.0.0.1366.768" x="499" y="299" />
     <location key="replaceTextDialog.1920.0.1920.1080" x="2667" y="338" />
-    <location key="OptionsEditor.0.0.1366.768" x="0" y="0" />
-    <location key="#com.intellij.ide.util.MemberChooser.0.0.1366.768" x="491" y="92" />
-    <location key="OptionsEditor.1920.0.1920.1080" x="2111" y="132" />
+    <location key="OptionsEditor.1920.0.1920.1080" x="2008" y="159" />
+    <size key="com.intellij.ide.passwordSafe.impl.providers.masterKey.MasterPasswordDialog.1920.0.1920.1080" width="729" height="134" />
+    <size key="#Browse_Repositories.0.0.1366.768" width="826" height="688" />
+    <size key="#com.intellij.ide.util.MemberChooser.1920.0.1920.1080" width="385" height="570" />
+    <size key="#Browse_Repositories.1920.0.1920.1080" width="826" height="687" />
+    <size key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog.1920.0.1920.1080" width="976" height="143" />
+    <size key="#com.intellij.openapi.editor.actions.MultiplePasteAction.Chooser.1920.0.1920.1080" width="326" height="748" />
+    <size key="Maven.ArtifactSearchDialog.1920.0.1920.1080" width="926" height="687" />
+    <size key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor.0.0.1366.768" width="826" height="688" />
+    <size key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor.1920.0.1920.1080" width="826" height="687" />
+    <size key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog.1920.0.1920.1080" width="432" height="241" />
+    <size key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog.1920.0.1920.1080" width="489" height="557" />
+    <size key="com.intellij.testIntegration.createTest.CreateTestDialog.1920.0.1920.1080" width="509" height="447" />
+    <size key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes.1920.0.1920.1080" width="493" height="289" />
+    <size key="#com.intellij.ide.util.MemberChooser.0.0.1366.768" width="376" height="587" />
+    <size key="OptionsEditor.0.0.1366.768" width="1226" height="768" />
+    <size key="#Code_Folding.1920.0.1920.1080" width="449" height="418" />
     <size key="replaceTextDialog.0.0.1366.768" width="419" height="450" />
     <size key="VCS.ChangeListViewerDialog.0.0.1366.768" width="426" height="571" />
     <size key="FileChooserDialogImpl.0.0.1366.768" width="426" height="525" />
-    <size key="#Browse_Repositories.0.0.1366.768" width="826" height="688" />
-    <size key="#Browse_Repositories.1920.0.1920.1080" width="826" height="687" />
+    <size key="#com.intellij.codeInsight.template.impl.EditVariableDialog.1920.0.1920.1080" width="530" height="258" />
+    <size key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.1920.0.1920.1080" width="506" height="187" />
+    <size key="FileChooserDialogImpl.1920.0.1920.1080" width="604" height="524" />
     <size key="FileChooserDialogImpl" width="770" height="660" />
-    <size key="FileChooserDialogImpl.1920.0.1920.1080" width="426" height="524" />
-    <size key="extract.method.dialog.1920.0.1920.1080" width="526" height="387" />
+    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.1920.0.1920.1080" width="826" height="687" />
     <size key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog.0.0.1366.768" width="366" height="226" />
-    <size key="#com.intellij.debugger.ui.EvaluationDialog2.1920.0.1920.1080" width="817" height="462" />
+    <size key="extract.method.dialog.1920.0.1920.1080" width="526" height="381" />
     <size key="#com.intellij.ide.actionMacro.EditMacrosDialog.1920.0.1920.1080" width="622" height="400" />
-    <size key="ProcessPopupWindow" width="480" height="108" />
-    <size key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor.0.0.1366.768" width="826" height="688" />
-    <size key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog.1920.0.1920.1080" width="489" height="563" />
-    <size key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog.1920.0.1920.1080" width="432" height="241" />
-    <size key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor.1920.0.1920.1080" width="826" height="687" />
+    <size key="#com.intellij.debugger.ui.EvaluationDialog2.1920.0.1920.1080" width="817" height="462" />
+    <size key="ProcessPopupWindow" width="480" height="302" />
+    <size key="findTextDialog.1920.0.1920.1080" width="448" height="414" />
     <size key="com.intellij.ide.passwordSafe.impl.providers.masterKey.ResetPasswordDialog.0.0.1366.768" width="359" height="173" />
     <size key="javadoc.popup.1920.0.1920.1080" width="502" height="125" />
     <size key="replaceTextDialog.1920.0.1920.1080" width="419" height="427" />
-    <size key="OptionsEditor.0.0.1366.768" width="1226" height="768" />
-    <size key="#com.intellij.ide.util.MemberChooser.0.0.1366.768" width="376" height="587" />
     <size key="OptionsEditor.1920.0.1920.1080" width="1729" height="847" />
   </component>
   <component name="LafManager">
@@ -51,10 +75,13 @@
   <component name="PropertiesComponent">
     <property name="JUnitSupport.hidePassedTests" value="false" />
     <property name="junit_statistics_table_columnsWidth5" value="75" />
-    <property name="FileTemplates.CurrentTab" value="Java EE" />
+    <property name="FileTemplates.CurrentTab" value="Templates" />
     <property name="MemberChooser.sorted" value="false" />
+    <property name="SingleInspectionProfilePanel.HORIZONTAL_DIVIDER_PROPORTION" value="0.5" />
     <property name="file.colors.enable.non.project" value="Yellow" />
     <property name="project.jdk.splitter" value="0.2" />
+    <property name="RunConfigurable.dividerProportion" value="0.3" />
+    <property name="SingleInspectionProfilePanel.VERTICAL_DIVIDER_PROPORTION" value="0.5" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="KEYMAP" value="Down&#10;Up" />
     <property name="default.storage.format" value=".idea (directory based)" />
@@ -66,7 +93,7 @@
     <property name="junit_statistics_table_columnsWidth1" value="75" />
     <property name="junit_statistics_table_columnsWidth0" value="75" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="FileTemplates.SelectedTemplate" value="Maven Profiles" />
+    <property name="FileTemplates.SelectedTemplate" value="XSLT Stylesheet" />
     <property name="junit_statistics_table_columnsOrder4" value="4" />
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="Non-Project Files" value="Yellow" />
@@ -75,11 +102,15 @@
     <property name="installation.uid" value="21a2305d-0358-4c53-bcf8-2bd3e27f9ccb" />
     <property name="junit_statistics_table_columnsOrder1" value="1" />
     <property name="junit_statistics_table_columnsOrder0" value="0" />
+    <property name="AssociationsEditor.dividerProportion" value="0.3" />
     <property name="file.colors.enable.tests" value="Green" />
     <property name="test_tree_console_proprtion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="junit_statistics_table_columnsOrder5" value="5" />
+    <property name="CREATE_FIELD_FROM_PARAMETER_DECLARE_FINAL" value="false" />
     <property name="Tests" value="Green" />
+    <property name="LayoutCode.optimizeImports" value="true" />
+    <property name="ColorChooser.RecentColors" value="115-0-106-255,,,199-204-0-255" />
   </component>
 </application>
 

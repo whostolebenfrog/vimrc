@@ -2,5 +2,54 @@
 <inspections profile_name="Default" version="1.0" is_locked="false">
   <option name="myName" value="Default" />
   <option name="myLocal" value="true" />
+  <inspection_tool class="AssignmentToForLoopParameter" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="m_checkForeachParameters" value="false" />
+  </inspection_tool>
+  <inspection_tool class="AssignmentToNull" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="BeforeClassOrAfterClassIsPublicStaticVoidNoArg" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="BeforeOrAfterIsPublicVoidNoArg" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="ClassComplexity" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="m_limit" value="80" />
+  </inspection_tool>
+  <inspection_tool class="ClassWithMultipleLoggers" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="loggerNamesString" value="java.util.logging.Logger,org.slf4j.Logger,org.apache.commons.logging.Log,org.apache.log4j.Logger" />
+  </inspection_tool>
+  <inspection_tool class="CyclomaticComplexity" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="m_limit" value="10" />
+  </inspection_tool>
+  <inspection_tool class="EqualsCalledOnEnumConstant" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="FeatureEnvy" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="ignoreTestCases" value="false" />
+  </inspection_tool>
+  <inspection_tool class="FieldCount" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="m_countConstantFields" value="false" />
+    <option name="m_considerStaticFinalFieldsConstant" value="false" />
+    <option name="m_limit" value="10" />
+  </inspection_tool>
+  <inspection_tool class="InnerClassMayBeStatic" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="ListIndexOfReplaceableByContains" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="MagicNumber" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="m_ignoreInHashCode" value="true" />
+  </inspection_tool>
+  <inspection_tool class="MethodCount" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="m_limit" value="20" />
+    <option name="ignoreGettersAndSetters" value="false" />
+  </inspection_tool>
+  <inspection_tool class="MissingDeprecatedAnnotation" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="MissingOverrideAnnotation" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="ignoreObjectMethods" value="true" />
+    <option name="ignoreAnonymousClassMethods" value="false" />
+  </inspection_tool>
+  <inspection_tool class="NonCommentSourceStatements" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="m_limit" value="30" />
+  </inspection_tool>
+  <inspection_tool class="RedundantSuppression" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="ReplaceAssignmentWithOperatorAssignment" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="ignoreLazyOperators" value="true" />
+    <option name="ignoreObscureOperators" value="false" />
+  </inspection_tool>
+  <inspection_tool class="SizeReplaceableByIsEmpty" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="SystemOutErr" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="ThrowablePrintStackTrace" enabled="true" level="WARNING" enabled_by_default="true" />
 </inspections>
 

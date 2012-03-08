@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templateSet group="user">
+  <template name="link" value="{@link $LINK$}" description="Javadoc @link template" toReformat="false" toShortenFQNames="true">
+    <variable name="LINK" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JAVA_STATEMENT" value="false" />
+      <option name="JAVA_EXPRESSION" value="false" />
+      <option name="JAVA_DECLARATION" value="false" />
+      <option name="JAVA_COMMENT" value="true" />
+      <option name="JAVA_STRING" value="false" />
+      <option name="COMPLETION" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="GROOVY_EXPRESSION" value="false" />
+      <option name="GROOVY_STATEMENT" value="false" />
+      <option name="GROOVY_DECLARATION" value="false" />
+      <option name="MAVEN" value="false" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
+  <template name="utest" value="@Test&#10;public void $TESTNAME$() {&#10;    // given&#10;    $END$&#10;    // when&#10;    &#10;    //then&#10;}" description="JUnit test" toReformat="false" toShortenFQNames="true">
+    <variable name="TESTNAME" expression="methodName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JAVA_STATEMENT" value="false" />
+      <option name="JAVA_EXPRESSION" value="false" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+      <option name="COMPLETION" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="GROOVY_EXPRESSION" value="false" />
+      <option name="GROOVY_STATEMENT" value="false" />
+      <option name="GROOVY_DECLARATION" value="false" />
+      <option name="MAVEN" value="false" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
+</templateSet>
+

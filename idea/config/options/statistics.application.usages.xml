@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <application>
   <component name="StatisticsApplicationUsages">
+    <group name="run-configuration-type">
+      <project id="ddex-interpreter-parent" values="Remote" />
+    </group>
     <group name="language-level">
       <project id="ddex-interpreter-parent" values="6.0 - @Override in interfaces" />
-      <project id="http-status-codes" values="6.0 - @Override in interfaces, etc.,5.0 - 'enum' keyword, autoboxing" />
+      <project id="http-status-codes" values=" etc., autoboxing,6.0 - @Override in interfaces,5.0 - 'enum' keyword" />
+      <project id="effective-java" values="6.0 - @Override in interfaces" />
     </group>
     <group name="vcs">
       <project id="ddex-interpreter-parent" values="Git" />
@@ -12,10 +16,12 @@
     <group name="module type">
       <project id="ddex-interpreter-parent" values="JAVA_MODULE" />
       <project id="http-status-codes" values="JAVA_MODULE" />
+      <project id="effective-java" values="JAVA_MODULE" />
     </group>
     <group name="file-type">
-      <project id="ddex-interpreter-parent" values="IDEA_MODULE,Eclipse,PLAIN_TEXT,UNKNOWN,XML,Properties,ARCHIVE,JAVA" />
-      <project id="http-status-codes" values="UNKNOWN,Eclipse,IDEA_MODULE,JAVA,XML,PLAIN_TEXT" />
+      <project id="ddex-interpreter-parent" values="XML,JAVA,UNKNOWN,Properties,IDEA_MODULE,ARCHIVE,PLAIN_TEXT,Eclipse" />
+      <project id="http-status-codes" values="Eclipse,JAVA,XML,UNKNOWN,PLAIN_TEXT,IDEA_MODULE" />
+      <project id="effective-java" values="XML,IDEA_MODULE,UNKNOWN,Eclipse,JAVA" />
     </group>
     <group name="run-configuration-type-temp">
       <project id="ddex-interpreter-parent" values="JUnit" />
@@ -23,8 +29,9 @@
   </component>
   <component name="UsageTrigger">
     <counts>
-      <entry feature="execute.JUnit.Debug" count="12" />
-      <entry feature="execute.JUnit.Run" count="45" />
+      <entry feature="execute.JUnit.Debug" count="27" />
+      <entry feature="execute.JUnit.Run" count="68" />
+      <entry feature="execute.Remote.Debug" count="1" />
     </counts>
   </component>
 </application>

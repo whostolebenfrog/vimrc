@@ -131,6 +131,9 @@
     <mouse-shortcut keystroke="alt button2" />
   </action>
   <action id="RecentFiles" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="control R" second-keystroke="control F" />
+  </action>
   <action id="Replace" />
   <action id="RunClass">
     <keyboard-shortcut first-keystroke="shift control F10" />
