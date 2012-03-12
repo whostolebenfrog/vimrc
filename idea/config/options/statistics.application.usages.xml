@@ -1,37 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <application>
   <component name="StatisticsApplicationUsages">
-    <group name="run-configuration-type">
-      <project id="ddex-interpreter-parent" values="Remote" />
-    </group>
     <group name="language-level">
       <project id="ddex-interpreter-parent" values="6.0 - @Override in interfaces" />
-      <project id="http-status-codes" values=" etc., autoboxing,6.0 - @Override in interfaces,5.0 - 'enum' keyword" />
+      <project id="http-status-codes" values="6.0 - @Override in interfaces, autoboxing,5.0 - 'enum' keyword, etc." />
       <project id="effective-java" values="6.0 - @Override in interfaces" />
     </group>
-    <group name="vcs">
-      <project id="ddex-interpreter-parent" values="Git" />
-      <project id="http-status-codes" values="Git" />
+    <group name="run-configuration-type">
+      <project id="ddex-interpreter-parent" values="Remote" />
     </group>
     <group name="module type">
       <project id="ddex-interpreter-parent" values="JAVA_MODULE" />
       <project id="http-status-codes" values="JAVA_MODULE" />
       <project id="effective-java" values="JAVA_MODULE" />
     </group>
-    <group name="file-type">
-      <project id="ddex-interpreter-parent" values="XML,JAVA,UNKNOWN,Properties,IDEA_MODULE,ARCHIVE,PLAIN_TEXT,Eclipse" />
-      <project id="http-status-codes" values="Eclipse,JAVA,XML,UNKNOWN,PLAIN_TEXT,IDEA_MODULE" />
-      <project id="effective-java" values="XML,IDEA_MODULE,UNKNOWN,Eclipse,JAVA" />
+    <group name="vcs">
+      <project id="ddex-interpreter-parent" values="Git" />
+      <project id="http-status-codes" values="Git" />
     </group>
     <group name="run-configuration-type-temp">
       <project id="ddex-interpreter-parent" values="JUnit" />
+      <project id="effective-java" values="JUnit" />
+    </group>
+    <group name="file-type">
+      <project id="ddex-interpreter-parent" values="JAVA,IDEA_MODULE,XML,Properties,Eclipse,PLAIN_TEXT,UNKNOWN,ARCHIVE" />
+      <project id="http-status-codes" values="PLAIN_TEXT,IDEA_MODULE,XML,Eclipse,JAVA,UNKNOWN" />
+      <project id="effective-java" values="JAVA,XML,Eclipse,UNKNOWN,IDEA_MODULE" />
     </group>
   </component>
   <component name="UsageTrigger">
     <counts>
       <entry feature="execute.JUnit.Debug" count="27" />
-      <entry feature="execute.JUnit.Run" count="68" />
-      <entry feature="execute.Remote.Debug" count="1" />
+      <entry feature="execute.JUnit.Run" count="84" />
+      <entry feature="execute.Remote.Debug" count="10" />
     </counts>
   </component>
 </application>

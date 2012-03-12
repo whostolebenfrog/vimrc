@@ -2,6 +2,7 @@
 <application>
   <component name="UISettings">
     <option name="FONT_FACE" value="Bitstream Charter" />
+    <option name="MAX_LOOKUP_WIDTH" value="351" />
   </component>
 </application>
 

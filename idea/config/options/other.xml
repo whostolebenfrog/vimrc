@@ -89,12 +89,15 @@
     <option name="REGULAR_EXPRESSIONS" value="false" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="false" />
     <option name="WITH_SUBDIRECTORIES" value="true" />
-    <option name="SEARCH_SCOPE" value="All Project Classes" />
+    <option name="SEARCH_SCOPE" value="Project Files" />
     <option name="FILE_MASK" />
     <option name="RECENT_FIND_STRINGS">
       <value>
-        <list size="1">
+        <list size="4">
           <item index="0" class="java.lang.String" itemvalue="IMRC" />
+          <item index="1" class="java.lang.String" itemvalue="ddex.applog.user" />
+          <item index="2" class="java.lang.String" itemvalue="applog.categoryId" />
+          <item index="3" class="java.lang.String" itemvalue="applog.user" />
         </list>
       </value>
     </option>
@@ -147,22 +150,23 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
-        <option value="$USER_HOME$/workspace/local/effective-java" />
         <option value="$USER_HOME$/workspace/ddex-interpreter" />
+        <option value="$USER_HOME$/workspace/local/effective-java" />
+        <option value="$USER_HOME$/workspace/technical_overview-spring" />
         <option value="$USER_HOME$/workspace/http-status-codes" />
       </list>
     </option>
     <option name="openPaths">
       <list>
-        <option value="$USER_HOME$/workspace/ddex-interpreter" />
+        <option value="$USER_HOME$/workspace/local/effective-java" />
       </list>
     </option>
     <option name="names">
       <map>
-        <entry key="$USER_HOME$/workspace/ddex-interpreter" value="" />
+        <entry key="$USER_HOME$/workspace/local/effective-java" value="" />
       </map>
     </option>
-    <option name="lastPath" value="$USER_HOME$/workspace/local/effective-java" />
+    <option name="lastPath" value="$USER_HOME$/workspace/ddex-interpreter" />
   </component>
   <component name="RefactoringSettings">
     <option name="MOVE_PREVIEW_USAGES" value="false" />
@@ -209,7 +213,7 @@
       </value>
     </option>
     <option name="CHECK_NEEDED" value="true" />
-    <option name="LAST_TIME_CHECKED" value="1331115027077" />
+    <option name="LAST_TIME_CHECKED" value="1331543881810" />
     <option name="UPDATE_CHANNEL_TYPE" value="release" />
   </component>
   <component name="XDebuggerSettings">
@@ -273,8 +277,8 @@
     <j2ee_templates />
   </component>
   <component name="com.intellij.javaee.ExternalResourceManagerImpl">
-    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
     <ignored-resource url="urn:idea:xslt-plugin#extensions" />
+    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
     <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
     <ignored-resource url="http://www.w3.org/2000/svg" />
     <default-html-doctype>http://www.w3.org/1999/xhtml</default-html-doctype>

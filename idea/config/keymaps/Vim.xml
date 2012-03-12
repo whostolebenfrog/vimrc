@@ -19,6 +19,9 @@
   <action id="CheckinProject" />
   <action id="ClassNameCompletion" />
   <action id="ClearCase.CheckInProject" />
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="control R" second-keystroke="control W" />
+  </action>
   <action id="CodeCompletion" />
   <action id="CommanderSwapPanels" />
   <action id="Console.TableResult.Reload" />

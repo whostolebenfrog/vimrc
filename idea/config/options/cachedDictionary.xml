@@ -6,6 +6,7 @@
       <w>applog</w>
       <w>bgriffit</w>
       <w>carte</w>
+      <w>componentname</w>
       <w>datatype</w>
       <w>ddex</w>
       <w>ddexern</w>
@@ -14,13 +15,19 @@
       <w>filestore</w>
       <w>flac</w>
       <w>ingester</w>
+      <w>ingestor</w>
       <w>jaxb</w>
+      <w>jaxrs</w>
+      <w>metricname</w>
       <w>multi</w>
       <w>multitrack</w>
       <w>multivolume</w>
+      <w>networkmanager</w>
       <w>nokia</w>
+      <w>providername</w>
       <w>sproc</w>
       <w>unmarshall</w>
+      <w>yyyy</w>
     </words>
   </component>
 </application>
