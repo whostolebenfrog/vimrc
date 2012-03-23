@@ -96,6 +96,9 @@
   <action id="FindPrevious">
     <keyboard-shortcut first-keystroke="shift F3" />
   </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="control R" second-keystroke="control U" />
+  </action>
   <action id="GotoBookmark2" />
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="shift alt N" />

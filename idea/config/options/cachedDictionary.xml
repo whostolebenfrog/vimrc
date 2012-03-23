@@ -6,25 +6,39 @@
       <w>applog</w>
       <w>bgriffit</w>
       <w>carte</w>
+      <w>codec</w>
       <w>componentname</w>
       <w>datatype</w>
       <w>ddex</w>
       <w>ddexern</w>
       <w>ddexinterpreter</w>
+      <w>deal's</w>
       <w>dest</w>
+      <w>dpid</w>
+      <w>fileid</w>
       <w>filestore</w>
       <w>flac</w>
+      <w>futureoffering</w>
+      <w>icpn</w>
       <w>ingester</w>
       <w>ingestor</w>
+      <w>ipid</w>
+      <w>irsc</w>
       <w>jaxb</w>
       <w>jaxrs</w>
       <w>metricname</w>
+      <w>mins</w>
       <w>multi</w>
       <w>multitrack</w>
       <w>multivolume</w>
       <w>networkmanager</w>
       <w>nokia</w>
+      <w>packshot</w>
+      <w>partyid</w>
       <w>providername</w>
+      <w>rawtypes</w>
+      <w>sgeneric</w>
+      <w>simpleddexsample</w>
       <w>sproc</w>
       <w>unmarshall</w>
       <w>yyyy</w>
