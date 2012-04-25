@@ -1,0 +1,1 @@
+:command PrettyJson %!python -m json.tool

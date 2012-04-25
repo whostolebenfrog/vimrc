@@ -1,38 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <application>
   <component name="StatisticsApplicationUsages">
-    <group name="run-configuration-type">
-      <project id="ddex-interpreter-parent" values="Remote" />
-    </group>
     <group name="language-level">
       <project id="ddex-interpreter-parent" values="6.0 - @Override in interfaces" />
-      <project id="http-status-codes" values=" etc.,6.0 - @Override in interfaces, autoboxing,5.0 - 'enum' keyword" />
+      <project id="http-status-codes" values="5.0 - 'enum' keyword, etc., autoboxing,6.0 - @Override in interfaces" />
       <project id="effective-java" values="6.0 - @Override in interfaces" />
+      <project id="ExternalApi-Service" values="6.0 - @Override in interfaces" />
     </group>
-    <group name="vcs">
-      <project id="ddex-interpreter-parent" values="Git" />
-      <project id="http-status-codes" values="Git" />
+    <group name="run-configuration-type">
+      <project id="ddex-interpreter-parent" values="Remote" />
     </group>
     <group name="module type">
       <project id="ddex-interpreter-parent" values="JAVA_MODULE" />
       <project id="http-status-codes" values="JAVA_MODULE" />
       <project id="effective-java" values="JAVA_MODULE" />
+      <project id="ExternalApi-Service" values="JAVA_MODULE" />
     </group>
-    <group name="file-type">
-      <project id="ddex-interpreter-parent" values="JAVA,Eclipse,ARCHIVE,UNKNOWN,IDEA_MODULE,XML,Properties,PLAIN_TEXT" />
-      <project id="http-status-codes" values="IDEA_MODULE,PLAIN_TEXT,Eclipse,UNKNOWN,JAVA,XML" />
-      <project id="effective-java" values="XML,UNKNOWN,JAVA,IDEA_MODULE,Eclipse" />
+    <group name="vcs">
+      <project id="ddex-interpreter-parent" values="Git" />
+      <project id="http-status-codes" values="Git" />
+      <project id="ExternalApi-Service" values="Git" />
     </group>
     <group name="run-configuration-type-temp">
       <project id="ddex-interpreter-parent" values="JUnit" />
       <project id="effective-java" values="JUnit" />
+      <project id="ExternalApi-Service" values="JUnit" />
+    </group>
+    <group name="file-type">
+      <project id="ddex-interpreter-parent" values="UNKNOWN,IDEA_MODULE,CLASS,Eclipse,PLAIN_TEXT,Properties,XML,JAVA,ARCHIVE" />
+      <project id="http-status-codes" values="JAVA,XML,Eclipse,IDEA_MODULE,PLAIN_TEXT,UNKNOWN" />
+      <project id="effective-java" values="XML,Eclipse,JAVA,UNKNOWN,IDEA_MODULE" />
+      <project id="ExternalApi-Service" values="XML,PLAIN_TEXT,JAVA,Properties,ARCHIVE,IDEA_MODULE,UNKNOWN" />
     </group>
   </component>
   <component name="UsageTrigger">
     <counts>
-      <entry feature="execute.JUnit.Debug" count="94" />
-      <entry feature="execute.JUnit.Run" count="311" />
-      <entry feature="execute.Remote.Debug" count="13" />
+      <entry feature="execute.JUnit.Debug" count="183" />
+      <entry feature="execute.JUnit.Run" count="898" />
+      <entry feature="execute.Remote.Debug" count="20" />
     </counts>
   </component>
 </application>

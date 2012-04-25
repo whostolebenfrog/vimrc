@@ -86,14 +86,14 @@
     <option name="COMMENTS_ONLY" value="false" />
     <option name="STRING_LITERALS_ONLY" value="false" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="false" />
-    <option name="REGULAR_EXPRESSIONS" value="false" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="false" />
     <option name="WITH_SUBDIRECTORIES" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
     <option name="FILE_MASK" value="*.java" />
     <option name="RECENT_FIND_STRINGS">
       <value>
-        <list size="8">
+        <list size="30">
           <item index="0" class="java.lang.String" itemvalue="IMRC" />
           <item index="1" class="java.lang.String" itemvalue="ddex.applog.user" />
           <item index="2" class="java.lang.String" itemvalue="applog.categoryId" />
@@ -102,6 +102,28 @@
           <item index="5" class="java.lang.String" itemvalue="archive.documentTypeDefinition" />
           <item index="6" class="java.lang.String" itemvalue="IPID" />
           <item index="7" class="java.lang.String" itemvalue="IPID_PREFIX" />
+          <item index="8" class="java.lang.String" itemvalue="ddex.machine" />
+          <item index="9" class="java.lang.String" itemvalue="control.machine=" />
+          <item index="10" class="java.lang.String" itemvalue="control.machine" />
+          <item index="11" class="java.lang.String" itemvalue="applog.machine" />
+          <item index="12" class="java.lang.String" itemvalue="applog.qualifiedTableName" />
+          <item index="13" class="java.lang.String" itemvalue="A10301A00018839230_T-001392_Image.jpg" />
+          <item index="14" class="java.lang.String" itemvalue="9A12EBDBC3310F5BE04400212806964E" />
+          <item index="15" class="java.lang.String" itemvalue="sinlge.resource.release" />
+          <item index="16" class="java.lang.String" itemvalue="single.resource.release" />
+          <item index="17" class="java.lang.String" itemvalue="sony.priceCampaign" />
+          <item index="18" class="java.lang.String" itemvalue="DDEX_EXAMPLE1" />
+          <item index="19" class="java.lang.String" itemvalue="simplified.xml.examples" />
+          <item index="20" class="java.lang.String" itemvalue="sony.drop.1.album" />
+          <item index="21" class="java.lang.String" itemvalue="sampleDdex.xml" />
+          <item index="22" class="java.lang.String" itemvalue="sampleDdex" />
+          <item index="23" class="java.lang.String" itemvalue="4.2.single.resource.release" />
+          <item index="24" class="java.lang.String" itemvalue="failing.xml.examples" />
+          <item index="25" class="java.lang.String" itemvalue="Thread.sleep" />
+          <item index="26" class="java.lang.String" itemvalue="com.ovi.music.externalapi.types.Provider" />
+          <item index="27" class="java.lang.String" itemvalue="com.ovi.music.thefilter" />
+          <item index="28" class="java.lang.String" itemvalue="environment.music.theFilter1.baseUrl" />
+          <item index="29" class="java.lang.String" itemvalue="DdexPrice" />
         </list>
       </value>
     </option>
@@ -114,8 +136,10 @@
     </option>
     <option name="RECENT_DIR_STRINGS">
       <value>
-        <list size="1">
-          <item index="0" class="java.lang.String" itemvalue="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-acceptancetest/src/test/resources/com/nokia/ent/ddexinterpreter/converter" />
+        <list size="3">
+          <item index="0" class="java.lang.String" itemvalue="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/resources/com" />
+          <item index="1" class="java.lang.String" itemvalue="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/resources/simplified.xml.examples" />
+          <item index="2" class="java.lang.String" itemvalue="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-acceptancetest/src/test/resources/com/nokia/ent/ddexinterpreter/converter" />
         </list>
       </value>
     </option>
@@ -125,14 +149,14 @@
           <item index="0" class="java.lang.String" itemvalue="*.properties" />
           <item index="1" class="java.lang.String" itemvalue="*.html" />
           <item index="2" class="java.lang.String" itemvalue="*.jsp" />
-          <item index="3" class="java.lang.String" itemvalue="*.xml" />
-          <item index="4" class="java.lang.String" itemvalue="*.php" />
-          <item index="5" class="java.lang.String" itemvalue="*.js" />
-          <item index="6" class="java.lang.String" itemvalue="*.as" />
-          <item index="7" class="java.lang.String" itemvalue="*.css" />
-          <item index="8" class="java.lang.String" itemvalue="*.mxml" />
-          <item index="9" class="java.lang.String" itemvalue="*.py" />
-          <item index="10" class="java.lang.String" itemvalue="*.rb" />
+          <item index="3" class="java.lang.String" itemvalue="*.php" />
+          <item index="4" class="java.lang.String" itemvalue="*.js" />
+          <item index="5" class="java.lang.String" itemvalue="*.as" />
+          <item index="6" class="java.lang.String" itemvalue="*.css" />
+          <item index="7" class="java.lang.String" itemvalue="*.mxml" />
+          <item index="8" class="java.lang.String" itemvalue="*.py" />
+          <item index="9" class="java.lang.String" itemvalue="*.rb" />
+          <item index="10" class="java.lang.String" itemvalue="*.xml" />
           <item index="11" class="java.lang.String" itemvalue="*.java" />
         </list>
       </value>
@@ -157,6 +181,7 @@
     <option name="recentPaths">
       <list>
         <option value="$USER_HOME$/workspace/ddex-interpreter" />
+        <option value="$USER_HOME$/workspace/entertainment-api" />
         <option value="$USER_HOME$/workspace/local/effective-java" />
         <option value="$USER_HOME$/workspace/technical_overview-spring" />
         <option value="$USER_HOME$/workspace/http-status-codes" />
@@ -164,7 +189,7 @@
     </option>
     <option name="openPaths">
       <list>
-        <option value="$USER_HOME$/workspace/ddex-interpreter" />
+        <option value="$USER_HOME$/workspace/entertainment-api" />
       </list>
     </option>
     <option name="names">
@@ -177,6 +202,7 @@
   <component name="RefactoringSettings">
     <option name="MOVE_PREVIEW_USAGES" value="false" />
     <option name="INTRODUCE_FIELD_VISIBILITY" value="private" />
+    <option name="INTRODUCE_CONSTANT_VISIBILITY" value="public" />
     <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
   </component>
   <component name="Registry">
@@ -215,11 +241,13 @@
     </option>
     <option name="myIgnoredBuildNumbers">
       <value>
-        <list size="0" />
+        <list size="1">
+          <item index="0" class="java.lang.String" itemvalue="117.117" />
+        </list>
       </value>
     </option>
     <option name="CHECK_NEEDED" value="true" />
-    <option name="LAST_TIME_CHECKED" value="1332149290920" />
+    <option name="LAST_TIME_CHECKED" value="1335272421177" />
     <option name="UPDATE_CHANNEL_TYPE" value="release" />
   </component>
   <component name="XDebuggerSettings">
@@ -283,8 +311,8 @@
     <j2ee_templates />
   </component>
   <component name="com.intellij.javaee.ExternalResourceManagerImpl">
-    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
     <ignored-resource url="urn:idea:xslt-plugin#extensions" />
+    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
     <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
     <ignored-resource url="http://www.w3.org/2000/svg" />
     <default-html-doctype>http://www.w3.org/1999/xhtml</default-html-doctype>

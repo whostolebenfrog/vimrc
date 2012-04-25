@@ -22,7 +22,7 @@
       <option name="OTHER" value="false" />
     </context>
   </template>
-  <template name="utest" value="@Test&#10;public void $TESTNAME$() {&#10;    // given&#10;    $END$&#10;    // when&#10;    &#10;    //then&#10;}" description="JUnit test" toReformat="false" toShortenFQNames="true">
+  <template name="utest" value="@Test&#10;public void $TESTNAME$() {&#10;    // given&#10;    $END$&#10;            &#10;    // when&#10;    &#10;    // then&#10;}" description="JUnit test" toReformat="false" toShortenFQNames="true">
     <variable name="TESTNAME" expression="methodName()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="HTML_TEXT" value="false" />
@@ -65,7 +65,7 @@
       <option name="OTHER" value="false" />
     </context>
   </template>
-  <template name="jpub" value="public $type$ $methodname$($vars$) {&#10;    $end$&#10;}" description="java public method" toReformat="false" toShortenFQNames="true">
+  <template name="pub" value="public $type$ $methodname$($vars$) {&#10;    $end$&#10;}" description="java public method" toReformat="false" toShortenFQNames="true">
     <variable name="type" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="methodname" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="vars" expression="" defaultValue="" alwaysStopAt="true" />
@@ -90,7 +90,7 @@
       <option name="OTHER" value="false" />
     </context>
   </template>
-  <template name="jeq" value="@Override&#10;public boolean equals(Object obj) {&#10;    return EqualsBuilder.reflectionEquals(this, obj);&#10;}" description="Java reflection equals" toReformat="false" toShortenFQNames="true">
+  <template name="eq" value="@Override&#10;public boolean equals(Object obj) {&#10;    return EqualsBuilder.reflectionEquals(this, obj);&#10;}" description="Java reflection equals" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="HTML_TEXT" value="false" />
       <option name="HTML" value="false" />
@@ -111,7 +111,7 @@
       <option name="OTHER" value="false" />
     </context>
   </template>
-  <template name="jhc" value="@Override&#10;public int hashCode() {&#10;    return HashCodeBuilder.reflectionHashCode(this);&#10;}" description="Java reflection hashcode" toReformat="false" toShortenFQNames="true">
+  <template name="hc" value="@Override&#10;public int hashCode() {&#10;    return HashCodeBuilder.reflectionHashCode(this);&#10;}" description="Java reflection hashcode" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="HTML_TEXT" value="false" />
       <option name="HTML" value="false" />
@@ -121,6 +121,142 @@
       <option name="JAVA_STATEMENT" value="false" />
       <option name="JAVA_EXPRESSION" value="false" />
       <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+      <option name="COMPLETION" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="GROOVY_EXPRESSION" value="false" />
+      <option name="GROOVY_STATEMENT" value="false" />
+      <option name="GROOVY_DECLARATION" value="false" />
+      <option name="MAVEN" value="false" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
+  <template name="isfalse" value="org.junit.Assert.assertThat($lhs$, org.hamcrest.Matchers.is(org.hamcrest.Matchers.equalTo(false)));" description="hamcrest is false" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="lhs" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JAVA_STATEMENT" value="false" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_DECLARATION" value="false" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+      <option name="COMPLETION" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="GROOVY_EXPRESSION" value="false" />
+      <option name="GROOVY_STATEMENT" value="false" />
+      <option name="GROOVY_DECLARATION" value="false" />
+      <option name="MAVEN" value="false" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
+  <template name="istrue" value="org.junit.Assert.assertThat($lhs$, org.hamcrest.Matchers.is(org.hamcrest.Matchers.equalTo(true)));" description="hamcrest is true" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="lhs" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JAVA_STATEMENT" value="false" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_DECLARATION" value="false" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+      <option name="COMPLETION" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="GROOVY_EXPRESSION" value="false" />
+      <option name="GROOVY_STATEMENT" value="false" />
+      <option name="GROOVY_DECLARATION" value="false" />
+      <option name="MAVEN" value="false" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
+  <template name="iseq" value="org.junit.Assert.assertThat($lhs$, org.hamcrest.Matchers.is(org.hamcrest.Matchers.equalTo($rhs$)));" description="hamcrest is equal" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="lhs" expression="variableOfType(Type)" defaultValue="" alwaysStopAt="true" />
+    <variable name="rhs" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_EXPRESSION" value="false" />
+      <option name="JAVA_DECLARATION" value="false" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+      <option name="COMPLETION" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="GROOVY_EXPRESSION" value="false" />
+      <option name="GROOVY_STATEMENT" value="false" />
+      <option name="GROOVY_DECLARATION" value="false" />
+      <option name="MAVEN" value="false" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
+  <template name="mock" value="$VAR$ = org.mockito.Mockito.mock($class$.class);" description="mockito mock" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="class" expression="typeOfVariable(VAR)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JAVA_STATEMENT" value="false" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_DECLARATION" value="false" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+      <option name="COMPLETION" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="GROOVY_EXPRESSION" value="false" />
+      <option name="GROOVY_STATEMENT" value="false" />
+      <option name="GROOVY_DECLARATION" value="false" />
+      <option name="MAVEN" value="false" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
+  <template name="sstring" value="public static final String $VAL$ = &quot;$value$&quot;;" description="public static final string" toReformat="false" toShortenFQNames="true">
+    <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAL" expression="capitalizeAndUnderscore(value)" defaultValue="value" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+      <option name="COMPLETION" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="GROOVY_EXPRESSION" value="false" />
+      <option name="GROOVY_STATEMENT" value="false" />
+      <option name="GROOVY_DECLARATION" value="false" />
+      <option name="MAVEN" value="false" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
+  <template name="fail" value="org.junit.Assert.fail(String.format(&quot;$text$&quot;$other$));" description="JUnit assert fail" toReformat="false" toShortenFQNames="true">
+    <variable name="text" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="other" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JAVA_STATEMENT" value="false" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_DECLARATION" value="false" />
       <option name="JAVA_COMMENT" value="false" />
       <option name="JAVA_STRING" value="false" />
       <option name="COMPLETION" value="false" />

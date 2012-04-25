@@ -4,173 +4,115 @@
     <state enabled="true" keymap="$default" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/remote/dao/ArchiveDAO.java" timestamp="1331547184441">
-        <mark key="'" line="12" column="17" />
-        <mark key="]" line="41" column="14" />
-        <mark key="^" line="41" column="14" />
-        <mark key="[" line="41" column="14" />
-      </file>
       <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/remote/InMemoryLoggingService.java" timestamp="1331203015664">
         <mark key="]" line="16" column="108" />
         <mark key="^" line="16" column="108" />
         <mark key="[" line="15" column="90" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/resources/sony.priceCampaign/A10301A00016880198.xml" timestamp="1332328764243">
-        <mark key="'" line="1822" column="13" />
-        <mark key="[" line="11" column="24" />
+      <file name="$USER_HOME$/workspace/entertainment-api/ExternalApi-AcceptanceTests/src/test/java/com/ovi/music/externalapi/events/recommendations/EventRecommendationsArtistAT.java" timestamp="1334937926930">
+        <mark key="'" line="43" column="42" />
+        <mark key="]" line="178" column="119" />
+        <mark key="^" line="178" column="77" />
+        <mark key="[" line="178" column="77" />
+      </file>
+      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/generic/GenericAbstractOffering.java" timestamp="1335348213728">
+        <mark key="'" line="6" column="0" />
+        <mark key="]" line="76" column="16" />
+        <mark key="^" line="75" column="42" />
+        <mark key="[" line="76" column="0" />
+      </file>
+      <file name="/*.regexp" timestamp="1335348911299">
+        <mark key="]" line="0" column="22" />
+        <mark key="^" line="0" column="22" />
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/metrics/graphite/GraphiteMetricService.java" timestamp="1331640008393">
         <mark key="]" line="74" column="89" />
         <mark key="^" line="74" column="89" />
         <mark key="[" line="74" column="89" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/resources/ddex-interpreter.properties" timestamp="1331634326897">
-        <mark key="'" line="0" column="0" />
-        <mark key="]" line="45" column="29" />
-        <mark key="^" line="45" column="63" />
-        <mark key="[" line="45" column="0" />
+      <file name="$MAVEN_REPOSITORY$/com/ovi/music/thefilter/TheFilter-Client/0.0.15/TheFilter-Client-0.0.15-sources.jar!/com/ovi/music/thefilter/client/rest/AbstractTheFilterRestEasyClient.java" timestamp="1335344898856">
+        <mark key="'" line="7" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/io/NetworkManager.java" timestamp="1331560189198">
-        <mark key="]" line="42" column="38" />
-        <mark key="^" line="42" column="38" />
-        <mark key="[" line="42" column="14" />
+      <file name="$USER_HOME$/workspace/entertainment-api/ExternalApi-Resource-SimilarCreators/src/main/resources/README" timestamp="1335262268417">
+        <mark key="]" line="0" column="109" />
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/resources/complete.simple.priceCampaign.xml.example/ddex.xml" timestamp="1332265336278">
-        <mark key="'" line="1155" column="36" />
-        <mark key="]" line="1151" column="73" />
-        <mark key="^" line="1151" column="73" />
-        <mark key="[" line="1151" column="73" />
+      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/ddex/DdexDealTerms.java" timestamp="1335349060213">
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="36" column="14" />
+        <mark key="[" line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/io/FileSystemDdexFileStoreTest.java" timestamp="1331311150734">
-        <mark key="'" line="84" column="0" />
-        <mark key="]" line="123" column="74" />
-        <mark key="^" line="123" column="74" />
-        <mark key="[" line="123" column="69" />
-      </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/ddex/DdexDealTerms.java" timestamp="1332254909973">
-        <mark key="'" line="77" column="22" />
-        <mark key="]" line="13" column="11" />
-        <mark key="^" line="13" column="11" />
-        <mark key="[" line="13" column="4" />
-      </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/generic/GenericRootElement.java" timestamp="1332246627309">
-        <mark key="'" line="45" column="44" />
-        <mark key="]" line="15" column="13" />
-        <mark key="^" line="45" column="79" />
-        <mark key="[" line="15" column="13" />
+      <file name="$USER_HOME$/workspace/entertainment-api/ExternalApi-Resource-Views/src/main/resources/views/music/wp7/artist.json" timestamp="1335200371837">
+        <mark key="]" line="48" column="9" />
+        <mark key="^" line="48" column="9" />
+        <mark key="[" line="47" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/rest/jaxrs/ArchiveResource.java" timestamp="1331310601251">
         <mark key="]" line="23" column="61" />
         <mark key="^" line="23" column="61" />
         <mark key="[" line="23" column="45" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/ddex/DdexPrice.java" timestamp="1332259528272">
-        <mark key="'" line="22" column="98" />
-        <mark key="]" line="21" column="29" />
-        <mark key="^" line="21" column="29" />
-        <mark key="[" line="21" column="30" />
+      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/ddex/DdexPrice.java" timestamp="1335348795506" />
+      <file name="$USER_HOME$/workspace/entertainment-api/ExternalApi-Resource-EventsRecommendations/src/main/java/com/ovi/music/externalapi/types/EventRecommendationsResponse.java" timestamp="1334924764979">
+        <mark key="'" line="15" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-acceptancetest/src/test/resources/examples/providers/sony/ddex.xml" timestamp="1331115491312">
-        <mark key="]" line="17" column="35" />
-        <mark key="^" line="17" column="35" />
-        <mark key="[" line="17" column="26" />
-      </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/metrics/MetricService.java" timestamp="1331639802005">
-        <mark key="'" line="43" column="59" />
-        <mark key="]" line="49" column="75" />
-        <mark key="^" line="49" column="73" />
-        <mark key="[" line="49" column="75" />
+      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/resources/complete.simple.xml.example/generic.xml" timestamp="1333556042058">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/aspect/DdexMetricsAspectTest.java" timestamp="1331569539573">
         <mark key="]" line="108" column="62" />
         <mark key="^" line="108" column="62" />
         <mark key="[" line="108" column="55" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/rest/beans/ArchiveBean.java" timestamp="1331310781080">
-        <mark key="'" line="41" column="27" />
-        <mark key="]" line="41" column="107" />
-        <mark key="^" line="41" column="143" />
-        <mark key="[" line="41" column="107" />
-      </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/exception/DdexInterpreterUncheckedException.java" timestamp="1331204264627">
-        <mark key="'" line="24" column="11" />
-        <mark key="]" line="5" column="70" />
-        <mark key="^" line="5" column="70" />
-        <mark key="[" line="5" column="55" />
-      </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/generic/GenericOfferingTypeCollection.java" timestamp="1332436495285">
-        <mark key="'" line="41" column="62" />
-        <mark key="]" line="17" column="11" />
-        <mark key="^" line="17" column="11" />
-        <mark key="[" line="17" column="4" />
+      <file name="$MAVEN_REPOSITORY$/com/github/rest-driver/rest-client-driver/1.1.19/rest-client-driver-1.1.19-sources.jar!/com/github/restdriver/clientdriver/ClientDriverRule.java" timestamp="1334931604267">
+        <mark key="'" line="106" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/io/InMemoryDdexFileStore.java" timestamp="1331311000068">
         <mark key="]" line="29" column="73" />
         <mark key="^" line="29" column="73" />
         <mark key="[" line="29" column="55" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/io/FileSystemFailedFileStore.java" timestamp="1331554133733">
-        <mark key="'" line="19" column="13" />
-        <mark key="]" line="92" column="85" />
-        <mark key="^" line="92" column="85" />
-        <mark key="[" line="92" column="84" />
+      <file name="$USER_HOME$/workspace/entertainment-api/ExternalApi-Resource-SimilarCreators/src/main/java/com/ovi/music/externalapi/rest/SimilarCreatorsParameterValidator.java" timestamp="1334849555904">
+        <mark key="]" line="7" column="3" />
+        <mark key="^" line="7" column="3" />
+        <mark key="[" line="7" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/remote/InMemoryRemoteControl.java" timestamp="1331553083167">
         <mark key="]" line="34" column="52" />
         <mark key="^" line="34" column="52" />
         <mark key="[" line="34" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/generic/GenericCollectionOfferingType.java" timestamp="1332496100904">
-        <mark key="'" line="13" column="67" />
-        <mark key="]" line="41" column="13" />
-        <mark key="^" line="41" column="13" />
-        <mark key="[" line="41" column="4" />
-      </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/metrics/Timer.java" timestamp="1331570093308">
-        <mark key="'" line="7" column="32" />
-        <mark key="]" line="23" column="98" />
-        <mark key="^" line="23" column="98" />
-        <mark key="[" line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/exception/DdexConversionException.java" timestamp="1331655591096">
-        <mark key="'" line="29" column="11" />
-        <mark key="]" line="28" column="84" />
-        <mark key="^" line="28" column="84" />
-        <mark key="[" line="28" column="77" />
+      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/converter/JaxbDdexConverterTest.java" timestamp="1333620932184">
+        <mark key="]" line="39" column="75" />
+        <mark key="^" line="39" column="75" />
+        <mark key="[" line="39" column="72" />
       </file>
       <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/exception/ProviderAware.java" timestamp="1331203512094">
         <mark key="]" line="12" column="53" />
         <mark key="^" line="12" column="13" />
         <mark key="[" line="8" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/io/AbstractFileSystemFileStore.java" timestamp="1332518419405">
-        <mark key="'" line="77" column="27" />
+      <file name="$USER_HOME$/workspace/entertainment-api/ExternalApi-Resource-Search/src/main/java/com/ovi/music/externalapi/rest/GetBean.java" timestamp="1334850766404">
+        <mark key="'" line="26" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/remote/LoggingService.java" timestamp="1331202893244">
-        <mark key="'" line="0" column="0" />
-        <mark key="]" line="19" column="83" />
-        <mark key="^" line="19" column="83" />
-        <mark key="[" line="19" column="22" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.1.3/httpcore-4.1.3-sources.jar!/org/apache/http/HttpStatus.java" timestamp="1335202660857">
+        <mark key="'" line="52" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/remote/dao/SqlServerArchiveDAO.java" timestamp="1331546396657">
-        <mark key="'" line="20" column="48" />
-        <mark key="]" line="20" column="15" />
-        <mark key="^" line="20" column="15" />
-        <mark key="[" line="20" column="22" />
+      <file name="$USER_HOME$/workspace/entertainment-api/ExternalApi/pom.xml" timestamp="1335175064292">
+        <mark key="]" line="67" column="72" />
+        <mark key="^" line="67" column="72" />
+        <mark key="[" line="67" column="60" />
       </file>
       <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/io/DdexFileStore.java" timestamp="1331560099136">
         <mark key="]" line="68" column="48" />
         <mark key="^" line="68" column="48" />
         <mark key="[" line="68" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/target/generated-sources/jaxb/com/nokia/ent/ddexinterpreter/types/ddex/ddexern/NewReleaseMessage.java" timestamp="1332434291812">
-        <mark key="'" line="116" column="17" />
-      </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/generic/GenericVolumes.java" timestamp="1332170884965">
-        <mark key="'" line="51" column="56" />
-        <mark key="]" line="16" column="26" />
-        <mark key="^" line="16" column="25" />
-        <mark key="[" line="16" column="26" />
+      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/generic/GenericTrackOfferingList2.java" timestamp="1333636413021">
+        <mark key="]" line="18" column="60" />
+        <mark key="^" line="18" column="60" />
+        <mark key="[" line="18" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/local/effective-java/src/main/java/com/nokia/ben/enums/InheritanceTest.java" timestamp="1331140141643">
         <mark key="]" line="10" column="7" />
@@ -182,310 +124,211 @@
         <mark key="^" line="17" column="28" />
         <mark key="[" line="17" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/http-status-codes/src/main/java/com/floatbackwards/statuscodes/HttpStatus.java" timestamp="1330881863102">
-        <mark key="'" line="40" column="4" />
-        <mark key="]" line="58" column="107" />
-        <mark key="^" line="58" column="107" />
-        <mark key="[" line="58" column="100" />
-      </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/control/PollingDdexProcessorTest.java" timestamp="1331311270026">
-        <mark key="]" line="320" column="43" />
-        <mark key="^" line="320" column="43" />
-        <mark key="[" line="320" column="38" />
+      <file name="$USER_HOME$/workspace/entertainment-api/ExternalApi-Common/src/main/java/com/ovi/music/externalapi/common/thirdparty/thefilter/TheFilterSimilarCreatorsService.java" timestamp="1335344820401">
+        <mark key="'" line="29" column="32" />
+        <mark key="a" line="79" column="32" />
+        <mark key="]" line="82" column="0" />
+        <mark key="[" line="82" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/rest/beans/LoggingBean.java" timestamp="1331205789607">
         <mark key="]" line="28" column="146" />
         <mark key="^" line="28" column="146" />
         <mark key="[" line="28" column="110" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/DdexRelease.java" timestamp="1331812224675">
-        <mark key="'" line="171" column="85" />
-        <mark key="]" line="157" column="87" />
-        <mark key="^" line="157" column="22" />
-        <mark key="[" line="157" column="15" />
+      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/control/PollingDdexProcessorTest.java" timestamp="1331311270026">
+        <mark key="]" line="320" column="43" />
+        <mark key="^" line="320" column="43" />
+        <mark key="[" line="320" column="38" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/metrics/graphite/GraphiteMetricServiceTest.java" timestamp="1331644016953">
-        <mark key="'" line="77" column="55" />
-        <mark key="]" line="86" column="120" />
-        <mark key="^" line="86" column="120" />
-        <mark key="[" line="86" column="106" />
-      </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/ddex/DdexDisplayArtist.java" timestamp="1332167926299">
-        <mark key="]" line="5" column="95" />
-        <mark key="^" line="5" column="95" />
-        <mark key="[" line="5" column="27" />
-      </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/ddex/DdexDeal.java" timestamp="1332500503739">
-        <mark key="'" line="70" column="25" />
-        <mark key="]" line="6" column="79" />
-        <mark key="^" line="95" column="92" />
-        <mark key="[" line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/converter/model/ddex/DdexSoundRecodingDetailsTest.java" timestamp="1332329689557">
-        <mark key="'" line="53" column="37" />
-        <mark key="]" line="43" column="13" />
-        <mark key="^" line="43" column="13" />
-        <mark key="[" line="43" column="8" />
+      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/ddex/DdexDeal.java" timestamp="1335349617743">
+        <mark key="]" line="40" column="28" />
+        <mark key="^" line="40" column="28" />
+        <mark key="[" line="40" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/FakeDdexConverter.java" timestamp="1331205219148">
         <mark key="]" line="26" column="77" />
         <mark key="^" line="26" column="77" />
         <mark key="[" line="26" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/generic/GenericTrackOfferings.java" timestamp="1332439689431">
-        <mark key="'" line="39" column="57" />
-        <mark key="]" line="27" column="24" />
-        <mark key="^" line="27" column="24" />
-        <mark key="[" line="27" column="24" />
+      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-acceptancetest/src/test/resources/examples/complete.multivolume.xml.examples/generic.xml" timestamp="1333449846932">
+        <mark key="]" line="1" column="567" />
+        <mark key="^" line="1" column="560" />
+        <mark key="[" line="1" column="561" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/DdexReleaseDetails.java" timestamp="1331811531427">
-        <mark key="'" line="70" column="23" />
-        <mark key="]" line="73" column="60" />
-        <mark key="^" line="73" column="60" />
-        <mark key="[" line="73" column="0" />
+      <file name="$USER_HOME$/workspace/entertainment-api/ExternalApi-Resource-Views/src/main/resources/viewsContext.xml" timestamp="1335200319690">
+        <mark key="'" line="119" column="48" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/remote/dao/SqlServerLoggingDAO.java" timestamp="1331563130272">
-        <mark key="'" line="34" column="15" />
-        <mark key="]" line="33" column="27" />
-        <mark key="^" line="34" column="100" />
-        <mark key="[" line="33" column="26" />
+      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/converter/model/generic/GenericAbstractOfferingTypeTest.java" timestamp="1333014691001">
+        <mark key="]" line="12" column="7" />
+        <mark key="^" line="12" column="7" />
+        <mark key="[" line="12" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/remote/SqlServerLoggingService.java" timestamp="1331563074608">
-        <mark key="'" line="16" column="24" />
-        <mark key="]" line="28" column="74" />
-        <mark key="^" line="28" column="74" />
-        <mark key="[" line="28" column="65" />
+      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/resources/complete.simple.priceCampaign.xml.example/generic_0.xml" timestamp="1333449188764">
+        <mark key="]" line="1" column="417" />
+        <mark key="^" line="1" column="399" />
+        <mark key="[" line="1" column="400" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/target/generated-sources/jaxb/com/nokia/ent/ddexinterpreter/types/generic/CountryCodeString.java" timestamp="1332494614275">
-        <mark key="'" line="329" column="12" />
+      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/generic/GenericTrack.java" timestamp="1334766291287">
+        <mark key="'" line="48" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/DdexSoundRecording.java" timestamp="1331745091514">
-        <mark key="'" line="23" column="12" />
-        <mark key="]" line="20" column="84" />
-        <mark key="^" line="19" column="25" />
-        <mark key="[" line="20" column="15" />
+      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/converter/JaxbDdexMapperTest.java" timestamp="1334766031274">
+        <mark key="'" line="179" column="78" />
+        <mark key="]" line="179" column="78" />
+        <mark key="^" line="179" column="78" />
+        <mark key="[" line="179" column="78" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/io/FileSystemDdexFileStore.java" timestamp="1331569112211">
-        <mark key="'" line="0" column="0" />
-        <mark key="]" line="60" column="66" />
-        <mark key="^" line="60" column="66" />
-        <mark key="[" line="60" column="57" />
-      </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/converter/JaxbDdexMapperTest.java" timestamp="1332496646947">
-        <mark key="'" line="32" column="13" />
-        <mark key="]" line="67" column="0" />
-        <mark key="^" line="68" column="16" />
-        <mark key="[" line="67" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/generic/GenericTrack.java" timestamp="1332437874700">
-        <mark key="'" line="39" column="48" />
-        <mark key="]" line="53" column="8" />
-        <mark key="^" line="53" column="43" />
-        <mark key="[" line="53" column="0" />
+      <file name="$USER_HOME$/workspace/entertainment-api/ExternalApi-Resource-SimilarCreators/src/test/java/com/ovi/music/externalapi/rest/SimilarCreatorsBeanTest.java" timestamp="1335262316609">
+        <mark key="[" line="24" column="45" />
       </file>
       <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/metrics/TimerTest.java" timestamp="1331571384818">
         <mark key="]" line="9" column="73" />
         <mark key="^" line="9" column="73" />
         <mark key="[" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/control/PollingDdexProcessor.java" timestamp="1332507501632">
-        <mark key="'" line="83" column="22" />
-        <mark key="[" line="43" column="80" />
-      </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/io/FailedFileStoreTest.java" timestamp="1331550684534">
-        <mark key="'" line="17" column="4" />
-        <mark key="]" line="111" column="37" />
-        <mark key="^" line="111" column="37" />
-        <mark key="[" line="111" column="36" />
+      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/remote/model/StatusRecordProperties.java" timestamp="1332947752343">
+        <mark key="]" line="44" column="101" />
+        <mark key="^" line="44" column="101" />
+        <mark key="[" line="44" column="99" />
       </file>
       <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/exception/InvalidXmlFileException.java" timestamp="1331205176689">
         <mark key="]" line="10" column="22" />
         <mark key="^" line="10" column="22" />
         <mark key="[" line="7" column="71" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/generic/GenericVolume.java" timestamp="1332500255802">
-        <mark key="'" line="29" column="46" />
-        <mark key="]" line="18" column="47" />
-        <mark key="^" line="18" column="47" />
-        <mark key="[" line="18" column="25" />
+      <file name="$USER_HOME$/workspace/entertainment-api/ExternalApi-AcceptanceTests/src/test/java/com/ovi/music/externalapi/util/ExternalApiHelper.java" timestamp="1335202411831">
+        <mark key="]" line="74" column="100" />
+        <mark key="^" line="74" column="100" />
+        <mark key="[" line="74" column="100" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/converter/model/ddex/DdexDealTest.java" timestamp="1332323315567">
-        <mark key="]" line="90" column="52" />
-        <mark key="^" line="90" column="52" />
-        <mark key="[" line="90" column="52" />
+      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/converter/DealDateFinderTest.java" timestamp="1335273962580">
+        <mark key="'" line="184" column="8" />
+        <mark key="a" line="177" column="8" />
+        <mark key="]" line="83" column="0" />
+        <mark key="[" line="83" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-acceptancetest/src/test/java/com/nokia/ent/ddexinterpreter/integration/LoggingServiceIT.java" timestamp="1331563364270">
-        <mark key="'" line="41" column="63" />
-        <mark key="]" line="2" column="69" />
-        <mark key="^" line="2" column="69" />
-        <mark key="[" line="2" column="67" />
+      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-acceptancetest/src/test/resources/examples/providers/emi/generic.xml" timestamp="1333449723869">
+        <mark key="]" line="1" column="380" />
+        <mark key="^" line="1" column="362" />
+        <mark key="[" line="1" column="363" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/metrics/SimpleMetric.java" timestamp="1331569901097">
-        <mark key="'" line="9" column="37" />
-        <mark key="]" line="7" column="93" />
-        <mark key="^" line="7" column="93" />
-        <mark key="[" line="5" column="0" />
+      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/converter/model/ddex/DdexDealTest.java" timestamp="1335349611336">
+        <mark key="'" line="78" column="34" />
+        <mark key="]" line="61" column="0" />
+        <mark key="[" line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/ddex/DdexPriceInformation.java" timestamp="1332438985025">
-        <mark key="'" line="3" column="54" />
-        <mark key="]" line="35" column="44" />
-        <mark key="^" line="34" column="43" />
-        <mark key="[" line="35" column="14" />
+      <file name="$USER_HOME$/workspace/entertainment-api/ExternalApi-Common/src/test/java/com/ovi/music/externalapi/common/thirdparty/thefilter/TheFilterSimilarCreatorsServiceTest.java" timestamp="1335276465252">
+        <mark key="'" line="114" column="41" />
+        <mark key="]" line="133" column="118" />
+        <mark key="^" line="133" column="85" />
+        <mark key="[" line="133" column="118" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/exception/FileDoesNotExistException.java" timestamp="1331205976174">
-        <mark key="'" line="5" column="77" />
-        <mark key="]" line="14" column="22" />
-        <mark key="^" line="14" column="22" />
-        <mark key="[" line="14" column="14" />
+      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/converter/model/generic/GenericTrackOfferingListTest.java" timestamp="1334677564787">
+        <mark key="]" line="72" column="102" />
+        <mark key="^" line="72" column="102" />
+        <mark key="[" line="72" column="102" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/github/rest-driver/rest-server-driver/1.1.18/rest-server-driver-1.1.18-sources.jar!/com/github/restdriver/serverdriver/file/FileHelper.java" timestamp="1332327825641">
-        <mark key="'" line="69" column="18" />
+      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/io/InMemoryNetworkManager.java" timestamp="1332943905144">
+        <mark key="]" line="52" column="19" />
+        <mark key="^" line="52" column="19" />
+        <mark key="[" line="52" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/ddex/DdexValidityPeriod.java" timestamp="1332432811813">
-        <mark key="'" line="49" column="48" />
-        <mark key="]" line="18" column="30" />
-        <mark key="^" line="18" column="30" />
-        <mark key="[" line="18" column="19" />
+      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/converter/JaxbMapperUnitTest.java" timestamp="1334057618092">
+        <mark key="]" line="14" column="3" />
+        <mark key="^" line="14" column="3" />
+        <mark key="[" line="7" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/pom.xml" timestamp="1331634218241">
-        <mark key="'" line="167" column="70" />
-        <mark key="]" line="216" column="87" />
-        <mark key="^" line="216" column="87" />
-        <mark key="[" line="216" column="87" />
+      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/resources/schema/ddexXml/ddex.xsd" timestamp="1334147327307">
+        <mark key="'" line="78" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/ddex/DdexObject.java" timestamp="1332500559550">
-        <mark key="'" line="22" column="13" />
-        <mark key="]" line="224" column="67" />
-        <mark key="^" line="224" column="67" />
-        <mark key="[" line="224" column="25" />
-      </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/resources/complete.multitrack.xml.example/ddex.xml" timestamp="1331907784742">
-        <mark key="'" line="3079" column="21" />
-      </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/JaxbDdexMapper.java" timestamp="1332499708790">
-        <mark key="'" line="32" column="35" />
-        <mark key="]" line="100" column="36" />
-        <mark key="^" line="97" column="13" />
-        <mark key="[" line="100" column="0" />
+      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/JaxbDdexMapper.java" timestamp="1335262597011">
+        <mark key="'" line="53" column="33" />
+        <mark key="]" line="51" column="65" />
+        <mark key="^" line="51" column="65" />
+        <mark key="[" line="51" column="65" />
       </file>
       <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/rest/jaxrs/MetricResource.java" timestamp="1331640350800">
         <mark key="]" line="20" column="11" />
         <mark key="^" line="20" column="11" />
         <mark key="[" line="20" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-acceptancetest/src/test/java/com/nokia/ent/ddexinterpreter/integration/MetricServiceIT.java" timestamp="1331638454573">
-        <mark key="'" line="55" column="41" />
-        <mark key="]" line="41" column="31" />
-        <mark key="^" line="41" column="31" />
-        <mark key="[" line="40" column="33" />
-      </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/remote/ArchiveService.java" timestamp="1331310822550">
-        <mark key="'" line="0" column="0" />
-        <mark key="]" line="16" column="54" />
-        <mark key="^" line="16" column="54" />
-        <mark key="[" line="16" column="22" />
-      </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-acceptancetest/src/test/java/com/nokia/ent/ddexinterpreter/rest/EndToEndAT.java" timestamp="1332508902016">
-        <mark key="'" line="127" column="7" />
-        <mark key="]" line="151" column="40" />
-        <mark key="^" line="157" column="69" />
-        <mark key="[" line="151" column="40" />
-      </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/rest/beans/MetricBean.java" timestamp="1331742257226">
-        <mark key="'" line="36" column="45" />
-        <mark key="]" line="31" column="39" />
-        <mark key="^" line="31" column="39" />
-        <mark key="[" line="31" column="39" />
-      </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/converter/model/ddex/DdexSoundRecordingTest.java" timestamp="1332499959063" />
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/rest/jaxrs/LoggingResource.java" timestamp="1331205851196">
-        <mark key="'" line="0" column="1" />
-        <mark key="]" line="28" column="63" />
-        <mark key="^" line="28" column="63" />
-        <mark key="[" line="28" column="63" />
-      </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/exception/DdexInterpreterCheckedException.java" timestamp="1331217242005">
-        <mark key="'" line="52" column="0" />
-        <mark key="]" line="58" column="20" />
-        <mark key="^" line="58" column="20" />
-        <mark key="[" line="57" column="75" />
+      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/DealDateFinder.java" timestamp="1335348238396">
+        <mark key="'" line="115" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="^" line="71" column="34" />
+        <mark key="[" line="73" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/metrics/Metric.java" timestamp="1331569785753">
         <mark key="]" line="37" column="55" />
         <mark key="^" line="36" column="54" />
         <mark key="[" line="37" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/providers/Provider.java" timestamp="1331201596782">
-        <mark key="'" line="97" column="23" />
-        <mark key="]" line="14" column="35" />
-        <mark key="^" line="14" column="35" />
-        <mark key="[" line="14" column="33" />
+      <file name="$USER_HOME$/workspace/entertainment-api/ExternalApi/src/main/resources/log4j.xml" timestamp="1335177564888">
+        <mark key="'" line="14" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/generic/GenericArtistsCollection.java" timestamp="1332437695070">
-        <mark key="'" line="30" column="41" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="17" column="9" />
-        <mark key="[" line="21" column="0" />
+      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/providers/Provider.java" timestamp="1332758473918">
+        <mark key="]" line="101" column="15" />
+        <mark key="^" line="100" column="23" />
+        <mark key="[" line="101" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/ddex/DdexRelease.java" timestamp="1332255104960">
-        <mark key="'" line="0" column="0" />
-        <mark key="]" line="89" column="31" />
-        <mark key="^" line="89" column="31" />
-        <mark key="[" line="89" column="19" />
+      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/resources/schema/ddexXml/ern-main.xsd" timestamp="1334158457241">
+        <mark key="'" line="552" column="50" />
       </file>
       <file name="$USER_HOME$/workspace/local/effective-java/src/test/java/com/InheritanceTest.java" timestamp="1331141185035">
         <mark key="]" line="21" column="12" />
         <mark key="^" line="21" column="12" />
         <mark key="[" line="21" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/aspect/DdexMetricsAspect.java" timestamp="1331742147469">
-        <mark key="'" line="54" column="71" />
-        <mark key="]" line="71" column="123" />
-        <mark key="^" line="71" column="123" />
-        <mark key="[" line="71" column="123" />
+      <file name="$USER_HOME$/workspace/entertainment-api/ExternalApi-AcceptanceTests/src/test/java/com/ovi/music/externalapi/creators/recommendations/SimilarCreatorsAT.java" timestamp="1335344740054">
+        <mark key="'" line="89" column="69" />
+        <mark key="a" line="118" column="55" />
+        <mark key="]" line="114" column="0" />
+        <mark key="[" line="114" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/JaxbDdexConverter.java" timestamp="1332499833958">
-        <mark key="'" line="62" column="68" />
-        <mark key="]" line="63" column="8" />
-        <mark key="^" line="44" column="11" />
-        <mark key="[" line="63" column="0" />
+      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-acceptancetest/src/test/java/com/nokia/ent/ddexinterpreter/util/AcceptanceTestHelper.java" timestamp="1334736971330">
+        <mark key="]" line="96" column="120" />
+        <mark key="^" line="96" column="109" />
+        <mark key="[" line="96" column="120" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/remote/SqlServerArchiveService.java" timestamp="1332497857779">
-        <mark key="'" line="72" column="20" />
-        <mark key="]" line="59" column="35" />
-        <mark key="^" line="59" column="35" />
-        <mark key="[" line="59" column="25" />
+      <file name="$USER_HOME$/workspace/entertainment-api/ExternalApi-Resource-SimilarCreators/src/main/java/com/ovi/music/externalapi/rest/SimilarCreatorsResource.java" timestamp="1334935131814">
+        <mark key="]" line="7" column="70" />
+        <mark key="^" line="7" column="70" />
+        <mark key="[" line="7" column="48" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/converter/model/generic/GenericOfferingTypeTest.java" timestamp="1332499024715">
-        <mark key="'" line="1" column="0" />
-        <mark key="]" line="71" column="70" />
-        <mark key="^" line="71" column="70" />
-        <mark key="[" line="70" column="51" />
+      <file name="$MAVEN_REPOSITORY$/com/ovi/music/thefilter/TheFilter-Client/0.0.15/TheFilter-Client-0.0.15-sources.jar!/com/ovi/music/thefilter/client/rest/TheFilterRecommendationsRestEasyClient.java" timestamp="1335344891809">
+        <mark key="'" line="10" column="76" />
+        <mark key="]" line="12" column="60" />
+        <mark key="[" line="12" column="43" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/resources/complete.simple.priceCampaign.xml.example/generic_4.xml" timestamp="1332262014039">
-        <mark key="]" line="32" column="63" />
-        <mark key="^" line="32" column="63" />
-        <mark key="[" line="32" column="63" />
+      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-acceptancetest/src/test/resources/examples/complete.xml.examples/generic.xml" timestamp="1333449581631">
+        <mark key="]" line="1" column="386" />
+        <mark key="^" line="1" column="368" />
+        <mark key="[" line="1" column="369" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/remote/InMemoryArchiveService.java" timestamp="1331310799348">
-        <mark key="'" line="28" column="55" />
-        <mark key="]" line="28" column="53" />
-        <mark key="^" line="36" column="74" />
-        <mark key="[" line="28" column="53" />
-      </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/generic/GenericAbstractOfferingType.java" timestamp="1332494838624">
-        <mark key="'" line="84" column="24" />
-        <mark key="]" line="53" column="13" />
-        <mark key="^" line="53" column="13" />
-        <mark key="[" line="53" column="4" />
-      </file>
-      <file name="/a.dummy" timestamp="1332435281340">
-        <mark key="]" line="0" column="34" />
-        <mark key="^" line="0" column="34" />
+      <file name="$USER_HOME$/workspace/entertainment-api/ExternalApi-Resource-SimilarCreators/src/main/java/dummy.txt" timestamp="1334918568669">
+        <mark key="]" line="0" column="4" />
+        <mark key="^" line="0" column="4" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/remote/SqlServerArchiveServiceTest.java" timestamp="1332497906196">
-        <mark key="'" line="55" column="8" />
+      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/converter/DealDateFinder.java" timestamp="1334076846128">
+        <mark key="]" line="30" column="55" />
+        <mark key="[" line="30" column="55" />
+      </file>
+      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/target/generated-sources/jaxb/com/nokia/ent/ddexinterpreter/types/generic/LanguageCodes.java" timestamp="1333617505351">
+        <mark key="'" line="1" column="43" />
+      </file>
+      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/resources/complete.simple.priceCampaign.xml.example/generic_4.xml" timestamp="1333449241609">
+        <mark key="]" line="6" column="74" />
+        <mark key="^" line="6" column="56" />
+        <mark key="[" line="6" column="57" />
+      </file>
+      <file name="$USER_HOME$/workspace/entertainment-api/ExternalApi-Resource-EventsRecommendations/src/main/java/com/ovi/music/externalapi/facade/EventRecommendationsFacade.java" timestamp="1334924733916">
+        <mark key="'" line="42" column="17" />
+        <mark key="]" line="56" column="114" />
+        <mark key="^" line="2" column="52" />
+        <mark key="[" line="55" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/ovi/music/catalogue/Catalogue-V2-Client/0.0.4/Catalogue-V2-Client-0.0.4.jar!/com/ovi/music/client/catalogue/v2/CatalogueV2Client.class" timestamp="1334850771691">
+        <mark key="'" line="13" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/rest/jaxrs/FileStoreResource.java" timestamp="1332507146750">
         <mark key="]" line="59" column="11" />
@@ -497,290 +340,416 @@
         <mark key="^" line="36" column="28" />
         <mark key="[" line="36" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/converter/model/generic/GenericTrackTest.java" timestamp="1332501315756">
-        <mark key="'" line="47" column="44" />
-        <mark key="]" line="78" column="96" />
-        <mark key="^" line="78" column="96" />
-        <mark key="[" line="78" column="89" />
+      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/resources/schema/ddexXml/ddexC.xsd" timestamp="1334158480200">
+        <mark key="'" line="567" column="70" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/exception/DdexInterpreterRuntimeException.java" timestamp="1331655567983">
-        <mark key="'" line="56" column="9" />
-        <mark key="]" line="70" column="3" />
-        <mark key="^" line="70" column="3" />
-        <mark key="[" line="70" column="85" />
+      <file name="$USER_HOME$/workspace/entertainment-api/ExternalApi-Resource-SimilarCreators/pom.xml" timestamp="1335259818228">
+        <mark key="]" line="8" column="24" />
+        <mark key="^" line="8" column="23" />
+        <mark key="[" line="8" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/remote/dao/SqlServerSonyArchiveDAO.java" timestamp="1332497733899">
-        <mark key="'" line="84" column="26" />
+      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/remote/dao/SqlServerSonyArchiveDAO.java" timestamp="1334736824232">
+        <mark key="'" line="43" column="96" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/resources/complete.simple.priceCampaign.xml.example/generic_5.xml" timestamp="1332262854147">
-        <mark key="]" line="32" column="64" />
-        <mark key="^" line="29" column="63" />
-        <mark key="[" line="32" column="64" />
+      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/io/InMemoryGenericXmlFileStore.java" timestamp="1332934426046">
+        <mark key="]" line="81" column="45" />
+        <mark key="^" line="81" column="45" />
+        <mark key="[" line="80" column="77" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/ddex/DdexSoundRecording.java" timestamp="1332153876540">
-        <mark key="'" line="0" column="0" />
-        <mark key="]" line="7" column="78" />
-        <mark key="^" line="7" column="78" />
-        <mark key="[" line="6" column="35" />
+      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/resources/complete.simple.priceCampaign.xml.example/generic_5.xml" timestamp="1333449255370">
+        <mark key="]" line="6" column="74" />
+        <mark key="^" line="6" column="56" />
+        <mark key="[" line="6" column="57" />
+      </file>
+      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-acceptancetest/src/test/resources/examples/complete.multitrack.xml.examples/generic.xml" timestamp="1333449815163">
+        <mark key="]" line="1" column="558" />
+        <mark key="^" line="1" column="540" />
+        <mark key="[" line="1" column="541" />
+      </file>
+      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/ddex/DdexSoundRecording.java" timestamp="1335348053586">
+        <mark key="'" line="108" column="24" />
+        <mark key="]" line="131" column="85" />
+        <mark key="^" line="131" column="84" />
+        <mark key="[" line="131" column="85" />
+      </file>
+      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/JaxbDdexMapperFactory.java" timestamp="1334077031539">
+        <mark key="]" line="10" column="49" />
+        <mark key="^" line="10" column="63" />
+        <mark key="[" line="10" column="49" />
       </file>
       <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/exception/ProviderAwareException.java" timestamp="1331203793768">
         <mark key="]" line="8" column="40" />
         <mark key="^" line="8" column="52" />
         <mark key="[" line="8" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/io/GenericXmlFileStore.java" timestamp="1332506742528">
-        <mark key="]" line="18" column="57" />
-        <mark key="^" line="18" column="57" />
-        <mark key="[" line="18" column="28" />
+      <file name="$USER_HOME$/workspace/entertainment-api/ExternalApi-Resource-Products/src/main/java/com/ovi/music/externalapi/facade/AcquireMusicProduct.java" timestamp="1335282367792">
+        <mark key="'" line="50" column="25" />
+        <mark key="]" line="50" column="0" />
+        <mark key="[" line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/metrics/InMemoryMetricService.java" timestamp="1332245694697">
-        <mark key="'" line="12" column="13" />
-        <mark key="]" line="55" column="0" />
-        <mark key="^" line="71" column="24" />
-        <mark key="[" line="55" column="0" />
+      <file name="$MAVEN_REPOSITORY$/com/github/rest-driver/rest-client-driver/1.1.19/rest-client-driver-1.1.19.jar!/com/github/restdriver/clientdriver/ClientDriverRule.class" timestamp="1334931026375">
+        <mark key="'" line="5" column="68" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/DdexConverterConstants.java" timestamp="1332438939903">
-        <mark key="'" line="43" column="0" />
-        <mark key="]" line="35" column="59" />
-        <mark key="^" line="35" column="59" />
-        <mark key="[" line="35" column="31" />
+      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-acceptancetest/src/test/resources/examples/providers/sony/generic.xml" timestamp="1333449767721">
+        <mark key="]" line="1" column="386" />
+        <mark key="^" line="1" column="368" />
+        <mark key="[" line="1" column="369" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-acceptancetest/src/test/resources/examples/providers/sony/generic.xml" timestamp="1331115506652">
-        <mark key="]" line="2" column="77" />
-        <mark key="^" line="2" column="77" />
-        <mark key="[" line="2" column="69" />
+      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/target/generated-sources/jaxb/com/nokia/ent/ddexinterpreter/types/ddex/ddexern/SoundRecording.java" timestamp="1333555833078">
+        <mark key="'" line="570" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/generic/GenericXmlObject.java" timestamp="1332500219754">
-        <mark key="'" line="47" column="39" />
+      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/generic/GenericXmlObject.java" timestamp="1334830514675">
+        <mark key="'" line="48" column="51" />
+        <mark key="]" line="43" column="46" />
+        <mark key="^" line="43" column="46" />
+        <mark key="[" line="43" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/DdexRootElement.java" timestamp="1331815584090">
-        <mark key="'" line="176" column="0" />
-        <mark key="]" line="18" column="49" />
-        <mark key="^" line="18" column="49" />
-        <mark key="[" line="18" column="49" />
+      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/ddex/DisplayArtistContainer.java" timestamp="1333463138697">
+        <mark key="]" line="5" column="130" />
+        <mark key="^" line="5" column="130" />
+        <mark key="[" line="4" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/ddex/DdexReleaseDetails.java" timestamp="1331912479527">
-        <mark key="'" line="32" column="55" />
-        <mark key="]" line="127" column="93" />
-        <mark key="^" line="127" column="93" />
-        <mark key="[" line="127" column="68" />
+      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/converter/model/ddex/DdexReleaseDetailsTest.java" timestamp="1334057489098">
+        <mark key="]" line="21" column="0" />
+        <mark key="[" line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/rest/beans/FileStoreBean.java" timestamp="1332508886561">
-        <mark key="'" line="31" column="18" />
-        <mark key="]" line="84" column="12" />
-        <mark key="^" line="84" column="12" />
+      <file name="$USER_HOME$/workspace/entertainment-api/ExternalApi-Common/src/main/java/com/ovi/music/externalapi/common/similarCreators/SimilarCreatorService.java" timestamp="1334851020110">
+        <mark key="]" line="5" column="64" />
+        <mark key="^" line="5" column="64" />
+        <mark key="[" line="4" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/DdexDisplayArtist.java" timestamp="1331732857298">
-        <mark key="'" line="29" column="72" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="31" column="23" />
-        <mark key="[" line="30" column="0" />
+      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-acceptancetest/src/test/resources/examples/complete.simple.priceCampaign.xml.example/generic_1.xml" timestamp="1333449628003">
+        <mark key="]" line="6" column="74" />
+        <mark key="^" line="6" column="56" />
+        <mark key="[" line="6" column="57" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/generic/GenericMediaItems.java" timestamp="1332438077446">
-        <mark key="'" line="52" column="28" />
-        <mark key="]" line="33" column="12" />
-        <mark key="^" line="48" column="30" />
-        <mark key="[" line="33" column="12" />
+      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/remote/model/AppLogRecordProperties.java" timestamp="1332947685606">
+        <mark key="]" line="38" column="51" />
+        <mark key="^" line="38" column="51" />
+        <mark key="[" line="37" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/resources/complete.simple.priceCampaign.xml.example/generic_3.xml" timestamp="1332262003587">
-        <mark key="]" line="32" column="63" />
-        <mark key="^" line="32" column="63" />
-        <mark key="[" line="32" column="63" />
+      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/resources/complete.simple.priceCampaign.xml.example/generic_3.xml" timestamp="1333449226729">
+        <mark key="]" line="6" column="74" />
+        <mark key="^" line="6" column="56" />
+        <mark key="[" line="6" column="57" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/remote/model/AppLogRecordProperties.java" timestamp="1331201285260">
-        <mark key="]" line="102" column="23" />
-        <mark key="^" line="20" column="38" />
-        <mark key="[" line="102" column="23" />
-      </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/io/FileSystemNetworkManager.java" timestamp="1332518444866">
-        <mark key="'" line="59" column="82" />
-        <mark key="]" line="100" column="35" />
-        <mark key="^" line="100" column="35" />
-        <mark key="[" line="100" column="35" />
+      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/target/generated-sources/jaxb/com/nokia/ent/ddexinterpreter/types/ddex/ddexC/Period.java" timestamp="1334153170622">
+        <mark key="'" line="41" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-acceptancetest/src/test/resources/examples/emi/generic.xml" timestamp="1331053423544">
         <mark key="]" line="2" column="71" />
         <mark key="^" line="2" column="71" />
         <mark key="[" line="2" column="69" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/ddex/DdexResourceContributor.java" timestamp="1332158535831">
-        <mark key="'" line="15" column="26" />
-        <mark key="]" line="39" column="58" />
-        <mark key="^" line="38" column="57" />
-        <mark key="[" line="39" column="14" />
+      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/resources/sql/environmentsetup.sql" timestamp="1335262680456">
+        <mark key="'" line="0" column="0" />
+        <mark key="]" line="127" column="1" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/entertainment-api/ExternalApi-Common/pom.xml" timestamp="1334921605924">
+        <mark key="]" line="197" column="21" />
+        <mark key="[" line="194" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/local/effective-java/src/test/java/com/HerbSorter.java" timestamp="1331196942193">
         <mark key="]" line="20" column="30" />
         <mark key="^" line="14" column="19" />
         <mark key="[" line="20" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/remote/dao/LoggingDAO.java" timestamp="1331561001556">
-        <mark key="'" line="10" column="21" />
-        <mark key="]" line="14" column="51" />
-        <mark key="^" line="14" column="51" />
-        <mark key="[" line="14" column="51" />
+      <file name="/fragment.java" timestamp="1335275821434">
+        <mark key="]" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/resources/complete.simple.priceCampaign.xml.example/generic_1.xml" timestamp="1332261583319">
-        <mark key="]" line="32" column="63" />
-        <mark key="^" line="32" column="63" />
-        <mark key="[" line="32" column="63" />
+      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/resources/complete.simple.priceCampaign.xml.example/generic_1.xml" timestamp="1333449204986">
+        <mark key="]" line="6" column="74" />
+        <mark key="^" line="6" column="56" />
+        <mark key="[" line="6" column="57" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-acceptancetest/src/test/java/com/nokia/ent/ddexinterpreter/integration/ArchiveServiceIT.java" timestamp="1331312657448">
-        <mark key="'" line="23" column="0" />
-        <mark key="]" line="68" column="71" />
-        <mark key="^" line="68" column="71" />
-        <mark key="[" line="68" column="69" />
+      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-acceptancetest/src/test/resources/examples/complete.simple.priceCampaign.xml.example/generic_0.xml" timestamp="1333449617319">
+        <mark key="]" line="1" column="417" />
+        <mark key="^" line="1" column="399" />
+        <mark key="[" line="1" column="400" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/ddex/DdexRootElement.java" timestamp="1332246563310">
-        <mark key="'" line="20" column="18" />
-        <mark key="]" line="22" column="13" />
-        <mark key="^" line="41" column="44" />
-        <mark key="[" line="22" column="13" />
+      <file name="$USER_HOME$/workspace/entertainment-api/ExternalApi-Resource-SimilarCreators/src/test/resources/README" timestamp="1335262265447">
+        <mark key="]" line="0" column="108" />
+        <mark key="^" line="0" column="108" />
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/resources/complete.simple.priceCampaign.xml.example/generic_2.xml" timestamp="1332261993976">
-        <mark key="]" line="32" column="63" />
-        <mark key="^" line="32" column="63" />
-        <mark key="[" line="32" column="63" />
+      <file name="$USER_HOME$/workspace/entertainment-api/ExternalApi-Resource-SimilarCreators/src/main/java/com/ovi/music/externalapi/rest/SimilarCreatorsBean.java" timestamp="1335261412575">
+        <mark key="'" line="30" column="63" />
+        <mark key="]" line="31" column="12" />
+        <mark key="^" line="34" column="117" />
+        <mark key="[" line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/generic/GenericVolumeCollection.java" timestamp="1332500250714">
-        <mark key="'" line="36" column="44" />
-        <mark key="]" line="36" column="81" />
-        <mark key="^" line="36" column="81" />
-        <mark key="[" line="36" column="76" />
-      </file>
-      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/remote/model/AppLogRecord.java" timestamp="1331634788263">
-        <mark key="'" line="14" column="13" />
-        <mark key="]" line="129" column="43" />
-        <mark key="^" line="129" column="43" />
-        <mark key="[" line="128" column="29" />
+      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/resources/complete.simple.priceCampaign.xml.example/generic_2.xml" timestamp="1333449214497">
+        <mark key="]" line="6" column="74" />
+        <mark key="^" line="6" column="56" />
+        <mark key="[" line="6" column="57" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1491" column="13" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/resources/sony.priceCampaign/A10301A00016880198.xml" />
-      <jump line="1604" column="14" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/resources/sony.priceCampaign/A10301A00016880198.xml" />
-      <jump line="1617" column="13" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/resources/sony.priceCampaign/A10301A00016880198.xml" />
-      <jump line="1711" column="14" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/resources/sony.priceCampaign/A10301A00016880198.xml" />
-      <jump line="1724" column="13" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/resources/sony.priceCampaign/A10301A00016880198.xml" />
-      <jump line="1809" column="14" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/resources/sony.priceCampaign/A10301A00016880198.xml" />
-      <jump line="1822" column="13" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/resources/sony.priceCampaign/A10301A00016880198.xml" />
-      <jump line="84" column="43" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/ddex/DdexSoundRecordingDetails.java" />
-      <jump line="87" column="43" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/ddex/DdexSoundRecordingDetails.java" />
-      <jump line="50" column="12" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/ddex/DdexSoundRecordingDetails.java" />
-      <jump line="53" column="15" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/ddex/DdexSoundRecordingDetails.java" />
-      <jump line="53" column="37" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/converter/model/ddex/DdexSoundRecodingDetailsTest.java" />
-      <jump line="39" column="23" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/ddex/DdexSoundRecordingDetails.java" />
-      <jump line="42" column="37" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/ddex/DdexSoundRecordingDetails.java" />
-      <jump line="63" column="66" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/converter/JaxbDdexMapperTest.java" />
+      <jump line="183" column="10" filename="$USER_HOME$/workspace/entertainment-api/ExternalApi/src/main/webapp/WEB-INF/applicationContext.xml" />
+      <jump line="209" column="30" filename="$USER_HOME$/workspace/entertainment-api/ExternalApi/src/main/webapp/WEB-INF/applicationContext.xml" />
+      <jump line="386" column="71" filename="$USER_HOME$/workspace/entertainment-api/ExternalApi/src/main/webapp/WEB-INF/applicationContext.xml" />
+      <jump line="44" column="32" filename="$USER_HOME$/workspace/entertainment-api/ExternalApi-Common/src/main/java/com/ovi/music/externalapi/common/thirdparty/thefilter/TheFilterSimilarCreatorsService.java" />
+      <jump line="22" column="15" filename="$USER_HOME$/workspace/entertainment-api/ExternalApi-Common/src/main/java/com/ovi/music/externalapi/common/thirdparty/thefilter/SimilarCreatorsService.java" />
+      <jump line="5" column="68" filename="$MAVEN_REPOSITORY$/com/github/rest-driver/rest-client-driver/1.1.19/rest-client-driver-1.1.19.jar!/com/github/restdriver/clientdriver/ClientDriverRule.class" />
+      <jump line="26" column="57" filename="$USER_HOME$/workspace/entertainment-api/ExternalApi-AcceptanceTests/src/test/java/com/ovi/music/externalapi/events/recommendations/EventRecommendationsArtistAT.java" />
+      <jump line="106" column="30" filename="$MAVEN_REPOSITORY$/com/github/rest-driver/rest-client-driver/1.1.19/rest-client-driver-1.1.19-sources.jar!/com/github/restdriver/clientdriver/ClientDriverRule.java" />
+      <jump line="29" column="59" filename="$USER_HOME$/workspace/entertainment-api/ExternalApi-AcceptanceTests/src/test/java/com/ovi/music/externalapi/events/recommendations/EventRecommendationsArtistAT.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/entertainment-api/ExternalApi-AcceptanceTests/src/test/java/com/ovi/music/externalapi/creators/recommendations/SimilarCreatorsAT.java" />
+      <jump line="20" column="65" filename="$USER_HOME$/workspace/entertainment-api/ExternalApi-AcceptanceTests/src/test/java/com/ovi/music/externalapi/creators/recommendations/SimilarCreatorsAT.java" />
+      <jump line="143" column="25" filename="$USER_HOME$/workspace/entertainment-api/ExternalApi-AcceptanceTests/src/test/java/com/ovi/music/externalapi/util/ExternalApiHelper.java" />
+      <jump line="172" column="60" filename="$USER_HOME$/workspace/entertainment-api/ExternalApi-AcceptanceTests/src/test/java/com/ovi/music/externalapi/util/ExternalApiHelper.java" />
+      <jump line="8" column="0" filename="$USER_HOME$/workspace/entertainment-api/ExternalApi-AcceptanceTests/src/test/java/com/ovi/music/externalapi/creators/recommendations/SimilarCreatorsAT.java" />
+      <jump line="33" column="48" filename="$MAVEN_REPOSITORY$/com/ovi/music/thefilter/TheFilter-Client/0.0.15/TheFilter-Client-0.0.15-sources.jar!/com/ovi/music/thefilter/client/rest/TheFilterRecommendationsRestEasyClient.java" />
+      <jump line="43" column="42" filename="$USER_HOME$/workspace/entertainment-api/ExternalApi-AcceptanceTests/src/test/java/com/ovi/music/externalapi/events/recommendations/EventRecommendationsArtistAT.java" />
+      <jump line="46" column="25" filename="$USER_HOME$/workspace/entertainment-api/ExternalApi-AcceptanceTests/src/test/java/com/ovi/music/externalapi/creators/recommendations/SimilarCreatorsAT.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/entertainment-api/ExternalApi-Resource-SimilarCreators/src/main/java/com/ovi/music/externalapi/jaxrs/SimilarCreatorsResource.java" />
+      <jump line="9" column="0" filename="$USER_HOME$/workspace/entertainment-api/ExternalApi/src/main/webapp/WEB-INF/applicationContext.xml" />
+      <jump line="202" column="48" filename="$USER_HOME$/workspace/entertainment-api/ExternalApi/src/main/webapp/WEB-INF/applicationContext.xml" />
+      <jump line="127" column="0" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/resources/sql/environmentsetup.sql" />
+      <jump line="212" column="10" filename="$USER_HOME$/workspace/entertainment-api/ExternalApi/src/main/webapp/WEB-INF/applicationContext.xml" />
+      <jump line="731" column="78" filename="$USER_HOME$/workspace/entertainment-api/ExternalApi/src/main/webapp/WEB-INF/applicationContext.xml" />
+      <jump line="18" column="12" filename="$USER_HOME$/workspace/entertainment-api/pom.xml" />
+      <jump line="55" column="37" filename="$USER_HOME$/workspace/entertainment-api/pom.xml" />
+      <jump line="57" column="37" filename="$USER_HOME$/workspace/entertainment-api/pom.xml" />
+      <jump line="153" column="22" filename="$USER_HOME$/workspace/entertainment-api/pom.xml" />
+      <jump line="1204" column="0" filename="$USER_HOME$/workspace/entertainment-api/pom.xml" />
+      <jump line="8" column="0" filename="$USER_HOME$/workspace/entertainment-api/pom.xml" />
+      <jump line="32" column="63" filename="$USER_HOME$/workspace/entertainment-api/ExternalApi-Resource-SimilarCreators/src/main/java/com/ovi/music/externalapi/rest/SimilarCreatorsBean.java" />
+      <jump line="189" column="64" filename="$USER_HOME$/workspace/entertainment-api/ExternalApi/src/main/webapp/WEB-INF/applicationContext.xml" />
+      <jump line="211" column="10" filename="$USER_HOME$/workspace/entertainment-api/ExternalApi/src/main/webapp/WEB-INF/applicationContext.xml" />
+      <jump line="22" column="71" filename="$USER_HOME$/workspace/entertainment-api/ExternalApi-AcceptanceTests/src/test/java/com/ovi/music/externalapi/creators/recommendations/SimilarCreatorsAT.java" />
+      <jump line="177" column="72" filename="$USER_HOME$/workspace/entertainment-api/ExternalApi-AcceptanceTests/src/test/java/com/ovi/music/externalapi/util/ExternalApiHelper.java" />
+      <jump line="12" column="14" filename="$USER_HOME$/workspace/entertainment-api/ExternalApi/src/main/resources/log4j.xml" />
+      <jump line="14" column="22" filename="$USER_HOME$/workspace/entertainment-api/ExternalApi/src/main/resources/log4j.xml" />
+      <jump line="74" column="65" filename="$USER_HOME$/workspace/entertainment-api/ExternalApi-AcceptanceTests/src/test/java/com/ovi/music/externalapi/creators/recommendations/SimilarCreatorsAT.java" />
+      <jump line="40" column="39" filename="$USER_HOME$/workspace/entertainment-api/ExternalApi-AcceptanceTests/src/test/java/com/ovi/music/externalapi/creators/recommendations/SimilarCreatorsAT.java" />
+      <jump line="46" column="97" filename="$USER_HOME$/workspace/entertainment-api/ExternalApi-Common/src/main/java/com/ovi/music/externalapi/common/thirdparty/thefilter/TheFilterSimilarCreatorsService.java" />
+      <jump line="51" column="25" filename="$USER_HOME$/workspace/entertainment-api/ExternalApi-AcceptanceTests/src/test/java/com/ovi/music/externalapi/creators/recommendations/SimilarCreatorsAT.java" />
+      <jump line="32" column="0" filename="$USER_HOME$/workspace/entertainment-api/ExternalApi-AcceptanceTests/src/test/java/com/ovi/music/externalapi/creators/recommendations/SimilarCreatorsAT.java" />
+      <jump line="64" column="11" filename="$USER_HOME$/workspace/entertainment-api/ExternalApi-AcceptanceTests/src/test/java/com/ovi/music/externalapi/creators/recommendations/SimilarCreatorsAT.java" />
+      <jump line="114" column="102" filename="$USER_HOME$/workspace/entertainment-api/ExternalApi-AcceptanceTests/src/test/java/com/ovi/music/externalapi/creators/recommendations/SimilarCreatorsAT.java" />
+      <jump line="104" column="14" filename="$USER_HOME$/workspace/entertainment-api/ExternalApi-AcceptanceTests/src/test/java/com/ovi/music/externalapi/creators/recommendations/SimilarCreatorsAT.java" />
+      <jump line="70" column="45" filename="$USER_HOME$/workspace/entertainment-api/ExternalApi-Common/src/main/java/com/ovi/music/externalapi/common/thirdparty/thefilter/TheFilterSimilarCreatorsService.java" />
+      <jump line="25" column="66" filename="$USER_HOME$/workspace/entertainment-api/ExternalApi-AcceptanceTests/src/test/java/com/ovi/music/externalapi/creators/recommendations/SimilarCreatorsAT.java" />
+      <jump line="77" column="0" filename="$USER_HOME$/workspace/entertainment-api/ExternalApi-Resource-Views/src/main/resources/viewsContext.xml" />
+      <jump line="118" column="3" filename="$USER_HOME$/workspace/entertainment-api/ExternalApi-Resource-Views/src/main/resources/viewsContext.xml" />
+      <jump line="119" column="48" filename="$USER_HOME$/workspace/entertainment-api/ExternalApi-Resource-Views/src/main/resources/viewsContext.xml" />
+      <jump line="200" column="19" filename="$USER_HOME$/workspace/entertainment-api/ExternalApi-AcceptanceTests/src/test/java/com/ovi/music/externalapi/views/MusicArtistViewAT.java" />
+      <jump line="47" column="19" filename="$USER_HOME$/workspace/entertainment-api/ExternalApi-AcceptanceTests/src/test/java/com/ovi/music/externalapi/views/MusicArtistViewAT.java" />
+      <jump line="165" column="48" filename="$USER_HOME$/workspace/entertainment-api/ExternalApi-AcceptanceTests/src/test/java/com/ovi/music/externalapi/views/MusicArtistViewAT.java" />
+      <jump line="204" column="21" filename="$USER_HOME$/workspace/entertainment-api/ExternalApi-AcceptanceTests/src/test/java/com/ovi/music/externalapi/views/MusicArtistViewAT.java" />
+      <jump line="51" column="21" filename="$USER_HOME$/workspace/entertainment-api/ExternalApi-AcceptanceTests/src/test/java/com/ovi/music/externalapi/views/MusicArtistViewAT.java" />
+      <jump line="96" column="28" filename="$USER_HOME$/workspace/entertainment-api/ExternalApi-AcceptanceTests/src/test/java/com/ovi/music/externalapi/views/MusicArtistViewAT.java" />
+      <jump line="115" column="27" filename="$USER_HOME$/workspace/entertainment-api/ExternalApi-AcceptanceTests/src/test/java/com/ovi/music/externalapi/creators/recommendations/SimilarCreatorsAT.java" />
+      <jump line="158" column="58" filename="$USER_HOME$/workspace/entertainment-api/ExternalApi-AcceptanceTests/src/test/java/com/ovi/music/externalapi/util/ExternalApiHelper.java" />
+      <jump line="29" column="8" filename="$USER_HOME$/workspace/entertainment-api/ExternalApi-AcceptanceTests/src/test/java/com/ovi/music/externalapi/creators/recommendations/SimilarCreatorsAT.java" />
+      <jump line="117" column="54" filename="$USER_HOME$/workspace/entertainment-api/ExternalApi-AcceptanceTests/src/test/java/com/ovi/music/externalapi/creators/recommendations/SimilarCreatorsAT.java" />
+      <jump line="34" column="26" filename="$USER_HOME$/workspace/entertainment-api/ExternalApi-AcceptanceTests/src/test/java/com/ovi/music/externalapi/views/MusicArtistViewAT.java" />
+      <jump line="27" column="32" filename="$USER_HOME$/workspace/entertainment-api/ExternalApi-AcceptanceTests/src/test/java/com/ovi/music/externalapi/creators/recommendations/SimilarCreatorsAT.java" />
+      <jump line="42" column="8" filename="$USER_HOME$/workspace/entertainment-api/ExternalApi-AcceptanceTests/src/test/java/com/ovi/music/externalapi/views/MusicArtistViewAT.java" />
+      <jump line="95" column="84" filename="$USER_HOME$/workspace/entertainment-api/ExternalApi-AcceptanceTests/src/test/java/com/ovi/music/externalapi/creators/recommendations/SimilarCreatorsAT.java" />
+      <jump line="52" column="28" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.1.3/httpcore-4.1.3-sources.jar!/org/apache/http/HttpStatus.java" />
+      <jump line="164" column="48" filename="$USER_HOME$/workspace/entertainment-api/ExternalApi-AcceptanceTests/src/test/java/com/ovi/music/externalapi/views/MusicArtistViewAT.java" />
+      <jump line="118" column="55" filename="$USER_HOME$/workspace/entertainment-api/ExternalApi-AcceptanceTests/src/test/java/com/ovi/music/externalapi/creators/recommendations/SimilarCreatorsAT.java" />
+      <jump line="39" column="63" filename="$USER_HOME$/workspace/entertainment-api/ExternalApi-Common/src/main/java/com/ovi/music/externalapi/common/thirdparty/thefilter/TheFilterSimilarCreatorsService.java" />
+      <jump line="13" column="3" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/resources/sql/environmentsetup.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/resources/sql/environmentsetup.sql" />
-      <jump line="104" column="56" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/ddex/DdexDeal.java" />
-      <jump line="94" column="117" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/ddex/DdexDeal.java" />
-      <jump line="70" column="25" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/ddex/DdexDeal.java" />
-      <jump line="17" column="27" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/generic/GenericOfferingTypeCollection.java" />
-      <jump line="48" column="91" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/generic/GenericXmlObject.java" />
-      <jump line="28" column="29" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/generic/GenericOfferingTypeCollection.java" />
-      <jump line="116" column="17" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/target/generated-sources/jaxb/com/nokia/ent/ddexinterpreter/types/ddex/ddexern/NewReleaseMessage.java" />
-      <jump line="220" column="45" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/ddex/DdexObject.java" />
-      <jump line="32" column="56" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/generic/GenericTrack.java" />
-      <jump line="50" column="26" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/generic/GenericTrack.java" />
-      <jump line="51" column="49" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/generic/GenericTrack.java" />
-      <jump line="53" column="43" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/generic/GenericTrack.java" />
-      <jump line="12" column="59" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/generic/GenericOfferingType.java" />
-      <jump line="35" column="47" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/generic/GenericOfferingTypeCollection.java" />
-      <jump line="41" column="62" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/generic/GenericOfferingTypeCollection.java" />
-      <jump line="12" column="67" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/generic/GenericCollectionOfferingType.java" />
-      <jump line="34" column="61" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/generic/GenericTrack.java" />
-      <jump line="37" column="68" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/generic/GenericTrack.java" />
-      <jump line="36" column="44" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/converter/model/generic/GenericTrackTest.java" />
-      <jump line="30" column="41" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/generic/GenericArtistsCollection.java" />
-      <jump line="39" column="48" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/generic/GenericTrack.java" />
-      <jump line="52" column="28" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/generic/GenericMediaItems.java" />
-      <jump line="38" column="18" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/generic/GenericAbstractOfferingType.java" />
-      <jump line="39" column="23" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/generic/GenericAbstractOfferingType.java" />
-      <jump line="61" column="24" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/generic/GenericAbstractOfferingType.java" />
-      <jump line="55" column="43" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/generic/GenericAbstractOfferingType.java" />
-      <jump line="54" column="6" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/generic/GenericAbstractOfferingType.java" />
-      <jump line="74" column="0" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/generic/GenericAbstractOfferingType.java" />
-      <jump line="3" column="54" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/ddex/DdexPriceInformation.java" />
-      <jump line="30" column="18" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/generic/GenericOfferingType.java" />
-      <jump line="13" column="52" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/generic/GenericOfferingType.java" />
-      <jump line="39" column="57" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/generic/GenericTrackOfferings.java" />
-      <jump line="15" column="36" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/generic/GenericAbstractOfferingType.java" />
-      <jump line="21" column="13" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/JaxbDdexMapper.java" />
-      <jump line="32" column="13" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/converter/JaxbDdexMapperTest.java" />
-      <jump line="22" column="30" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/generic/GenericAbstractOfferingType.java" />
-      <jump line="23" column="76" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/generic/GenericOfferingType.java" />
-      <jump line="24" column="39" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/generic/GenericOfferingType.java" />
-      <jump line="329" column="12" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/target/generated-sources/jaxb/com/nokia/ent/ddexinterpreter/types/generic/CountryCodeString.java" />
-      <jump line="25" column="13" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/generic/GenericOfferingType.java" />
-      <jump line="40" column="21" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/converter/model/generic/GenericOfferingTypeTest.java" />
-      <jump line="41" column="60" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/converter/model/generic/GenericOfferingTypeTest.java" />
-      <jump line="84" column="24" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/generic/GenericAbstractOfferingType.java" />
-      <jump line="18" column="59" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/resources/complete.multitrack.xml.example/generic.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/resources/complete.multitrack.xml.example/generic.xml" />
-      <jump line="73" column="54" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/remote/SqlServerArchiveService.java" />
-      <jump line="21" column="13" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/remote/dao/SqlServerSonyArchiveDAO.java" />
-      <jump line="84" column="26" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/remote/dao/SqlServerSonyArchiveDAO.java" />
-      <jump line="72" column="20" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/remote/SqlServerArchiveService.java" />
-      <jump line="99" column="17" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/remote/SqlServerArchiveServiceTest.java" />
-      <jump line="42" column="8" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/remote/SqlServerArchiveServiceTest.java" />
-      <jump line="55" column="8" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/remote/SqlServerArchiveServiceTest.java" />
-      <jump line="67" column="13" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-acceptancetest/src/test/java/com/nokia/ent/ddexinterpreter/rest/EndToEndAT.java" />
-      <jump line="149" column="69" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-acceptancetest/src/test/java/com/nokia/ent/ddexinterpreter/rest/EndToEndAT.java" />
-      <jump line="150" column="76" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-acceptancetest/src/test/java/com/nokia/ent/ddexinterpreter/rest/EndToEndAT.java" />
-      <jump line="151" column="67" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-acceptancetest/src/test/java/com/nokia/ent/ddexinterpreter/rest/EndToEndAT.java" />
-      <jump line="56" column="38" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/JaxbDdexMapper.java" />
-      <jump line="60" column="45" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/converter/model/generic/GenericOfferingTypeTest.java" />
-      <jump line="71" column="21" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/converter/model/generic/GenericOfferingTypeTest.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/converter/model/generic/GenericOfferingTypeTest.java" />
-      <jump line="39" column="39" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-acceptancetest/src/test/java/com/nokia/ent/ddexinterpreter/rest/EndToEndAT.java" />
-      <jump line="31" column="37" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/JaxbDdexMapper.java" />
-      <jump line="32" column="35" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/JaxbDdexMapper.java" />
-      <jump line="63" column="20" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/ddex/DdexObject.java" />
-      <jump line="47" column="39" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/generic/GenericXmlObject.java" />
-      <jump line="36" column="44" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/generic/GenericVolumeCollection.java" />
-      <jump line="29" column="46" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/generic/GenericVolume.java" />
-      <jump line="22" column="13" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/ddex/DdexObject.java" />
-      <jump line="98" column="0" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-acceptancetest/src/test/java/com/nokia/ent/ddexinterpreter/rest/EndToEndAT.java" />
-      <jump line="82" column="24" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/rest/beans/FileStoreBean.java" />
-      <jump line="32" column="18" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/rest/beans/FileStoreBean.java" />
-      <jump line="173" column="24" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/control/PollingDdexProcessor.java" />
-      <jump line="45" column="29" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/control/PollingDdexProcessor.java" />
-      <jump line="152" column="63" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-acceptancetest/src/test/java/com/nokia/ent/ddexinterpreter/rest/EndToEndAT.java" />
-      <jump line="83" column="22" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/control/PollingDdexProcessor.java" />
-      <jump line="127" column="7" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-acceptancetest/src/test/java/com/nokia/ent/ddexinterpreter/rest/EndToEndAT.java" />
-      <jump line="78" column="38" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/io/FileSystemNetworkManager.java" />
-      <jump line="308" column="19" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/io/FileSystemNetworkManager.java" />
-      <jump line="155" column="18" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/io/FileSystemNetworkManager.java" />
-      <jump line="77" column="27" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/io/AbstractFileSystemFileStore.java" />
-      <jump line="95" column="35" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/io/FileSystemNetworkManager.java" />
-      <jump line="75" column="13" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/io/FileSystemNetworkManager.java" />
-      <jump line="353" column="0" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/io/FileSystemNetworkManager.java" />
-      <jump line="59" column="82" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/io/FileSystemNetworkManager.java" />
+      <jump line="30" column="48" filename="$USER_HOME$/workspace/entertainment-api/ExternalApi-Common/src/test/java/com/ovi/music/externalapi/common/thirdparty/thefilter/TheFilterSimilarCreatorsServiceTest.java" />
+      <jump line="50" column="57" filename="$USER_HOME$/workspace/entertainment-api/ExternalApi-Common/src/main/java/com/ovi/music/externalapi/common/thirdparty/thefilter/TheFilterSimilarCreatorsService.java" />
+      <jump line="62" column="8" filename="$USER_HOME$/workspace/entertainment-api/ExternalApi-Common/src/test/java/com/ovi/music/externalapi/common/thirdparty/thefilter/TheFilterSimilarCreatorsServiceTest.java" />
+      <jump line="39" column="19" filename="$USER_HOME$/workspace/entertainment-api/ExternalApi-Common/src/test/java/com/ovi/music/externalapi/common/thirdparty/thefilter/TheFilterSimilarCreatorsServiceTest.java" />
+      <jump line="55" column="25" filename="$USER_HOME$/workspace/entertainment-api/ExternalApi-Common/src/test/java/com/ovi/music/externalapi/common/thirdparty/thefilter/TheFilterSimilarCreatorsServiceTest.java" />
+      <jump line="112" column="41" filename="$USER_HOME$/workspace/entertainment-api/ExternalApi-Common/src/test/java/com/ovi/music/externalapi/common/thirdparty/thefilter/TheFilterSimilarCreatorsServiceTest.java" />
+      <jump line="37" column="24" filename="$USER_HOME$/workspace/entertainment-api/ExternalApi-Resource-Products/src/main/java/com/ovi/music/externalapi/facade/AcquireMusicProduct.java" />
+      <jump line="50" column="25" filename="$USER_HOME$/workspace/entertainment-api/ExternalApi-Resource-Products/src/main/java/com/ovi/music/externalapi/facade/AcquireMusicProduct.java" />
+      <jump line="81" column="36" filename="$USER_HOME$/workspace/entertainment-api/ExternalApi-Common/src/main/java/com/ovi/music/externalapi/common/thirdparty/thefilter/TheFilterSimilarCreatorsService.java" />
+      <jump line="89" column="69" filename="$USER_HOME$/workspace/entertainment-api/ExternalApi-AcceptanceTests/src/test/java/com/ovi/music/externalapi/creators/recommendations/SimilarCreatorsAT.java" />
+      <jump line="29" column="32" filename="$USER_HOME$/workspace/entertainment-api/ExternalApi-Common/src/main/java/com/ovi/music/externalapi/common/thirdparty/thefilter/TheFilterSimilarCreatorsService.java" />
+      <jump line="10" column="76" filename="$MAVEN_REPOSITORY$/com/ovi/music/thefilter/TheFilter-Client/0.0.15/TheFilter-Client-0.0.15-sources.jar!/com/ovi/music/thefilter/client/rest/TheFilterRecommendationsRestEasyClient.java" />
+      <jump line="7" column="22" filename="$MAVEN_REPOSITORY$/com/ovi/music/thefilter/TheFilter-Client/0.0.15/TheFilter-Client-0.0.15-sources.jar!/com/ovi/music/thefilter/client/rest/AbstractTheFilterRestEasyClient.java" />
+      <jump line="64" column="48" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/DealDateFinder.java" />
+      <jump line="105" column="31" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/DealDateFinder.java" />
+      <jump line="101" column="13" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/ddex/DdexSoundRecording.java" />
+      <jump line="133" column="0" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/ddex/DdexSoundRecording.java" />
+      <jump line="115" column="12" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/ddex/DdexSoundRecording.java" />
+      <jump line="99" column="8" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/ddex/DdexSoundRecording.java" />
+      <jump line="106" column="24" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/ddex/DdexSoundRecording.java" />
+      <jump line="57" column="57" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/DealDateFinder.java" />
+      <jump line="15" column="22" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/generic/GenericAbstractOffering.java" />
+      <jump line="6" column="0" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/generic/GenericAbstractOffering.java" />
+      <jump line="72" column="33" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/DealDateFinder.java" />
+      <jump line="115" column="0" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/DealDateFinder.java" />
+      <jump line="40" column="36" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/ddex/DdexDeal.java" />
+      <jump line="39" column="20" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/ddex/DdexDealTerms.java" />
+      <jump line="42" column="44" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/ddex/DdexDealTerms.java" />
+      <jump line="38" column="21" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/ddex/DdexDealTerms.java" />
+      <jump line="60" column="36" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/converter/model/ddex/DdexDealTest.java" />
+      <jump line="78" column="34" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/converter/model/ddex/DdexDealTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="16">
-        <text><![CDATA[&#32;]]></text>
+        <text><![CDATA[dealTerms]]></text>
       </register>
       <register name="b" type="4">
         <keys>
-          <key char="99" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
+          <key char="64" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="94" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
           <key char="106" code="0" mods="0" />
           <key char="94" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="94" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="94" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="94" code="0" mods="0" />
+          <key char="80" code="0" mods="0" />
+          <key char="94" code="0" mods="0" />
+          <key char="126" code="0" mods="0" />
+          <key char="126" code="0" mods="0" />
+          <key char="126" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="127" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
         </keys>
       </register>
       <register name="a" type="4">
         <keys>
+          <key char="102" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="94" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="94" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="94" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="94" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="94" code="0" mods="0" />
+          <key char="80" code="0" mods="0" />
+          <key char="94" code="0" mods="0" />
+          <key char="126" code="0" mods="0" />
+          <key char="126" code="0" mods="0" />
+          <key char="126" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="127" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
         </keys>
       </register>
       <register name="k" type="4">
         <keys />
       </register>
       <register name="/" type="4">
-        <text><![CDATA[pre]]></text>
+        <text><![CDATA[$]]></text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -789,97 +758,98 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text><![CDATA[deal.getDealTerms().getPriceInformation()]]></text>
+        <text><![CDATA["cym"]]></text>
       </register>
-      <register name="3" type="16">
-        <text><![CDATA["]]></text>
+      <register name="3" type="2">
+        <text><![CDATA[&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;when(mockPriceInformation.get)&#10;]]></text>
       </register>
-      <register name="2" type="16">
-        <text><![CDATA[,]]></text>
+      <register name="2" type="2">
+        <text><![CDATA[&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;mockDealTerms.isP&#10;]]></text>
       </register>
       <register name="1" type="16">
-        <text><![CDATA[&#32;]]></text>
+        <text><![CDATA[dealTerms]]></text>
       </register>
-      <register name="0" type="2">
-        <text><![CDATA[&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;Diff&#32;xmlDiff&#32;=&#32;getXMLDiff(completedFileResponse.getContent(),&#32;genericXmlAsString);&#10;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;Assert.assertTrue(xmlDiff.toString(),&#32;xmlDiff.similar());&#10;]]></text>
+      <register name="0" type="16">
+        <text><![CDATA[&#32;true&#32;if&#32;the&#32;price&#32;information&#32;is&#32;set&#32;on&#32;this&#32;DdexDealTerms]]></text>
       </register>
-      <register name="7" type="16">
-        <text><![CDATA[0]]></text>
+      <register name="7" type="2">
+        <text><![CDATA[&#32;&#32;&#32;&#32;/**&#10;&#32;&#32;&#32;&#32;&#32;*&#32;Returns&#32;the&#32;price&#32;information&#10;&#32;&#32;&#32;&#32;&#32;*&#32;@return&#32;the&#32;price&#32;information&#10;&#32;&#32;&#32;&#32;&#32;*/&#10;&#32;&#32;&#32;&#32;public&#32;DdexPrice&#32;getPrice()&#32;{&#10;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;if&#32;(terms.getPriceInformation()&#32;==&#32;null)&#32;{&#10;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;return&#32;null;&#10;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;}&#10;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;return&#32;new&#32;DdexPrice(terms.getPriceInformation());&#10;&#32;&#32;&#32;&#32;}&#10;]]></text>
       </register>
-      <register name="6" type="16">
-        <text><![CDATA[1]]></text>
-      </register>
-      <register name="5" type="16">
-        <text><![CDATA[0]]></text>
+      <register name="6" type="2">
+        <text><![CDATA[&#10;]]></text>
       </register>
       <register name="q" type="4">
         <keys />
       </register>
-      <register name="4" type="16">
-        <text><![CDATA[1]]></text>
+      <register name="5" type="268435472">
+        <text><![CDATA[getPriceInformation()]]></text>
+      </register>
+      <register name="4" type="2">
+        <text><![CDATA[&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;when(mockDealTerms.g)&#10;]]></text>
       </register>
       <register name=":" type="4">
-        <text><![CDATA[q]]></text>
+        <text><![CDATA[w]]></text>
       </register>
       <register name="9" type="16">
-        <text><![CDATA[0]]></text>
+        <text><![CDATA[j]]></text>
       </register>
-      <register name="8" type="16">
-        <text><![CDATA[8]]></text>
+      <register name="8" type="2">
+        <text><![CDATA[&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;return&#32;getDealTerms().getPrice()&#32;&#33;=&#32;null;&#10;]]></text>
       </register>
     </registers>
     <search>
-      <last-search><![CDATA[pre]]></last-search>
+      <last-search><![CDATA[\<getAllReleaseCodesForDeals\>]]></last-search>
       <last-offset />
-      <last-pattern><![CDATA[pre]]></last-pattern>
-      <last-replace><![CDATA[offeringsType]]></last-replace>
-      <last-substitute><![CDATA[result]]></last-substitute>
+      <last-pattern><![CDATA[$]]></last-pattern>
+      <last-replace><![CDATA[,]]></last-replace>
+      <last-substitute><![CDATA[$]]></last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry><![CDATA[fromFile]]></entry>
-        <entry><![CDATA[toFile]]></entry>
-        <entry><![CDATA[TechnicalSoundRe]]></entry>
-        <entry><![CDATA[SoundRecodingDetails]]></entry>
-        <entry><![CDATA[SoundRecording]]></entry>
-        <entry><![CDATA[\<SoundRecordingDetailsByTerritory\>]]></entry>
-        <entry><![CDATA[Technical]]></entry>
-        <entry><![CDATA[\<getTechDetails\>]]></entry>
-        <entry><![CDATA[\<getMessageHeader\>]]></entry>
-        <entry><![CDATA[UK]]></entry>
-        <entry><![CDATA[GB]]></entry>
-        <entry><![CDATA[Null]]></entry>
-        <entry><![CDATA[null]]></entry>
-        <entry><![CDATA[\<setupProvidersForArchive\>]]></entry>
-        <entry><![CDATA[Emi]]></entry>
-        <entry><![CDATA[processMultiT]]></entry>
-        <entry><![CDATA[\<outputFolderDateFormat\>]]></entry>
-        <entry><![CDATA[\<getDeliveryDate\>]]></entry>
-        <entry><![CDATA[\<findDdexFiles\>]]></entry>
-        <entry><![CDATA[pre]]></entry>
+        <entry><![CDATA[SimilarCreatorsSer]]></entry>
+        <entry><![CDATA[logging]]></entry>
+        <entry><![CDATA[star]]></entry>
+        <entry><![CDATA[it]]></entry>
+        <entry><![CDATA[Ca]]></entry>
+        <entry><![CDATA[Ass]]></entry>
+        <entry><![CDATA[in]]></entry>
+        <entry><![CDATA[#]]></entry>
+        <entry><![CDATA[ViewsBean]]></entry>
+        <entry><![CDATA[\<homeUrl\>]]></entry>
+        <entry><![CDATA[\<getWithConsumerAuth\>]]></entry>
+        <entry><![CDATA[\<getErrorLoggingBaseUrl\>]]></entry>
+        <entry><![CDATA[\<LOGGING_SERVICE_STUB_URL\>]]></entry>
+        <entry><![CDATA[\<ERROR_LOGGING_URL\>]]></entry>
+        <entry><![CDATA[500]]></entry>
+        <entry><![CDATA[1]]></entry>
+        <entry><![CDATA[logger]]></entry>
+        <entry><![CDATA[Logger]]></entry>
+        <entry><![CDATA[\<getAllReleaseCodesForDeals\>]]></entry>
+        <entry><![CDATA[$]]></entry>
       </history-search>
       <history-cmd>
-        <entry><![CDATA[set&#32;nu]]></entry>
-        <entry><![CDATA[vs]]></entry>
-        <entry><![CDATA[s]]></entry>
-        <entry><![CDATA[%s/RuntimeException/UncheckedException/g]]></entry>
-        <entry><![CDATA[;w]]></entry>
+        <entry><![CDATA[%s/4.2.single.resource.release/complete.xml.examples/]]></entry>
+        <entry><![CDATA['<,'>/1/2/g]]></entry>
+        <entry><![CDATA['<,'>s/\/\//*/]]></entry>
+        <entry><![CDATA['<,'>s/1/2/f]]></entry>
+        <entry><![CDATA['<,'>s/2/3/g]]></entry>
+        <entry><![CDATA['<,'>/2/3/g]]></entry>
+        <entry><![CDATA['<,'>s/1/3/g]]></entry>
+        <entry><![CDATA['<,'>s/aLaCarte/nmu]]></entry>
+        <entry><![CDATA[sw]]></entry>
         <entry><![CDATA[ew]]></entry>
-        <entry><![CDATA[%s/Provider.SONY/"Sony"/g]]></entry>
-        <entry><![CDATA[2]]></entry>
+        <entry><![CDATA[48]]></entry>
         <entry><![CDATA[e]]></entry>
-        <entry><![CDATA[w:w]]></entry>
-        <entry><![CDATA[.,.+21w]]></entry>
-        <entry><![CDATA['<,'>s/result/track/g]]></entry>
-        <entry><![CDATA['<,'>s/result/offeringType/g]]></entry>
-        <entry><![CDATA['<,'>s/offering/offeringType]]></entry>
-        <entry><![CDATA['<,'>s/result/offeringsType]]></entry>
-        <entry><![CDATA[ewq]]></entry>
+        <entry><![CDATA[;q]]></entry>
+        <entry><![CDATA[q]]></entry>
+        <entry><![CDATA['<,'>s/1/2/g]]></entry>
+        <entry><![CDATA['<,'>s/$/,$/]]></entry>
+        <entry><![CDATA['<,'>s/$/,/]]></entry>
+        <entry><![CDATA[132]]></entry>
         <entry><![CDATA[wq]]></entry>
         <entry><![CDATA[w]]></entry>
-        <entry><![CDATA[q]]></entry>
       </history-cmd>
       <history-expr />
       <history-input />

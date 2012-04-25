@@ -36,4 +36,5 @@ let NERDTreeDirArrows=1
 
 " PrettyXml
 source ~/.vim/prettyxml
-
+" PrettyJson
+source ~/.vim/prettyjson

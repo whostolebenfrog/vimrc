@@ -19,6 +19,9 @@
   <action id="CheckinProject" />
   <action id="ClassNameCompletion" />
   <action id="ClearCase.CheckInProject" />
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="control R" second-keystroke="control Q" />
+  </action>
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="control R" second-keystroke="control W" />
   </action>

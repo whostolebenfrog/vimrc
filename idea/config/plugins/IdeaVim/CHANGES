@@ -1,6 +1,6 @@
 History of changes for IdeaVim for IntellIJ platform version 110.0
 
-0.22.90 from 0.8.4
+0.23.93 from 0.8.4
 Bug Fixes
 - The Escape key is passed up to IDEA if not used by VIM first. This fix solves
   minor issues such as not being able to clear highlighted text using the
