@@ -1,56 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <versions>
-  <component name="ActionMacroManager" version="1335273255905" />
-  <component name="CachedDictionaryState" version="1335347725068" />
-  <component name="CodeInsightSettings" version="1335273255907" />
-  <component name="CodeStyleSchemes" version="1335273255907" />
-  <component name="CommunityFileTypes" version="1335273255910" />
-  <component name="DaemonCodeAnalyzerSettings" version="1335273255911" />
+  <component name="ActionMacroManager" version="1335967836128" />
+  <component name="CachedDictionaryState" version="1335967836130" />
+  <component name="CodeInsightSettings" version="1335967836130" />
+  <component name="CodeStyleSchemes" version="1335967836130" />
+  <component name="CommunityFileTypes" version="1335967836135" />
+  <component name="DaemonCodeAnalyzerSettings" version="1335967836136" />
   <component name="DebuggerSettings" version="1335273255911" />
-  <component name="DimensionService" version="1335348935172" />
-  <component name="EditorColorsManagerImpl" version="1335273255911" />
-  <component name="EditorSettings" version="1335273255912" />
-  <component name="Encoding" version="1335273255912" />
-  <component name="FeatureUsageStatistics" version="1335349745446" />
-  <component name="FileBasedIndex" version="1335273255913" />
-  <component name="FindSettings" version="1335348935172" />
-  <component name="GeneralSettings" version="1335273255913" />
-  <component name="Git.Application.Settings" version="1335273255913" />
-  <component name="GithubSettings" version="1335276186683" />
-  <component name="GlobalAntConfiguration" version="1335273255913" />
-  <component name="HttpConfigurable" version="1335273255914" />
+  <component name="DimensionService" version="1335967836136" />
+  <component name="EditorColorsManagerImpl" version="1335967836136" />
+  <component name="EditorSettings" version="1335967836137" />
+  <component name="Encoding" version="1335967836137" />
+  <component name="FeatureUsageStatistics" version="1336044675426" />
+  <component name="FileBasedIndex" version="1335967836137" />
+  <component name="FindSettings" version="1335967836137" />
+  <component name="GeneralSettings" version="1335967836138" />
+  <component name="Git.Application.Settings" version="1335967836138" />
+  <component name="GithubSettings" version="1336035450017" />
+  <component name="GlobalAntConfiguration" version="1335967836138" />
+  <component name="HttpConfigurable" version="1335967836138" />
   <component name="Images.OptionsManager" version="1333624589057" />
-  <component name="KeymapManager" version="1335273255915" />
-  <component name="LafManager" version="1335273255915" />
-  <component name="LanguageInjectionConfiguration" version="1335273255916" />
+  <component name="KeymapManager" version="1335967836140" />
+  <component name="LafManager" version="1335967836140" />
+  <component name="LanguageInjectionConfiguration" version="1335967836141" />
   <component name="MavenServices" version="1334853368450" />
   <component name="NodeRendererSettings" version="1335273255916" />
-  <component name="NotificationConfiguration" version="1335349272801" />
-  <component name="PasswordDatabase" version="1334852118157" />
-  <component name="PathMacrosImpl" version="1335273255916" />
-  <component name="PluginManagerConfigurable" version="1335273255917" />
-  <component name="ProjectJdkTable" version="1335273255917" />
-  <component name="ProjectManager" version="1335273255921" />
-  <component name="PropertiesComponent" version="1335273255921" />
-  <component name="RecentProjectsManager" version="1335274678260" />
-  <component name="RefactoringSettings" version="1335273255921" />
-  <component name="Registry" version="1335273255921" />
-  <component name="RunnerLayoutSettings" version="1335348076427" />
-  <component name="StatisticsApplicationUsages" version="1335273255923" />
-  <component name="TemplateSettings" version="1335273255923" />
-  <component name="TodoConfiguration" version="1335273255923" />
-  <component name="UISettings" version="1335273255924" />
-  <component name="UpdatesConfigurable" version="1335273255924" />
-  <component name="UsageTrigger" version="1335349660480" />
-  <component name="UsagesStatistic" version="1335273255926" />
+  <component name="NotificationConfiguration" version="1336043578314" />
+  <component name="PasswordDatabase" version="1335433883516" />
+  <component name="PathMacrosImpl" version="1335967836141" />
+  <component name="PluginManagerConfigurable" version="1335967836141" />
+  <component name="ProjectJdkTable" version="1335967836142" />
+  <component name="ProjectManager" version="1335967836149" />
+  <component name="PropertiesComponent" version="1336039834389" />
+  <component name="RecentProjectsManager" version="1335968183186" />
+  <component name="RefactoringSettings" version="1336034912359" />
+  <component name="Registry" version="1335967836149" />
+  <component name="RunnerLayoutSettings" version="1335968615598" />
+  <component name="StatisticsApplicationUsages" version="1335967855137" />
+  <component name="TemplateSettings" version="1335968183186" />
+  <component name="TodoConfiguration" version="1335967836150" />
+  <component name="UISettings" version="1335967836150" />
+  <component name="UpdatesConfigurable" version="1335967836151" />
+  <component name="UsageTrigger" version="1336043578317" />
+  <component name="UsagesStatistic" version="1335967836152" />
   <component name="ViewsSettings" version="1335273255926" />
-  <component name="VimSettings" version="1335349660481" />
-  <component name="WindowManager" version="1335273255929" />
+  <component name="VimSettings" version="1336050879413" />
+  <component name="WindowManager" version="1335967836160" />
   <component name="XDebuggerSettings" version="1335273255930" />
-  <component name="XPathView.XPathViewPlugin" version="1335273255930" />
-  <component name="XSLT-Support.Configuration" version="1335273255930" />
-  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl" version="1335273255932" />
-  <component name="com.intellij.javaee.ExternalResourceManagerImpl" version="1335273255932" />
-  <component name="com.intellij.openapi.diff.impl.external.DiffManagerImpl" version="1335273255932" />
+  <component name="XPathView.XPathViewPlugin" version="1335967836160" />
+  <component name="XSLT-Support.Configuration" version="1335967836160" />
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl" version="1335967836163" />
+  <component name="com.intellij.javaee.ExternalResourceManagerImpl" version="1335967836163" />
+  <component name="com.intellij.openapi.diff.impl.external.DiffManagerImpl" version="1335967836163" />
 </versions>
 

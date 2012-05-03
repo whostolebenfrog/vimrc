@@ -38,3 +38,6 @@ let NERDTreeDirArrows=1
 source ~/.vim/prettyxml
 " PrettyJson
 source ~/.vim/prettyjson
+
+" Ctrl-P
+set wildignore+=*/.idea/*,*.swp,*/target/*
