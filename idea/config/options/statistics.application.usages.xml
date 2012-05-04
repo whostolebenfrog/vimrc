@@ -25,7 +25,7 @@
       <project id="ddex-interpreter-parent" values="Eclipse,UNKNOWN,JAVA,XML,PLAIN_TEXT,Properties,IDEA_MODULE,ARCHIVE,CLASS" />
       <project id="http-status-codes" values="Eclipse,UNKNOWN,PLAIN_TEXT,IDEA_MODULE,XML,JAVA" />
       <project id="effective-java" values="JAVA,Eclipse,XML,IDEA_MODULE,UNKNOWN" />
-      <project id="ExternalApi-Service" values="Properties,PLAIN_TEXT,XML,IDEA_MODULE,JAVA,ARCHIVE,UNKNOWN" />
+      <project id="ExternalApi-Service" values="XML,PLAIN_TEXT,Properties,JAVA,UNKNOWN,ARCHIVE,IDEA_MODULE" />
     </group>
     <group name="run-configuration-type-temp">
       <project id="ddex-interpreter-parent" values="JUnit" />
@@ -37,8 +37,8 @@
     <counts>
       <entry feature="execute.Application.Debug" count="2" />
       <entry feature="execute.Application.Run" count="22" />
-      <entry feature="execute.JUnit.Debug" count="198" />
-      <entry feature="execute.JUnit.Run" count="941" />
+      <entry feature="execute.JUnit.Debug" count="201" />
+      <entry feature="execute.JUnit.Run" count="962" />
       <entry feature="execute.Remote.Debug" count="20" />
     </counts>
   </component>

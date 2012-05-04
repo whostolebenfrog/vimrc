@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <application>
   <component name="NotificationConfiguration">
-    <notification groupId="Compiler" displayType="NONE" />
     <notification groupId="Test Runner" displayType="NONE" />
+    <notification groupId="Compiler" displayType="NONE" />
     <notification groupId="Maven Import" displayType="STICKY_BALLOON" />
     <notification groupId="External Executable Critical Failures" displayType="TOOL_WINDOW" />
     <notification groupId="IDE Usage Statistics" displayType="STICKY_BALLOON" shouldLog="false" />

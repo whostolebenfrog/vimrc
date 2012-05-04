@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <versions>
   <component name="AntConfiguration" version="1336035449941" />
-  <component name="ChangeListManager" version="1336044301913" />
+  <component name="ChangeListManager" version="1336128880813" />
   <component name="ChangesViewManager" version="1335967855041" />
   <component name="CompilerConfiguration" version="1335967855042" />
   <component name="CreatePatchCommitExecutor" version="1335967855042" />
@@ -10,7 +10,7 @@
   <component name="Encoding" version="1335967855042" />
   <component name="EntryPointsManager" version="1335968183031" />
   <component name="FavoritesManager" version="1335967855042" />
-  <component name="FileEditorManager" version="1336050879292" />
+  <component name="FileEditorManager" version="1336119180545" />
   <component name="FindManager" version="1336033759934" />
   <component name="Git.Settings" version="1335967855043" />
   <component name="IdeDocumentHistory" version="1336044301915" />
@@ -25,17 +25,17 @@
   <component name="ProjectReloadState" version="1335967855063" />
   <component name="ProjectResources" version="1336033759937" />
   <component name="ProjectRootManager" version="1335967855063" />
-  <component name="ProjectView" version="1336044800331" />
+  <component name="ProjectView" version="1336128880823" />
   <component name="PropertiesComponent" version="1336037922292" />
   <component name="RunManager" version="1336038307288" />
   <component name="ShelveChangesManager" version="1335967855071" />
   <component name="TaskManager" version="1335967855072" />
-  <component name="ToolWindowManager" version="1336044007325" />
+  <component name="ToolWindowManager" version="1336128880825" />
   <component name="VcsContentAnnotationSettings" version="1335967855073" />
   <component name="VcsDirectoryMappings" version="1335967855073" />
   <component name="VcsManagerConfiguration" version="1335967855073" />
   <component name="XDebuggerManager" version="1335967855073" />
   <component name="antWorkspaceConfiguration" version="1336035449947" />
-  <component name="editorHistoryManager" version="1336050879317" />
+  <component name="editorHistoryManager" version="1336119180554" />
 </versions>
 

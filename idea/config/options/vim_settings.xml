@@ -36,11 +36,16 @@
         <mark key="[" line="92" column="128" />
       </file>
       <file name="$USER_HOME$/workspace/pricing-ui/pricing-ui-webapp/src/main/java/com/nokia/ent/tooling/reading/pricing/FilteringFilter.java" timestamp="1336037843554" />
+      <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-acceptancetest/pom.xml" timestamp="1336125632102" />
       <file name="$USER_HOME$/workspace/pricing-ui/pricing-ui-webapp/src/test/java/com/nokia/ent/tooling/reading/pricing/at/drivers/services/YqlQueryDriver.java" timestamp="1335953860710">
         <mark key="'" line="20" column="55" />
         <mark key="]" line="23" column="67" />
         <mark key="^" line="23" column="67" />
         <mark key="[" line="23" column="67" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/github/rest-driver/rest-server-driver/1.1.18/rest-server-driver-1.1.18-sources.jar!/com/github/restdriver/serverdriver/matchers/HasJsonPath.java" timestamp="1336126987372">
+        <mark key="]" line="15" column="50" />
+        <mark key="[" line="15" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/pricing-ui/pricing-ui-webapp/src/test/resources/mock-api/yql-validation.json" timestamp="1335954051431">
         <mark key="'" line="216" column="2" />
@@ -51,14 +56,15 @@
       <file name="$USER_HOME$/workspace/pricing-ui/pricing-ui-webapp/src/main/webapp/feeds.html" timestamp="1336044500548">
         <mark key="'" line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/local/effective-java/pom.xml" timestamp="1336125699555">
+        <mark key="]" line="24" column="0" />
+        <mark key="[" line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/converter/JaxbDdexMapperTest.java" timestamp="1334766031274">
         <mark key="'" line="179" column="78" />
         <mark key="]" line="179" column="78" />
         <mark key="^" line="179" column="78" />
         <mark key="[" line="179" column="78" />
-      </file>
-      <file name="$USER_HOME$/workspace/entertainment-api/ExternalApi-Resource-SimilarCreators/src/test/java/com/ovi/music/externalapi/rest/SimilarCreatorsBeanTest.java" timestamp="1335262316609">
-        <mark key="[" line="24" column="45" />
       </file>
       <file name="$USER_HOME$/workspace/pricing-ui/pricing-ui-webapp/src/test/java/com/nokia/ent/tooling/reading/pricing/at/FeedsSeleniumTest.java" timestamp="1336036587053">
         <mark key="'" line="166" column="67" />
@@ -98,7 +104,7 @@
         <mark key="[" line="101" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/pricing-ui/pricing-ui-webapp/src/main/java/com/nokia/ent/tooling/reading/pricing/FilterServletOutputStream.java" timestamp="1336037676011" />
-      <file name="$USER_HOME$/workspace/pricing-ui/pricing-ui-webapp/src/main/webapp/js/app/controllers/feeds-controller.js" timestamp="1336050873143">
+      <file name="$USER_HOME$/workspace/pricing-ui/pricing-ui-webapp/src/main/webapp/js/app/controllers/feeds-controller.js" timestamp="1336118692825">
         <mark key="]" line="201" column="46" />
         <mark key="^" line="201" column="46" />
         <mark key="[" line="201" column="46" />
@@ -149,9 +155,6 @@
         <mark key="^" line="214" column="51" />
         <mark key="[" line="214" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1335954586672">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/resources/sql/environmentsetup.sql" timestamp="1335963287036">
         <mark key="'" line="0" column="0" />
         <mark key="]" line="96" column="23" />
@@ -166,6 +169,15 @@
         <mark key="]" line="0" column="0" />
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/local/effective-java/src/test/java/com/jsonnodes/JsonNodeTests.java" timestamp="1336127217908">
+        <mark key="]" line="133" column="83" />
+        <mark key="^" line="133" column="83" />
+        <mark key="[" line="132" column="21" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/github/rest-driver/rest-server-driver/1.1.18/rest-server-driver-1.1.18-sources.jar!/com/github/restdriver/serverdriver/matchers/HasJsonValue.java" timestamp="1336127128676">
+        <mark key="]" line="15" column="50" />
+        <mark key="[" line="15" column="8" />
+      </file>
       <file name="$USER_HOME$/workspace/entertainment-api/ExternalApi-Resource-SimilarCreators/src/main/java/com/ovi/music/externalapi/rest/SimilarCreatorsBean.java" timestamp="1335261412575">
         <mark key="'" line="30" column="63" />
         <mark key="]" line="31" column="12" />
@@ -174,13 +186,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="36" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/ddex/DdexDeal.java" />
-      <jump line="39" column="20" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/ddex/DdexDealTerms.java" />
-      <jump line="42" column="44" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/ddex/DdexDealTerms.java" />
-      <jump line="38" column="21" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/main/java/com/nokia/ent/ddexinterpreter/converter/model/ddex/DdexDealTerms.java" />
-      <jump line="60" column="36" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/converter/model/ddex/DdexDealTest.java" />
-      <jump line="78" column="34" filename="$USER_HOME$/workspace/ddex-interpreter/ddex-interpreter-service/src/test/java/com/nokia/ent/ddexinterpreter/converter/model/ddex/DdexDealTest.java" />
-      <jump line="15" column="23" filename="$USER_HOME$/workspace/local/effective-java/src/test/java/com/nokia/ben/annotations/TestExample.java" />
       <jump line="18" column="24" filename="$USER_HOME$/workspace/pricing-ui/pricing-ui-webapp/src/main/webapp/feeds.html" />
       <jump line="49" column="19" filename="$USER_HOME$/workspace/pricing-ui/pricing-ui-webapp/src/main/webapp/feeds.html" />
       <jump line="150" column="8" filename="$USER_HOME$/workspace/pricing-ui/pricing-ui-webapp/src/main/webapp/js/app/controllers/feeds-controller.js" />
@@ -274,10 +279,17 @@
       <jump line="40" column="66" filename="$USER_HOME$/workspace/pricing-ui/pricing-ui-webapp/src/test/java/com/nokia/ent/tooling/reading/pricing/at/drivers/pages/FeedsPageDriver.java" />
       <jump line="10" column="0" filename="$USER_HOME$/workspace/pricing-ui/pricing-ui-webapp/src/test/java/com/nokia/ent/tooling/reading/pricing/at/drivers/pages/FeedsPageDriver.java" />
       <jump line="36" column="29" filename="$USER_HOME$/workspace/pricing-ui/pricing-ui-webapp/src/test/java/com/nokia/ent/tooling/reading/pricing/at/drivers/pages/FeedsPageDriver.java" />
+      <jump line="20" column="16" filename="$USER_HOME$/workspace/local/effective-java/src/test/java/com/jsonnodes/JsonNodeTests.java" />
+      <jump line="5" column="24" filename="$USER_HOME$/workspace/local/effective-java/src/test/java/com/jsonnodes/JsonNodeTests.java" />
+      <jump line="137" column="53" filename="$USER_HOME$/workspace/local/effective-java/src/test/java/com/jsonnodes/JsonNodeTests.java" />
+      <jump line="111" column="37" filename="$USER_HOME$/workspace/local/effective-java/src/test/java/com/jsonnodes/JsonNodeTests.java" />
+      <jump line="136" column="32" filename="$USER_HOME$/workspace/local/effective-java/src/test/java/com/jsonnodes/JsonNodeTests.java" />
+      <jump line="133" column="13" filename="$USER_HOME$/workspace/local/effective-java/src/test/java/com/jsonnodes/JsonNodeTests.java" />
+      <jump line="135" column="41" filename="$USER_HOME$/workspace/local/effective-java/src/test/java/com/jsonnodes/JsonNodeTests.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="16">
-        <text><![CDATA[&#32;the&#32;terminoligical&#32;representation&#32;of&#32;this&#32;language&#32;code]]></text>
+      <register name="&quot;" type="2">
+        <text><![CDATA[&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;HasJsonValue&#32;val&#32;=&#32;new&#32;HasJsonValue()&#10;]]></text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -447,41 +459,41 @@
       <register name="-" type="4">
         <text><![CDATA[http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20xml%20where%20url%3D%22]]></text>
       </register>
-      <register name="3" type="16">
-        <text><![CDATA[terminoligical]]></text>
+      <register name="3" type="2">
+        <text><![CDATA[&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;HasJ&#10;]]></text>
       </register>
-      <register name="2" type="16">
-        <text><![CDATA[bibliographical]]></text>
+      <register name="2" type="2">
+        <text><![CDATA[com.github.restdriver.serverdriver.matchers.WithValueAt&#10;]]></text>
       </register>
-      <register name="1" type="16">
-        <text><![CDATA[Returnst&#32;he]]></text>
+      <register name="1" type="2">
+        <text><![CDATA[&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;HasJsonValue&#32;val&#32;=&#32;new&#32;HasJsonValue()&#10;]]></text>
       </register>
-      <register name="0" type="16">
-        <text><![CDATA[&#32;the&#32;terminoligical&#32;representation&#32;of&#32;this&#32;language&#32;code]]></text>
+      <register name="0" type="268435472">
+        <text><![CDATA[com.github.restdriver.serverdriver.matchers]]></text>
       </register>
-      <register name="7" type="268435472">
-        <text><![CDATA[feeds-uri-box]]></text>
+      <register name="7" type="16">
+        <text><![CDATA[.]]></text>
       </register>
       <register name="6" type="16">
-        <text><![CDATA[=]]></text>
+        <text><![CDATA["]]></text>
       </register>
       <register name="5" type="2">
-        <text><![CDATA[&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;public&#32;String&#32;getBibliographical()&#32;{&#10;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#10;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;}&#10;]]></text>
+        <text><![CDATA[&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;HasJsonValue&#32;val&#32;=&#32;new&#32;HasJsonValue();&#10;]]></text>
       </register>
       <register name="q" type="4">
         <keys />
       </register>
-      <register name="4" type="16">
-        <text><![CDATA[terminoligical]]></text>
+      <register name="4" type="2">
+        <text><![CDATA[&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;HasJ&#10;]]></text>
       </register>
       <register name=":" type="4">
         <text><![CDATA[w]]></text>
       </register>
-      <register name="9" type="268435472">
-        <text><![CDATA[txtUrl]]></text>
+      <register name="9" type="16">
+        <text><![CDATA["]]></text>
       </register>
       <register name="8" type="16">
-        <text><![CDATA[class]]></text>
+        <text><![CDATA[$]]></text>
       </register>
     </registers>
     <search>
