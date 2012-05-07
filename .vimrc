@@ -41,3 +41,7 @@ source ~/.vim/prettyjson
 
 " Ctrl-P
 set wildignore+=*/.idea/*,*.swp,*/target/*
+
+" UltiSnips
+let g:UltiSnipsEditSplit="vertical"
+

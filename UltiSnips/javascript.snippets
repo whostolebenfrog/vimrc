@@ -1,0 +1,11 @@
+snippet afun "AnjularJS controller $scope function" b
+$scope.${1:function_name} = function(${2:args}) {
+    ${3:// body...}
+};
+endsnippet
+
+snippet actrl "AngularJS controller definition" b
+function ${1:ControllerName}($scope${2:, ${3:arg}}) {
+    $0
+}
+endsnippet
