@@ -9,3 +9,9 @@ function ${1:ControllerName}($scope${2:, ${3:arg}}) {
     $0
 }
 endsnippet
+
+snippet aget "AngularJS $http get request" b
+$http.get(${1:'url'}).success(function(data${2:, ${3:status, headers, config}}) {
+    $0
+})${4:.error(function(data${5:, ${6:status, headers, config}}) {${7:// body...}})};
+endsnippet
