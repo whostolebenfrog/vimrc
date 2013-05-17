@@ -15,3 +15,25 @@ $http.get(${1:'url'}).success(function(data${2:, ${3:status, headers, config}}) 
     $0
 })${4:.error(function(data${5:, ${6:status, headers, config}}) {${7:// body...}})};
 endsnippet
+
+snippet aput "AngularJS $http put request" b
+$http.put(${1:'url'}, ${2:data}).success(function(data${3:, ${4:status, headers, config}}) {
+    $0
+})${5:.error(function(data${6:, ${7:status, headers, config}}) {${8:// body...}})};
+endsnippet
+
+snippet ajson "AngularJS $http JSONP get request" b
+$http.jsonp(${1:'url'}).success(function(data${2:, ${3:status, headers, config}}) {
+    $0
+})${4:.error(function(data${5:, ${6:status, headers, config}}) {${7:// body...}})};
+endsnippet
+
+snippet adel "$http delete request" b
+$http.delete(${1:'url'}).success(function(data${2:, ${3:status, headers, config}}) {
+    $0
+})${4:.error(function(data${5:, ${6:status, headers, config}}) {${7:// body...}})};
+endsnippet
+
+snippet _ "Anonymous function"
+function() {$0} 
+endsnippet
