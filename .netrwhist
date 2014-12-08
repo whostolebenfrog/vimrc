@@ -1,10 +1,5 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =8
-let g:netrw_dirhist_1='/home/ben/workspace/dbmonitor/scripts/bin'
-let g:netrw_dirhist_2='/home/ben/.emacs.d/site-lisp/third_party/PyGithub/.git'
-let g:netrw_dirhist_3='/home/ben/workspace/local/ng-cookbook/app/partials'
-let g:netrw_dirhist_4='/home/ben/workspace/clj-nokia-sso/test'
-let g:netrw_dirhist_5='/tmp/scrobbling'
-let g:netrw_dirhist_6='/etc'
-let g:netrw_dirhist_7='/home/ben/workspace/entertainment-api-bak/.idea'
-let g:netrw_dirhist_8='/home/ben/workspace/jagus/test/jagus/acceptance'
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/bgriffit/workspace/jagus'
+let g:netrw_dirhist_2='/home/bgriffit/workspace'
+let g:netrw_dirhist_3='/home/bgriffit/workspace/tyraniprops/ipmapping-prod'
