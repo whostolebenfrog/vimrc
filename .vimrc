@@ -9,7 +9,9 @@ filetype plugin indent on
 set nu
 
 " Colour scheme
-:colorscheme ansi_blows
+let g:solarized_termcolors=256
+set background=dark
+colorscheme solarized
 
 " Tab settings
 :set tabstop=4
@@ -31,6 +33,9 @@ set wildignore+=*/.idea/*,*.swp,*/target/*
 " UltiSnips
 let g:UltiSnipsEditSplit="vertical"
 
+" Rebind leader
+let mapleader=","
+
 " Go reformat
 noremap <Leader>f <ESC>mb:% !gofmt<CR>`b<ESC>zz
 
@@ -50,3 +55,5 @@ noremap <Leader>2 :call TabTwo()<CR>
 noremap <Leader>4 :call TabFour()<CR>
 
 noremap <Leader>y <ESC>vi"guvi""+yu
+
+noremap <Leader>u :! ~/workspace/standup/update<CR>
