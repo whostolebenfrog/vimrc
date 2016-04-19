@@ -8,13 +8,6 @@ filetype plugin indent on
 " Line numbers
 set nu
 
-" Play like it's not 1970
-" :behave mswin
-" source $VIMRUNTIME/mswin.vim
-
-" Remove select all from mswin in favour of increment
-" nunmap <C-A>
-
 " Colour scheme
 :colorscheme ansi_blows
 
