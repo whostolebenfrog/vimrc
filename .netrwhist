@@ -1,5 +1,8 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =3
-let g:netrw_dirhist_1='/home/bgriffit/workspace/jagus'
-let g:netrw_dirhist_2='/home/bgriffit/workspace'
-let g:netrw_dirhist_3='/home/bgriffit/workspace/tyraniprops/ipmapping-prod'
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/bgriffit/workspace/tprops/eventful-poke'
+let g:netrw_dirhist_2='/Users/bgriffit/workspace/tprops'
+let g:netrw_dirhist_3='/Users/bgriffit/workspace/tprops/onix-prod'
+let g:netrw_dirhist_4='/Users/bgriffit/workspace/tprops'
+let g:netrw_dirhist_5='/Users/bgriffit/workspace/tprops/onix-prod'
+let g:netrw_dirhist_6='/Users/bgriffit/workspace/sprops/eventful'
